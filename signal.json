@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T16:14:02.403Z",
+ "generatedAt": "2026-10-05T22:51:42.002Z",
  "pinned": [],
  "top": [
   {
@@ -10,13 +10,98 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-05T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1788
+   "score": 1721
+  },
+  {
+   "id": "076e39c91967dec50fe9d714717e7fbbf5a73bb5525dd0607dcf4c69220839e5",
+   "title": "Find the flattest route between any two points in SF",
+   "url": "https://flattensf.com",
+   "canonicalUrl": "https://flattensf.com/",
+   "domain": "flattensf.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T21:40:50.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1688
+  },
+  {
+   "id": "4b350aa2264060c3cebca2e32e0f40101f378191b3500f1e03e38c8b5525b7d2",
+   "title": "Dust: Pretraining Transformers Without Backpropagation",
+   "url": "https://qlabs.sh/research/dust",
+   "domain": "qlabs.sh",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T21:15:07.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1684
+  },
+  {
+   "id": "48388c8501e0d4d88b1b82debf519393bf5ad2662a534af8100be55f086c9a6f",
+   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+   "url": "https://vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "canonicalUrl": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "domain": "vals.ai",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T21:00:21.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1681
+  },
+  {
+   "id": "687e2da963e0c5567e0ca59eef01989ca4c3787205951641173ccbecb738c3e4",
+   "title": "A third way of using Linux",
+   "url": "https://hisvirusness.com/third-is-the-way",
+   "domain": "hisvirusness.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T20:17:07.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1674
+  },
+  {
+   "id": "61f05884d20e230c679558b1a9765d91caf79f992a9a8aacfb0bda4d1174abf9",
+   "title": "Incident with Actions",
+   "url": "https://githubstatus.com/incidents/3q1yb5m7ltvb",
+   "canonicalUrl": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+   "domain": "githubstatus.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T20:09:12.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community",
+    "status"
+   ],
+   "status": "active",
+   "score": 1673
   },
   {
    "id": "2d8e70fb45cef7470a5baf361c95df26b5ff7249933c340d169f562e1258ded9",
@@ -26,13 +111,80 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-05T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1738
+   "score": 1671
+  },
+  {
+   "id": "b37680814e1fc91e98b6b0990a441d2d36679acb4f952f277e9ded52da766eda",
+   "title": "The Future of Mathematics",
+   "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics",
+   "canonicalUrl": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+   "domain": "terrytao.wordpress.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T19:22:40.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1665
+  },
+  {
+   "id": "917ba46d3f15f0c5b9b71443d754a728f1090204be0a113eec5e6bd6f3edf869",
+   "title": "Beam: Reflection's 501B open-weight model",
+   "url": "https://reflection.ai/blog/introducing-beam",
+   "domain": "reflection.ai",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T19:16:35.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1664
+  },
+  {
+   "id": "e074b587f909321f0d9d44ebf86497d81eeb9d788db4e1a568ec8bad6a87b9ac",
+   "title": "Greenvolt begins building 600 MW/2.4 GWh BESS in Poland",
+   "url": "https://ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland",
+   "canonicalUrl": "https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/",
+   "domain": "ess-news.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T18:38:01.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1658
+  },
+  {
+   "id": "0d7e8b05fb88f1cfa4f79bc383f503c9dc7fc098b27a4753ac7a19c75fea68d2",
+   "title": "Norway Eyes Partial Ban of Smart Glasses",
+   "url": "https://barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
+   "canonicalUrl": "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
+   "domain": "barrons.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T18:15:20.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1654
   },
   {
    "id": "108d087b296bbd52a08bf4cf69256aea31692da0f9fd9f33ed0d9a15f1905e12",
@@ -49,7 +201,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1690
+   "score": 1623
   },
   {
    "id": "ace1ee4742bc3165f1f4b18762948f4cf07b44f8095279fc930c760cb30d8acb",
@@ -65,7 +217,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1690
+   "score": 1623
   },
   {
    "id": "a8038f207e13f1617825124b315aeeefb1804720c03687084d36586ca324ad49",
@@ -76,13 +228,46 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-05T14:23:47.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1682
+   "score": 1615
+  },
+  {
+   "id": "e2d394c71dc67022f2984cfaf49a293b2bbe5d01cc26a561ea0a2065997cda89",
+   "title": "The lamps in my house",
+   "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house",
+   "canonicalUrl": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+   "domain": "arslan.io",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T14:12:14.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1613
+  },
+  {
+   "id": "416c55bd38b4ac41ff1108c995bf7594dc0176cac3f989d6340d4f5b66c26532",
+   "title": "Linux containers in 500 lines of code (2016)",
+   "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+   "domain": "blog.lizzie.io",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T14:09:15.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1613
   },
   {
    "id": "ee02bf5a18041dc5d5b466d5f12723bf44a5fce5dfe8fc1d1351552dba370af8",
@@ -99,7 +284,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1678
+   "score": 1612
   },
   {
    "id": "218cc3356838ee1629ac0e12e7076df95efab9446adf15c76332a3854141852b",
@@ -109,13 +294,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-05T13:02:25.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1668
+   "score": 1602
   },
   {
    "id": "6a3d5cac06ab0bbc582a0ea41bb80bba24dfc3df67f86d66f0cac75e054b14ec",
@@ -131,7 +316,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1667
+   "score": 1601
   },
   {
    "id": "7859879abc853f1e8baf480c5e3ec43c245e49b19617d56aab29ded3669e0bb2",
@@ -147,24 +332,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1664
-  },
-  {
-   "id": "3ee97a3aa41a251b93b06afdc647b2c9380ca7074dbdf563552b00b1824a2b02",
-   "title": "The Era of Software Quality, or the Era of Ostriches?",
-   "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches",
-   "canonicalUrl": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-   "domain": "blogs.gnome.org",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-05T12:33:15.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1663
+   "score": 1597
   },
   {
    "id": "7cd8f4c772468a6d085979c3b7ee1588b8f74d36b8b77743a0fcc2c48d5ce67d",
@@ -180,7 +348,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1651
+   "score": 1584
   },
   {
    "id": "1b3bc1e33bf7e32273d1411212b07096b5bff97b6da8295e2afc97d162d518f1",
@@ -197,7 +365,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1651
+   "score": 1584
   },
   {
    "id": "d76ab843cb062985941bf6a6716c20660744ed3d59e508ec9ad3d5d7ae939e12",
@@ -213,7 +381,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1650
+   "score": 1584
   },
   {
    "id": "8ea0015a6417b25ca09baf57cca7397c7297ed935fe7551d9d438d12e28cb0ad",
@@ -230,7 +398,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1650
+   "score": 1584
   },
   {
    "id": "fa40a8a38d6b278e48d387858dd9ebf5d0ed434453cf8b0a5358145e8fa3b56c",
@@ -241,13 +409,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-05T10:47:06.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1645
+   "score": 1579
   },
   {
    "id": "f9195bbb64dda43191df42c4188ce35b9a71d538e9e8cedd965fe93eb7be22ff",
@@ -264,24 +432,41 @@
     "community"
    ],
    "status": "active",
-   "score": 1644
+   "score": 1577
   },
   {
    "id": "5339381b2da01d5e6c02d5a92158c764444f3906fd2c304410f0c11c2d6bbe0f",
-   "title": "Apple and a Hacker's Future",
+   "title": "Apple and a hacker's future",
    "url": "https://stratechery.com/2026/apple-and-a-hackers-future",
    "canonicalUrl": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "domain": "stratechery.com",
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-05T10:05:02.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1638
+   "score": 1572
+  },
+  {
+   "id": "d3c273b360470aca0640890f32ee18b72e9a8db6e28a84656e97136e43f47823",
+   "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+   "url": "https://nobelprize.org/prizes/medicine/2026/summary",
+   "canonicalUrl": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+   "domain": "nobelprize.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T09:33:13.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1567
   },
   {
    "id": "db125cd9b63ec5f7d7c7683fb95fb6ec961720de7d4acb0615469963e987185a",
@@ -298,7 +483,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1619
+   "score": 1553
   },
   {
    "id": "929477102c4b7a399f83fe639abcaff5f1c07074a7e80a68fc9f34a4e7e1c96f",
@@ -315,7 +500,42 @@
     "community"
    ],
    "status": "active",
-   "score": 1615
+   "score": 1549
+  },
+  {
+   "id": "fb6b08613562b105e97fc7d0ed03ab2d6f42b1ec631e169a7515ff9722cc9572",
+   "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+   "url": "https://bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+   "canonicalUrl": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+   "domain": "bloomberg.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T07:46:10.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1549
+  },
+  {
+   "id": "298e66590dc6be976ed454b32eaa380cc878b0b88329c45cb530ab46c270819c",
+   "title": "Anthropic reported diary entry to police, woman faces felony charge",
+   "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+   "canonicalUrl": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+   "domain": "techspot.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T05:37:40.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community",
+    "anthropic"
+   ],
+   "status": "active",
+   "score": 1528
   },
   {
    "id": "56532bdb0ee5e04e7ffbd634fba88f2bab7c8cfcc5d2d88088d7635f44e65f77",
@@ -332,7 +552,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1508
+   "score": 1442
   },
   {
    "id": "73aa706342e6e53b068e1464c0ebce4e73d43f24527ea6974f16a3ab9fca8e1f",
@@ -343,13 +563,13 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-05T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
    ],
    "status": "active",
-   "score": 1498
+   "score": 1431
   },
   {
    "id": "d8885d98544ba54844d4d88a982939683be9bd5fe47c375a58e9133fb3bd611a",
@@ -360,12 +580,12 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-10-05T15:59:40.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "devtools"
    ],
    "status": "active",
-   "score": 1498
+   "score": 1431
   },
   {
    "id": "063874d21548be69af95b293913766fe52451016108b4d5ed2d0e597a1973df5",
@@ -382,24 +602,24 @@
     "community"
    ],
    "status": "active",
-   "score": 1486
+   "score": 1420
   },
   {
    "id": "dc3ada068b75851623439ddcf6bcce418e65c2eb784fa339a5ef139d6dcaab1e",
-   "title": "Mosquitoes Are a Choice",
+   "title": "The technology to eradicate mosquito-borne disease exists",
    "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice",
    "canonicalUrl": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
    "domain": "worksinprogress.co",
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-04T18:06:04.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1479
+   "score": 1412
   },
   {
    "id": "b898bf00014d48c5dcea3fb9e3986d975c1cbd0c76f3738fb327c3304ca3b6eb",
@@ -410,12 +630,12 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-05T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
    "status": "active",
-   "score": 1468
+   "score": 1401
   },
   {
    "id": "7b0db41b4332c86eaae0aa36d1840cfd97274ecce03be52d963cb4b7d920f691",
@@ -426,12 +646,28 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-05T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
    "status": "active",
-   "score": 1468
+   "score": 1401
+  },
+  {
+   "id": "8a3fb2dcc79de0da7545ac393828f88cc2d3b78b2cc4dd9b28b867deff4bfefd",
+   "title": "[In preview] Public Preview: Azure HorizonDB expands to additional regions",
+   "url": "https://azure.microsoft.com/updates?id=572940",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-05T18:51:57.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1360
   },
   {
    "id": "89be4e220d9f6acb170fc63b77a3f0804233de21a22642a4ebd25c6e1c90f383",
@@ -447,7 +683,154 @@
     "community"
    ],
    "status": "active",
-   "score": 1426
+   "score": 1360
+  },
+  {
+   "id": "bd68a5dd651f53804fdb1709ba89a1e946941a65a07ea2750a9c6b31bf462b85",
+   "title": "[Launched] Generally Available: SQL Server on Azure Virtual Machines in Azure Bleu",
+   "url": "https://azure.microsoft.com/updates?id=571499",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-05T18:12:09.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1353
+  },
+  {
+   "id": "ec3edd1969d56c17208fc03032fed5ea2dd3d5ac75f9de352e5752690a6a8208",
+   "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+   "url": "https://github.com/dfd-tud/deda",
+   "domain": "github.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-04T12:09:10.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1353
+  },
+  {
+   "id": "50f31b94c19898a3b6f1ac5cd3bb0d2788b222dae330c85b980e0e3f1a6964eb",
+   "title": "Scaling Kubernetes Workloads with Node Swap",
+   "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap",
+   "canonicalUrl": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+   "domain": "kubernetes.io",
+   "sourceId": "kubernetes",
+   "sourceName": "Kubernetes Blog",
+   "publishedAt": "2026-10-05T18:00:00.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "kubernetes",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1351
+  },
+  {
+   "id": "4125fba8b6d837847b7f55074e1a67edee9694d132d3f3ec4ca60d8d404c65cb",
+   "title": "Announcing: Table discovery in OneLake Catalog search",
+   "url": "https://azure.microsoft.com/updates?id=573875",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-05T17:55:23.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1351
+  },
+  {
+   "id": "1948c86ca9d3252b90f102525276bb1ea502b091d53ce1cb8eb34547fd089242",
+   "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
+   "url": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens",
+   "canonicalUrl": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
+   "domain": "aws.amazon.com",
+   "sourceId": "aws-architecture",
+   "sourceName": "AWS Architecture",
+   "publishedAt": "2026-10-05T17:54:56.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "aws",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1350
+  },
+  {
+   "id": "842f1543433acc759e6114ae365c2c8cefd28110dd08ae3fcb771adaa934a4e5",
+   "title": "[In preview] Public Preview: Azure Backup for PostgreSQL flexible server and elastic cluster (v2)",
+   "url": "https://azure.microsoft.com/updates?id=573425",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-05T17:44:31.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1349
+  },
+  {
+   "id": "30ed772027bbdd9c87393cc04559c9f7d6f460e529ae6a1e38f36f2c01158a02",
+   "title": "[In preview] Public Preview: IPv6 Support for Application Gateway WAF",
+   "url": "https://azure.microsoft.com/updates?id=573861",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-05T17:41:41.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1348
+  },
+  {
+   "id": "5e0d593e160323d9d00d04e69d606e3f6f08be0fba1f45e31d5b285bfad633a0",
+   "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+   "url": "https://github.com/rsutcliffe/nightwatch",
+   "domain": "github.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-04T09:31:01.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1327
+  },
+  {
+   "id": "8782d4124ae8cba1b605795ddbc72d62ed93b98665dbe27c2fd58cf075469c72",
+   "title": "Using Blu-ray M-Disk as Backup of Last Resort",
+   "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort",
+   "canonicalUrl": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+   "domain": "smyck.net",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-04T08:03:24.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1312
   },
   {
    "id": "c38af6e5cae43e23a64c1d509c6a587da67c166f4c093fc7e47ef57f26c07a7c",
@@ -457,7 +840,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-02T16:15:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -473,7 +856,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-02T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -489,7 +872,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-01T17:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -505,7 +888,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-01T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -521,7 +904,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-01T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -537,7 +920,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-30T10:30:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -553,7 +936,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-30T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -569,7 +952,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-29T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -585,7 +968,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-29T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -601,7 +984,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-29T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -617,7 +1000,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -633,7 +1016,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -649,7 +1032,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T07:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -665,7 +1048,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -681,7 +1064,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -697,7 +1080,23 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-25T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "openai",
+    "research"
+   ],
+   "status": "active",
+   "score": 1300
+  },
+  {
+   "id": "6c85667bb456be979ea054b861dd8e0dfa0bf5249f02bd5eaf15388544cd6c9b",
+   "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+   "url": "https://openai.com/index/wayfair",
+   "domain": "openai.com",
+   "sourceId": "openai-blog",
+   "sourceName": "OpenAI Blog",
+   "publishedAt": "2026-09-25T00:00:00.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -713,7 +1112,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -729,7 +1128,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -745,7 +1144,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -761,7 +1160,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -777,7 +1176,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -793,7 +1192,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research",
@@ -810,7 +1209,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -826,7 +1225,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T02:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -842,7 +1241,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T01:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -858,7 +1257,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -874,7 +1273,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-22T21:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -890,7 +1289,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-22T18:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -906,7 +1305,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-22T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -922,7 +1321,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-22T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -938,7 +1337,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-21T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -954,7 +1353,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-21T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -970,7 +1369,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-21T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -986,7 +1385,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-21T07:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1002,7 +1401,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-21T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1018,7 +1417,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-18T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1034,7 +1433,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-17T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1050,7 +1449,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-17T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1066,7 +1465,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T17:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1082,7 +1481,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1098,7 +1497,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1114,7 +1513,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1130,7 +1529,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1146,7 +1545,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T09:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1162,7 +1561,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-14T12:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1178,7 +1577,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-14T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1194,7 +1593,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-11T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1210,7 +1609,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-11T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1226,7 +1625,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1242,7 +1641,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1258,7 +1657,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T07:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1274,7 +1673,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T07:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1290,7 +1689,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1306,7 +1705,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research",
@@ -1323,7 +1722,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-09T17:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1339,7 +1738,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-09T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1355,7 +1754,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-09T11:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1371,7 +1770,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-08T17:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1387,7 +1786,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-08T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1403,7 +1802,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-08T11:30:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1419,7 +1818,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-08T11:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1435,7 +1834,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-08T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1451,7 +1850,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-08T09:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1467,7 +1866,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-08T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1483,7 +1882,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-07T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1499,7 +1898,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-06T09:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -1515,13 +1914,30 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-06T08:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
    "score": 1300
+  },
+  {
+   "id": "89e633da34b2c0c42e47eea87bccf2e2258263e65a7141c318cdf02a4ff0260a",
+   "title": "Kubelet watches inodes. Just not until it’s an emergency.",
+   "url": "https://cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency",
+   "canonicalUrl": "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency/",
+   "domain": "cncf.io",
+   "sourceId": "cncf",
+   "sourceName": "CNCF Blog",
+   "publishedAt": "2026-10-05T21:27:03.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "cncf",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1286
   },
   {
    "id": "0ceedc5e723600322fe0b21d65be07e0c34336fa7c73be2cf63ba2dc7febc965",
@@ -1538,7 +1954,40 @@
     "community"
    ],
    "status": "active",
-   "score": 1280
+   "score": 1214
+  },
+  {
+   "id": "3ee97a3aa41a251b93b06afdc647b2c9380ca7074dbdf563552b00b1824a2b02",
+   "title": "The era of software quality, or the era of ostriches?",
+   "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches",
+   "canonicalUrl": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+   "domain": "blogs.gnome.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-03T14:07:29.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1200
+  },
+  {
+   "id": "1f727423cd011b9dab845528b32a7fc85d228e682fc7c8b7ab26c505fd6f30b1",
+   "title": "Competitive Programmer's Handbook (2018) [pdf]",
+   "url": "https://cses.fi/book/book.pdf",
+   "domain": "cses.fi",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-03T13:24:01.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1200
   },
   {
    "id": "30b01ce8b0585484f5e414b92d3fb5f4baaac193bbaca8d5fc5e84000d481362",
@@ -1558,14 +2007,46 @@
   },
   {
    "id": "313dd174b0325ad1cb89244be4512fa5817d4ac05898e3deaacbec7e20788b14",
-   "title": "Type Safe Generic Data Structures in C",
+   "title": "Type Safe Generic Data Structures in C (2025)",
    "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures",
    "canonicalUrl": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
    "domain": "danielchasehooper.com",
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-03T11:57:20.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1200
+  },
+  {
+   "id": "ef4f76849e682bdc2acf7cb722171c5d8bd49008614667c56c07dc0efaabd151",
+   "title": "Hot Flashing Guide Rev. 2.0 (2004)",
+   "url": "https://archive.techarp.com/showarticle504a.html?pgno=0",
+   "domain": "archive.techarp.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-03T09:18:08.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1200
+  },
+  {
+   "id": "c98172595e6caafbe1191b081efb2d027ed776389c357a453366abf30bbe8d24",
+   "title": "How to save a life without knowing CPR",
+   "url": "https://bookofjoe2.blogspot.com/2026/10/beyondthemedspeak-how-to-save-life.html",
+   "domain": "bookofjoe2.blogspot.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-02T20:33:26.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
@@ -1615,7 +2096,7 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-02T01:11:28.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
@@ -1631,7 +2112,7 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-10-02T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "firebase",
     "release"
@@ -1656,6 +2137,22 @@
    "score": 1200
   },
   {
+   "id": "cc6f0df1fb3fb0f50a18f6f7eb122b1670515f2bef5049a319e0d47857005abd",
+   "title": "The first fully implanted cochlear implant reaches patients",
+   "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
+   "domain": "spectrum.ieee.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-01T12:31:40.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1200
+  },
+  {
    "id": "46b62dd0d075f3586d9b465bea99a0f00e2fc611bd1dc1b46f3be5691ebd1cfc",
    "title": "Differences Between `Foldl` and `Foldr`",
    "url": "https://blog.haskell.org/foldl-and-foldr",
@@ -1664,7 +2161,7 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-01T04:58:03.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
@@ -1697,7 +2194,7 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-09-28T00:05:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "firebase",
     "release"
@@ -1713,7 +2210,7 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "firebase",
     "release"
@@ -1729,7 +2226,7 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-09-14T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "firebase",
     "release"
@@ -1745,7 +2242,7 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-09-09T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "firebase",
     "release"
@@ -1762,7 +2259,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-10-02T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -1779,7 +2276,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-09-30T20:01:45.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "research"
    ],
@@ -1795,7 +2292,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-09-30T15:03:07.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "research"
    ],
@@ -1811,7 +2308,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-28T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -1828,7 +2325,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-09-24T16:20:39.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "research"
    ],
@@ -1844,7 +2341,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-23T18:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -1861,7 +2358,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-09-23T16:00:57.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "research"
    ],
@@ -1877,7 +2374,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-09-23T15:25:14.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "research"
    ],
@@ -1893,7 +2390,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-18T14:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -1910,7 +2407,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-18T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -1927,7 +2424,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-17T20:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -1944,7 +2441,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-09-15T17:05:57.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "research"
    ],
@@ -1960,7 +2457,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-15T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -1977,7 +2474,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-15T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -1994,7 +2491,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-15T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -2011,7 +2508,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-15T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -2028,7 +2525,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-14T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -2045,7 +2542,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-14T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -2062,7 +2559,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-10T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -2079,7 +2576,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-09T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -2096,7 +2593,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-09T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -2113,7 +2610,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-09-08T14:00:15.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "research"
    ],
@@ -2129,7 +2626,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-02T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -2147,7 +2644,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T18:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra",
     "observability"
@@ -2164,7 +2661,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T16:13:45.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2180,7 +2677,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-02T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -2197,7 +2694,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-02T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -2215,7 +2712,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-02T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -2233,7 +2730,7 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-10-02T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "devtools"
    ],
@@ -2249,7 +2746,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:28:10.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2265,7 +2762,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2281,7 +2778,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2297,7 +2794,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2313,7 +2810,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2329,7 +2826,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2345,7 +2842,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2361,7 +2858,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2377,7 +2874,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-02T07:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -2395,7 +2892,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-01T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -2412,7 +2909,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-01T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -2429,7 +2926,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T15:34:02.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2445,7 +2942,7 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-10-01T15:07:16.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "devtools"
    ],
@@ -2461,7 +2958,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:04:19.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2477,7 +2974,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2493,7 +2990,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra",
     "agent"
@@ -2510,7 +3007,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2526,7 +3023,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2542,7 +3039,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2558,7 +3055,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -2574,7 +3071,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -2591,7 +3088,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-01T09:02:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -2608,7 +3105,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-01T04:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -2624,7 +3121,7 @@
    "sourceId": "stripe-engineering",
    "sourceName": "Stripe Blog",
    "publishedAt": "2026-10-01T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "payments",
     "infra"
@@ -2641,7 +3138,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -2658,7 +3155,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -2675,7 +3172,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -2693,7 +3190,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -2710,7 +3207,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T14:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -2727,7 +3224,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -2744,7 +3241,7 @@
    "sourceId": "stripe-engineering",
    "sourceName": "Stripe Blog",
    "publishedAt": "2026-09-30T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "payments",
     "infra"
@@ -2761,7 +3258,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-29T17:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -2780,510 +3277,299 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-29T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
    ],
    "status": "active",
    "score": 1000
-  },
-  {
-   "id": "f56efcfa09bb23be3a0f9f2f53413618acba11cf5819ee8d36b6b05ddb36ec80",
-   "title": "Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise",
-   "url": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise",
-   "canonicalUrl": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
-   "domain": "cloud.google.com",
-   "sourceId": "gcp-blog",
-   "sourceName": "Google Cloud Blog",
-   "publishedAt": "2026-09-29T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "gcp",
-    "infra",
-    "agent"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "f94c536e6deab72f502b4871f670d66b33343a2d546ca591aa326c350b066470",
-   "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-   "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead",
-   "canonicalUrl": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-29T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "15caadab6491fa6f99937d0424d27250b6f12afc005cdc43b29b1ff9abd36e63",
-   "title": "Helping personal agents shop more intelligently and reliably with Link",
-   "url": "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
-   "domain": "stripe.com",
-   "sourceId": "stripe-engineering",
-   "sourceName": "Stripe Blog",
-   "publishedAt": "2026-09-29T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "payments",
-    "infra",
-    "agent"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "b4c2f06bca4278c043f19e7415479aa1c81dd727f1b46049ab0b1b32ae40d1fd",
-   "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
-   "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
-   "canonicalUrl": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-28T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools",
-    "agent"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "f6010caa7c643cd8836df1d110867e433632ebb91d76d3794555dfa5b0a5c4ba",
-   "title": "Highlights from Git 2.56",
-   "url": "https://github.blog/open-source/git/highlights-from-git-2-56",
-   "canonicalUrl": "https://github.blog/open-source/git/highlights-from-git-2-56/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-28T17:23:33.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "ab74b9e1c6a7f1593d5be949068d7a2a0f259e940bfc9ba68a4d762efe84ffe6",
-   "title": "Travel’s AI dilemma at Skift Global Forum",
-   "url": "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
-   "domain": "stripe.com",
-   "sourceId": "stripe-engineering",
-   "sourceName": "Stripe Blog",
-   "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "payments",
-    "infra"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "7d128752a2cf63b44ec1ea9348a23b27b029e1b62fd126d7e4b91340997ac54b",
-   "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-   "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-   "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-25T18:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "df0f4b95aa75fa2d62098d3752935fe51f7ff05d87941d1d14d43c160e35ceca",
-   "title": "Improving site performance by shipping more CSS",
-   "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-   "canonicalUrl": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-25T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "4135fa3a00799524e73b45e5e8a18ea8c11a9949e9197f51bf60e5f284bf0180",
-   "title": "When chat is the wrong UI",
-   "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-   "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-24T20:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "2690558920b683f436705f883e7be7c7b496af0690c85cbb72e9d0479d551ca1",
-   "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-   "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-   "canonicalUrl": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-24T18:26:12.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools",
-    "agent"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "e111be34e51f880291c358e40b3c65ec92c92fedbdf850dae0bdaffb57314374",
-   "title": "New trends in global card fraud: How 3D Secure and regional mandates are affecting risk",
-   "url": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
-   "domain": "stripe.com",
-   "sourceId": "stripe-engineering",
-   "sourceName": "Stripe Blog",
-   "publishedAt": "2026-09-22T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "payments",
-    "infra"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "4769673330592cdc4509cf2842e8b8821c1374ff895267f873b0e9aae2cc71d5",
-   "title": "Analyzing rising fraud attempts among travel and leisure businesses on Stripe",
-   "url": "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
-   "domain": "stripe.com",
-   "sourceId": "stripe-engineering",
-   "sourceName": "Stripe Blog",
-   "publishedAt": "2026-09-18T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "payments",
-    "infra"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "a1fbb11723ca6f2ec4bd928bb0deeb5a8c2431abc3bb7b11c16c3f00066a45a1",
-   "title": "SaaS platforms are surging despite the SaaSpocalypse",
-   "url": "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
-   "domain": "stripe.com",
-   "sourceId": "stripe-engineering",
-   "sourceName": "Stripe Blog",
-   "publishedAt": "2026-09-17T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "payments",
-    "infra"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "ab579cab3a9f8945ae46d49913afedb81f373aab39f9eb5bf4e8b386d038ba29",
-   "title": "What Stripe data shows about fraud at AI startups",
-   "url": "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups",
-   "domain": "stripe.com",
-   "sourceId": "stripe-engineering",
-   "sourceName": "Stripe Blog",
-   "publishedAt": "2026-09-15T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "payments",
-    "infra"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "8cee7909942c43c367ff7b40a9f3b639cfa20cfe6a028945734d9675b64e4916",
-   "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
-   "url": "https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap",
-   "canonicalUrl": "https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/",
-   "domain": "aws.amazon.com",
-   "sourceId": "aws-architecture",
-   "sourceName": "AWS Architecture",
-   "publishedAt": "2026-10-02T17:57:15.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "aws",
-    "infra"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "3d82a9ad2b52a2109fe15cc770c2de543e24b85ed5e7984cc9dc12f1b5641a79",
-   "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
-   "url": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap",
-   "canonicalUrl": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/",
-   "domain": "aws.amazon.com",
-   "sourceId": "aws-architecture",
-   "sourceName": "AWS Architecture",
-   "publishedAt": "2026-10-02T17:57:01.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "aws",
-    "infra"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "c68a5013a728601c374158a8183dc1933a6cf5826d2d64185d5ecffedaf9f661",
-   "title": "Deploy open source Regional availability tools in your VPC",
-   "url": "https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc",
-   "canonicalUrl": "https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc/",
-   "domain": "aws.amazon.com",
-   "sourceId": "aws-architecture",
-   "sourceName": "AWS Architecture",
-   "publishedAt": "2026-10-02T17:50:56.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "aws",
-    "infra"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "15f73254c91616101a0191eec1b92ad109d6b96cfddf005751a99cdc2d60d708",
-   "title": "[In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters",
-   "url": "https://azure.microsoft.com/updates?id=571504",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-10-02T17:35:21.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "d2681c53903b855d511723b279fde13dd1cf1d0008a29aed666e874a169cb017",
-   "title": "Jev for Python engineers",
-   "url": "https://vercel.com/blog/jev-for-python-engineers",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-10-02T07:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "2714864cec71b29a062236f997cc564b09d29375258e2df8b5e3bc3f588272db",
-   "title": "How Rogo ships agent-written code to production in 5 minutes on Vercel",
-   "url": "https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-10-02T04:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform",
-    "agent"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "012a850179f6acbba1fe9233eb170dadd85b6de395d040968e32ea64fa4d9dbc",
-   "title": "Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029",
-   "url": "https://azure.microsoft.com/updates?id=569592",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-10-01T17:02:55.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "2f1191b453e1d33036fc4c2de55a7882e636df13fa4b4597fd23f003d3f3bcca",
-   "title": "Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI",
-   "url": "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai",
-   "canonicalUrl": "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/",
-   "domain": "aws.amazon.com",
-   "sourceId": "aws-architecture",
-   "sourceName": "AWS Architecture",
-   "publishedAt": "2026-10-01T15:37:06.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "aws",
-    "infra",
-    "agent"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "9c4f8bafe8b90f4caf89a588edd77e6fa73c1248ad98b0940653083e65d63256",
-   "title": "Speed Insights deprecates First Input Delay on November 1st",
-   "url": "https://vercel.com/changelog/speed-insights-deprecates-first-input-delay-on-november-first",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-10-01T12:39:14.942Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "be71d47a954ebbcdc3c671ebb04dc12fe794aeb7a599b735dcdafb3f73b08788",
-   "title": "Laya decision model now available on AI Gateway, free through October 31",
-   "url": "https://vercel.com/changelog/laya-decision-model-now-available-on-ai-gateway-free-through-october-31",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-10-01T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "f0a27ee78cd6c891d4db44b1041ae78dd08c8db5d2cdc3355e0d278ae63f48ef",
-   "title": "Microsoft AI models are now available on AI Gateway",
-   "url": "https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-10-01T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "ccfbd9944801bc798aa753b067747c37b2e43360d84e00871f72315a76c5866c",
-   "title": "Vercel Agent now installs private packages from npm and custom registries",
-   "url": "https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-30T23:22:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform",
-    "agent"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "1b892aefa74eb93f589f3cb7e7e54db85e732d887869377886e7b89d91fbcf1b",
-   "title": "[In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines",
-   "url": "https://azure.microsoft.com/updates?id=571894",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-09-30T21:13:13.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "azure",
-    "release",
-    "monitoring"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "1e8ed424c4f3832a0efb1ee8582137c0ea1dadcf57150fb3f45766ea2822587c",
-   "title": "AI Gateway adds Browserbase Search and Fetch tools",
-   "url": "https://vercel.com/changelog/ai-gateway-adds-browserbase-search-and-fetch-tools",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-30T21:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "156ee8cd77c37e3574e8f609aba3ae1caa9029caafc45b614209e724225c9d70",
-   "title": "Edge Requests are now called CDN Requests",
-   "url": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-30T20:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "5f603f9847ef81da5e8cbc3b5a1e956e2f8c856d0b617847f114e32be9dc8986",
-   "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
-   "url": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift",
-   "canonicalUrl": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/",
-   "domain": "aws.amazon.com",
-   "sourceId": "aws-architecture",
-   "sourceName": "AWS Architecture",
-   "publishedAt": "2026-09-30T19:01:57.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "aws",
-    "infra"
-   ],
-   "status": "active",
-   "score": 900
   }
  ],
  "latest": [
+  {
+   "id": "076e39c91967dec50fe9d714717e7fbbf5a73bb5525dd0607dcf4c69220839e5",
+   "title": "Find the flattest route between any two points in SF",
+   "url": "https://flattensf.com",
+   "canonicalUrl": "https://flattensf.com/",
+   "domain": "flattensf.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T21:40:50.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1688
+  },
+  {
+   "id": "89e633da34b2c0c42e47eea87bccf2e2258263e65a7141c318cdf02a4ff0260a",
+   "title": "Kubelet watches inodes. Just not until it’s an emergency.",
+   "url": "https://cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency",
+   "canonicalUrl": "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency/",
+   "domain": "cncf.io",
+   "sourceId": "cncf",
+   "sourceName": "CNCF Blog",
+   "publishedAt": "2026-10-05T21:27:03.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "cncf",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1286
+  },
+  {
+   "id": "4b350aa2264060c3cebca2e32e0f40101f378191b3500f1e03e38c8b5525b7d2",
+   "title": "Dust: Pretraining Transformers Without Backpropagation",
+   "url": "https://qlabs.sh/research/dust",
+   "domain": "qlabs.sh",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T21:15:07.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1684
+  },
+  {
+   "id": "48388c8501e0d4d88b1b82debf519393bf5ad2662a534af8100be55f086c9a6f",
+   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+   "url": "https://vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "canonicalUrl": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "domain": "vals.ai",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T21:00:21.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1681
+  },
+  {
+   "id": "687e2da963e0c5567e0ca59eef01989ca4c3787205951641173ccbecb738c3e4",
+   "title": "A third way of using Linux",
+   "url": "https://hisvirusness.com/third-is-the-way",
+   "domain": "hisvirusness.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T20:17:07.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1674
+  },
+  {
+   "id": "61f05884d20e230c679558b1a9765d91caf79f992a9a8aacfb0bda4d1174abf9",
+   "title": "Incident with Actions",
+   "url": "https://githubstatus.com/incidents/3q1yb5m7ltvb",
+   "canonicalUrl": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+   "domain": "githubstatus.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T20:09:12.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community",
+    "status"
+   ],
+   "status": "active",
+   "score": 1673
+  },
+  {
+   "id": "b37680814e1fc91e98b6b0990a441d2d36679acb4f952f277e9ded52da766eda",
+   "title": "The Future of Mathematics",
+   "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics",
+   "canonicalUrl": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+   "domain": "terrytao.wordpress.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T19:22:40.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1665
+  },
+  {
+   "id": "917ba46d3f15f0c5b9b71443d754a728f1090204be0a113eec5e6bd6f3edf869",
+   "title": "Beam: Reflection's 501B open-weight model",
+   "url": "https://reflection.ai/blog/introducing-beam",
+   "domain": "reflection.ai",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T19:16:35.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1664
+  },
+  {
+   "id": "8a3fb2dcc79de0da7545ac393828f88cc2d3b78b2cc4dd9b28b867deff4bfefd",
+   "title": "[In preview] Public Preview: Azure HorizonDB expands to additional regions",
+   "url": "https://azure.microsoft.com/updates?id=572940",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-05T18:51:57.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1360
+  },
+  {
+   "id": "e074b587f909321f0d9d44ebf86497d81eeb9d788db4e1a568ec8bad6a87b9ac",
+   "title": "Greenvolt begins building 600 MW/2.4 GWh BESS in Poland",
+   "url": "https://ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland",
+   "canonicalUrl": "https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/",
+   "domain": "ess-news.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T18:38:01.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1658
+  },
+  {
+   "id": "0d7e8b05fb88f1cfa4f79bc383f503c9dc7fc098b27a4753ac7a19c75fea68d2",
+   "title": "Norway Eyes Partial Ban of Smart Glasses",
+   "url": "https://barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
+   "canonicalUrl": "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
+   "domain": "barrons.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T18:15:20.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1654
+  },
+  {
+   "id": "bd68a5dd651f53804fdb1709ba89a1e946941a65a07ea2750a9c6b31bf462b85",
+   "title": "[Launched] Generally Available: SQL Server on Azure Virtual Machines in Azure Bleu",
+   "url": "https://azure.microsoft.com/updates?id=571499",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-05T18:12:09.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1353
+  },
+  {
+   "id": "50f31b94c19898a3b6f1ac5cd3bb0d2788b222dae330c85b980e0e3f1a6964eb",
+   "title": "Scaling Kubernetes Workloads with Node Swap",
+   "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap",
+   "canonicalUrl": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+   "domain": "kubernetes.io",
+   "sourceId": "kubernetes",
+   "sourceName": "Kubernetes Blog",
+   "publishedAt": "2026-10-05T18:00:00.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "kubernetes",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1351
+  },
+  {
+   "id": "4125fba8b6d837847b7f55074e1a67edee9694d132d3f3ec4ca60d8d404c65cb",
+   "title": "Announcing: Table discovery in OneLake Catalog search",
+   "url": "https://azure.microsoft.com/updates?id=573875",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-05T17:55:23.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1351
+  },
+  {
+   "id": "1948c86ca9d3252b90f102525276bb1ea502b091d53ce1cb8eb34547fd089242",
+   "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
+   "url": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens",
+   "canonicalUrl": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
+   "domain": "aws.amazon.com",
+   "sourceId": "aws-architecture",
+   "sourceName": "AWS Architecture",
+   "publishedAt": "2026-10-05T17:54:56.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "aws",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1350
+  },
+  {
+   "id": "842f1543433acc759e6114ae365c2c8cefd28110dd08ae3fcb771adaa934a4e5",
+   "title": "[In preview] Public Preview: Azure Backup for PostgreSQL flexible server and elastic cluster (v2)",
+   "url": "https://azure.microsoft.com/updates?id=573425",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-05T17:44:31.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1349
+  },
+  {
+   "id": "30ed772027bbdd9c87393cc04559c9f7d6f460e529ae6a1e38f36f2c01158a02",
+   "title": "[In preview] Public Preview: IPv6 Support for Application Gateway WAF",
+   "url": "https://azure.microsoft.com/updates?id=573861",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-05T17:41:41.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1348
+  },
   {
    "id": "73aa706342e6e53b068e1464c0ebce4e73d43f24527ea6974f16a3ab9fca8e1f",
    "title": "Introducing Google Cloud Modernize, transforming for (and with) AI",
@@ -3293,13 +3579,13 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-05T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
    ],
    "status": "active",
-   "score": 1498
+   "score": 1431
   },
   {
    "id": "d8885d98544ba54844d4d88a982939683be9bd5fe47c375a58e9133fb3bd611a",
@@ -3310,12 +3596,12 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-10-05T15:59:40.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "devtools"
    ],
    "status": "active",
-   "score": 1498
+   "score": 1431
   },
   {
    "id": "108d087b296bbd52a08bf4cf69256aea31692da0f9fd9f33ed0d9a15f1905e12",
@@ -3332,7 +3618,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1690
+   "score": 1623
   },
   {
    "id": "ace1ee4742bc3165f1f4b18762948f4cf07b44f8095279fc930c760cb30d8acb",
@@ -3348,7 +3634,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1690
+   "score": 1623
   },
   {
    "id": "d2b5b29b4c815525619915dcf133df4d932068a91ccef332cbfb8777febef4ef",
@@ -3358,13 +3644,13 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-05T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1788
+   "score": 1721
   },
   {
    "id": "a8038f207e13f1617825124b315aeeefb1804720c03687084d36586ca324ad49",
@@ -3375,13 +3661,46 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-05T14:23:47.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1682
+   "score": 1615
+  },
+  {
+   "id": "e2d394c71dc67022f2984cfaf49a293b2bbe5d01cc26a561ea0a2065997cda89",
+   "title": "The lamps in my house",
+   "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house",
+   "canonicalUrl": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+   "domain": "arslan.io",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T14:12:14.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1613
+  },
+  {
+   "id": "416c55bd38b4ac41ff1108c995bf7594dc0176cac3f989d6340d4f5b66c26532",
+   "title": "Linux containers in 500 lines of code (2016)",
+   "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+   "domain": "blog.lizzie.io",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T14:09:15.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1613
   },
   {
    "id": "ee02bf5a18041dc5d5b466d5f12723bf44a5fce5dfe8fc1d1351552dba370af8",
@@ -3398,7 +3717,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1678
+   "score": 1612
   },
   {
    "id": "218cc3356838ee1629ac0e12e7076df95efab9446adf15c76332a3854141852b",
@@ -3408,13 +3727,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-05T13:02:25.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1668
+   "score": 1602
   },
   {
    "id": "b898bf00014d48c5dcea3fb9e3986d975c1cbd0c76f3738fb327c3304ca3b6eb",
@@ -3425,12 +3744,12 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-05T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
    "status": "active",
-   "score": 1468
+   "score": 1401
   },
   {
    "id": "7b0db41b4332c86eaae0aa36d1840cfd97274ecce03be52d963cb4b7d920f691",
@@ -3441,12 +3760,12 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-05T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
    "status": "active",
-   "score": 1468
+   "score": 1401
   },
   {
    "id": "6a3d5cac06ab0bbc582a0ea41bb80bba24dfc3df67f86d66f0cac75e054b14ec",
@@ -3462,7 +3781,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1667
+   "score": 1601
   },
   {
    "id": "7859879abc853f1e8baf480c5e3ec43c245e49b19617d56aab29ded3669e0bb2",
@@ -3478,24 +3797,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1664
-  },
-  {
-   "id": "3ee97a3aa41a251b93b06afdc647b2c9380ca7074dbdf563552b00b1824a2b02",
-   "title": "The Era of Software Quality, or the Era of Ostriches?",
-   "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches",
-   "canonicalUrl": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-   "domain": "blogs.gnome.org",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-05T12:33:15.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1663
+   "score": 1597
   },
   {
    "id": "7cd8f4c772468a6d085979c3b7ee1588b8f74d36b8b77743a0fcc2c48d5ce67d",
@@ -3511,7 +3813,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1651
+   "score": 1584
   },
   {
    "id": "1b3bc1e33bf7e32273d1411212b07096b5bff97b6da8295e2afc97d162d518f1",
@@ -3528,7 +3830,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1651
+   "score": 1584
   },
   {
    "id": "d76ab843cb062985941bf6a6716c20660744ed3d59e508ec9ad3d5d7ae939e12",
@@ -3544,7 +3846,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1650
+   "score": 1584
   },
   {
    "id": "8ea0015a6417b25ca09baf57cca7397c7297ed935fe7551d9d438d12e28cb0ad",
@@ -3561,7 +3863,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1650
+   "score": 1584
   },
   {
    "id": "fa40a8a38d6b278e48d387858dd9ebf5d0ed434453cf8b0a5358145e8fa3b56c",
@@ -3572,13 +3874,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-05T10:47:06.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1645
+   "score": 1579
   },
   {
    "id": "f9195bbb64dda43191df42c4188ce35b9a71d538e9e8cedd965fe93eb7be22ff",
@@ -3595,24 +3897,24 @@
     "community"
    ],
    "status": "active",
-   "score": 1644
+   "score": 1577
   },
   {
    "id": "5339381b2da01d5e6c02d5a92158c764444f3906fd2c304410f0c11c2d6bbe0f",
-   "title": "Apple and a Hacker's Future",
+   "title": "Apple and a hacker's future",
    "url": "https://stratechery.com/2026/apple-and-a-hackers-future",
    "canonicalUrl": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "domain": "stratechery.com",
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-05T10:05:02.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1638
+   "score": 1572
   },
   {
    "id": "2d8e70fb45cef7470a5baf361c95df26b5ff7249933c340d169f562e1258ded9",
@@ -3622,13 +3924,30 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-05T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1738
+   "score": 1671
+  },
+  {
+   "id": "d3c273b360470aca0640890f32ee18b72e9a8db6e28a84656e97136e43f47823",
+   "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+   "url": "https://nobelprize.org/prizes/medicine/2026/summary",
+   "canonicalUrl": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+   "domain": "nobelprize.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T09:33:13.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1567
   },
   {
    "id": "db125cd9b63ec5f7d7c7683fb95fb6ec961720de7d4acb0615469963e987185a",
@@ -3645,7 +3964,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1619
+   "score": 1553
   },
   {
    "id": "929477102c4b7a399f83fe639abcaff5f1c07074a7e80a68fc9f34a4e7e1c96f",
@@ -3662,7 +3981,42 @@
     "community"
    ],
    "status": "active",
-   "score": 1615
+   "score": 1549
+  },
+  {
+   "id": "fb6b08613562b105e97fc7d0ed03ab2d6f42b1ec631e169a7515ff9722cc9572",
+   "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+   "url": "https://bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+   "canonicalUrl": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+   "domain": "bloomberg.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T07:46:10.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1549
+  },
+  {
+   "id": "298e66590dc6be976ed454b32eaa380cc878b0b88329c45cb530ab46c270819c",
+   "title": "Anthropic reported diary entry to police, woman faces felony charge",
+   "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+   "canonicalUrl": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+   "domain": "techspot.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-05T05:37:40.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community",
+    "anthropic"
+   ],
+   "status": "active",
+   "score": 1528
   },
   {
    "id": "56532bdb0ee5e04e7ffbd634fba88f2bab7c8cfcc5d2d88088d7635f44e65f77",
@@ -3679,7 +4033,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1508
+   "score": 1442
   },
   {
    "id": "063874d21548be69af95b293913766fe52451016108b4d5ed2d0e597a1973df5",
@@ -3696,24 +4050,24 @@
     "community"
    ],
    "status": "active",
-   "score": 1486
+   "score": 1420
   },
   {
    "id": "dc3ada068b75851623439ddcf6bcce418e65c2eb784fa339a5ef139d6dcaab1e",
-   "title": "Mosquitoes Are a Choice",
+   "title": "The technology to eradicate mosquito-borne disease exists",
    "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice",
    "canonicalUrl": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
    "domain": "worksinprogress.co",
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-04T18:06:04.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1479
+   "score": 1412
   },
   {
    "id": "89be4e220d9f6acb170fc63b77a3f0804233de21a22642a4ebd25c6e1c90f383",
@@ -3729,7 +4083,56 @@
     "community"
    ],
    "status": "active",
-   "score": 1426
+   "score": 1360
+  },
+  {
+   "id": "ec3edd1969d56c17208fc03032fed5ea2dd3d5ac75f9de352e5752690a6a8208",
+   "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+   "url": "https://github.com/dfd-tud/deda",
+   "domain": "github.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-04T12:09:10.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1353
+  },
+  {
+   "id": "5e0d593e160323d9d00d04e69d606e3f6f08be0fba1f45e31d5b285bfad633a0",
+   "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+   "url": "https://github.com/rsutcliffe/nightwatch",
+   "domain": "github.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-04T09:31:01.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1327
+  },
+  {
+   "id": "8782d4124ae8cba1b605795ddbc72d62ed93b98665dbe27c2fd58cf075469c72",
+   "title": "Using Blu-ray M-Disk as Backup of Last Resort",
+   "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort",
+   "canonicalUrl": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+   "domain": "smyck.net",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-04T08:03:24.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1312
   },
   {
    "id": "0ceedc5e723600322fe0b21d65be07e0c34336fa7c73be2cf63ba2dc7febc965",
@@ -3746,7 +4149,40 @@
     "community"
    ],
    "status": "active",
-   "score": 1280
+   "score": 1214
+  },
+  {
+   "id": "3ee97a3aa41a251b93b06afdc647b2c9380ca7074dbdf563552b00b1824a2b02",
+   "title": "The era of software quality, or the era of ostriches?",
+   "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches",
+   "canonicalUrl": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+   "domain": "blogs.gnome.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-03T14:07:29.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1200
+  },
+  {
+   "id": "1f727423cd011b9dab845528b32a7fc85d228e682fc7c8b7ab26c505fd6f30b1",
+   "title": "Competitive Programmer's Handbook (2018) [pdf]",
+   "url": "https://cses.fi/book/book.pdf",
+   "domain": "cses.fi",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-03T13:24:01.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1200
   },
   {
    "id": "30b01ce8b0585484f5e414b92d3fb5f4baaac193bbaca8d5fc5e84000d481362",
@@ -3766,14 +4202,46 @@
   },
   {
    "id": "313dd174b0325ad1cb89244be4512fa5817d4ac05898e3deaacbec7e20788b14",
-   "title": "Type Safe Generic Data Structures in C",
+   "title": "Type Safe Generic Data Structures in C (2025)",
    "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures",
    "canonicalUrl": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
    "domain": "danielchasehooper.com",
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-03T11:57:20.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1200
+  },
+  {
+   "id": "ef4f76849e682bdc2acf7cb722171c5d8bd49008614667c56c07dc0efaabd151",
+   "title": "Hot Flashing Guide Rev. 2.0 (2004)",
+   "url": "https://archive.techarp.com/showarticle504a.html?pgno=0",
+   "domain": "archive.techarp.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-03T09:18:08.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1200
+  },
+  {
+   "id": "c98172595e6caafbe1191b081efb2d027ed776389c357a453366abf30bbe8d24",
+   "title": "How to save a life without knowing CPR",
+   "url": "https://bookofjoe2.blogspot.com/2026/10/beyondthemedspeak-how-to-save-life.html",
+   "domain": "bookofjoe2.blogspot.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-02T20:33:26.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
@@ -3790,7 +4258,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-02T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -3808,7 +4276,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T18:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra",
     "observability"
@@ -3825,7 +4293,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-10-02T17:57:15.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "aws",
     "infra"
@@ -3842,7 +4310,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-10-02T17:57:01.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "aws",
     "infra"
@@ -3859,7 +4327,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-10-02T17:50:56.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "aws",
     "infra"
@@ -3875,7 +4343,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-02T17:35:21.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -3891,7 +4359,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-02T16:15:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -3908,7 +4376,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T16:13:45.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -3924,7 +4392,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-02T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -3941,7 +4409,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-02T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -3959,7 +4427,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-02T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -3977,7 +4445,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-02T15:22:44.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "cncf",
     "infra"
@@ -3994,7 +4462,7 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-10-02T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "devtools"
    ],
@@ -4010,7 +4478,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-10-02T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -4027,7 +4495,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:28:10.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4043,7 +4511,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4059,7 +4527,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4075,7 +4543,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4091,7 +4559,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4107,7 +4575,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4123,7 +4591,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4139,7 +4607,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-02T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4188,7 +4656,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-02T07:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -4205,7 +4673,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-02T07:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -4222,7 +4690,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-02T04:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform",
@@ -4239,7 +4707,7 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-02T01:11:28.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
@@ -4256,7 +4724,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-02T00:13:19.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "cncf",
     "infra"
@@ -4273,7 +4741,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-02T00:06:46.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "cncf",
     "infra"
@@ -4289,7 +4757,7 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-10-02T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "firebase",
     "release"
@@ -4305,7 +4773,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-02T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -4322,7 +4790,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-01T23:52:52.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "cncf",
     "infra"
@@ -4339,7 +4807,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-01T19:34:20.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "cncf",
     "infra"
@@ -4371,7 +4839,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-01T17:02:55.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -4387,7 +4855,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-01T17:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -4403,7 +4871,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-01T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -4420,7 +4888,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-01T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -4437,7 +4905,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-01T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -4454,7 +4922,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-10-01T15:37:06.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "aws",
     "infra",
@@ -4472,7 +4940,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T15:34:02.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4488,7 +4956,7 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-10-01T15:07:16.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "devtools"
    ],
@@ -4504,7 +4972,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:04:19.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4520,7 +4988,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4536,7 +5004,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra",
     "agent"
@@ -4553,7 +5021,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4569,7 +5037,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4585,7 +5053,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4601,7 +5069,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "infra"
    ],
@@ -4617,7 +5085,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-01T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -4633,13 +5101,29 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-01T12:39:14.942Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
    "score": 900
+  },
+  {
+   "id": "cc6f0df1fb3fb0f50a18f6f7eb122b1670515f2bef5049a319e0d47857005abd",
+   "title": "The first fully implanted cochlear implant reaches patients",
+   "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
+   "domain": "spectrum.ieee.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-01T12:31:40.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1200
   },
   {
    "id": "adc6c6e3b71eb41e987f50ba24bd69a58ca790f4a4167d62bb7dfe44337fd35d",
@@ -4650,7 +5134,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-01T11:30:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "cncf",
     "infra"
@@ -4667,7 +5151,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-01T09:02:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -4684,7 +5168,7 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-01T04:58:03.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "startup",
     "community"
@@ -4718,7 +5202,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-01T04:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -4734,7 +5218,7 @@
    "sourceId": "stripe-engineering",
    "sourceName": "Stripe Blog",
    "publishedAt": "2026-10-01T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "payments",
     "infra"
@@ -4750,7 +5234,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-01T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -4766,7 +5250,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-01T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -4782,7 +5266,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-01T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -4798,7 +5282,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-09-30T23:22:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform",
@@ -4815,7 +5299,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-30T21:13:13.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release",
@@ -4832,7 +5316,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-09-30T21:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -4849,7 +5333,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-09-30T20:01:45.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "research"
    ],
@@ -4864,7 +5348,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-09-30T20:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -4881,7 +5365,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-09-30T19:01:57.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "aws",
     "infra"
@@ -4898,7 +5382,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-09-30T18:30:24.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "aws",
     "infra",
@@ -4915,7 +5399,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-30T18:26:47.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -4931,7 +5415,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-30T18:24:01.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -4947,7 +5431,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-30T17:11:11.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -4963,7 +5447,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-30T17:09:51.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -4979,7 +5463,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-30T17:07:30.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -4996,7 +5480,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -5013,7 +5497,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -5030,7 +5514,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -5048,7 +5532,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -5065,7 +5549,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-09-30T15:24:47.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "cncf",
     "infra"
@@ -5082,7 +5566,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-09-30T15:03:07.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "research"
    ],
@@ -5098,7 +5582,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T14:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -5115,7 +5599,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-30T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -5133,7 +5617,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-09-30T11:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "cncf",
     "infra",
@@ -5150,7 +5634,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-30T10:30:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -5166,7 +5650,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-30T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -5182,7 +5666,7 @@
    "sourceId": "stripe-engineering",
    "sourceName": "Stripe Blog",
    "publishedAt": "2026-09-30T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "payments",
     "infra"
@@ -5198,7 +5682,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-09-30T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -5214,7 +5698,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-09-30T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -5230,7 +5714,23 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-09-30T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
+   "tags": [
+    "frontend",
+    "platform"
+   ],
+   "status": "active",
+   "score": 900
+  },
+  {
+   "id": "28b58eaa1565623a5de203b5a8b3341d9b63c0e855c2e0cda05f8e8d47f692a6",
+   "title": "Voyage Rerank 3 and Rerank 3 Lite are now available on AI Gateway",
+   "url": "https://vercel.com/changelog/voyage-rerank-3-and-rerank-3-lite-are-now-available-on-ai-gateway",
+   "domain": "vercel.com",
+   "sourceId": "vercel",
+   "sourceName": "Vercel Blog",
+   "publishedAt": "2026-09-30T00:00:00.000Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -5246,7 +5746,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-09-29T22:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -5262,7 +5762,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T19:41:09.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5278,7 +5778,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T19:27:09.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5294,7 +5794,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T19:17:59.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5310,7 +5810,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T19:07:44.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5326,7 +5826,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T19:06:50.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5342,7 +5842,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T18:14:46.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5358,7 +5858,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T18:13:31.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release",
@@ -5375,7 +5875,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T18:11:15.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release",
@@ -5392,7 +5892,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T18:05:11.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5408,7 +5908,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:57:36.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5424,7 +5924,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:52:59.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5440,7 +5940,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:51:34.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5456,7 +5956,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:50:20.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5472,7 +5972,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:49:15.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5488,7 +5988,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:42:47.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5504,7 +6004,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:40:40.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5520,7 +6020,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:39:36.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5536,7 +6036,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:38:16.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release",
@@ -5553,7 +6053,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:36:13.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5569,7 +6069,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:34:44.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5585,7 +6085,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:31:11.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release",
@@ -5602,7 +6102,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:28:57.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5618,7 +6118,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:26:50.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5634,7 +6134,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:25:10.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5650,7 +6150,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:12:40.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5666,7 +6166,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:09:58.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5682,7 +6182,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-29T17:07:55.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5699,7 +6199,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-29T17:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -5718,7 +6218,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-29T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra"
@@ -5735,7 +6235,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-09-29T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "infra",
@@ -5753,7 +6253,7 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-09-29T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "devtools"
    ],
@@ -5769,7 +6269,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-09-29T13:44:23.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "aws",
     "infra",
@@ -5786,7 +6286,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-09-29T13:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -5802,7 +6302,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-29T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -5818,7 +6318,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-29T10:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -5834,7 +6334,7 @@
    "sourceId": "stripe-engineering",
    "sourceName": "Stripe Blog",
    "publishedAt": "2026-09-29T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "payments",
     "infra",
@@ -5851,7 +6351,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-29T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -5867,7 +6367,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-09-29T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "frontend",
     "platform"
@@ -5883,7 +6383,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-28T22:07:19.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5899,7 +6399,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-28T22:06:05.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5916,7 +6416,7 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-09-28T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "devtools",
     "agent"
@@ -5932,7 +6432,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -5948,7 +6448,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -5965,7 +6465,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-09-28T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "gcp",
     "research"
@@ -5981,7 +6481,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-28T18:52:10.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -5998,7 +6498,7 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-09-28T17:23:33.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "devtools"
    ],
@@ -6013,7 +6513,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-09-28T17:08:48.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "azure",
     "release"
@@ -6030,7 +6530,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-09-28T11:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "cncf",
     "infra",
@@ -6047,7 +6547,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T07:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "openai",
     "research"
@@ -6063,7 +6563,7 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-09-28T00:05:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "firebase",
     "release"
@@ -6079,498 +6579,13 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
+   "ingestedAt": "2026-10-05T22:51:42.002Z",
    "tags": [
     "firebase",
     "release"
    ],
    "status": "active",
    "score": 1200
-  },
-  {
-   "id": "ab74b9e1c6a7f1593d5be949068d7a2a0f259e940bfc9ba68a4d762efe84ffe6",
-   "title": "Travel’s AI dilemma at Skift Global Forum",
-   "url": "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
-   "domain": "stripe.com",
-   "sourceId": "stripe-engineering",
-   "sourceName": "Stripe Blog",
-   "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "payments",
-    "infra"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "eb674100bb687fff764326a192483a4161fa4fa5dc17727e3c5a9e490b0e4544",
-   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-   "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-   "domain": "openai.com",
-   "sourceId": "openai-blog",
-   "sourceName": "OpenAI Blog",
-   "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "openai",
-    "research"
-   ],
-   "status": "active",
-   "score": 1300
-  },
-  {
-   "id": "833e9419a34f8836dc9d75020b228e7e76dd99c1c482fbba6af088c9a08dec28",
-   "title": "Are you a Codex Original?",
-   "url": "https://openai.com/form/codex-originals",
-   "domain": "openai.com",
-   "sourceId": "openai-blog",
-   "sourceName": "OpenAI Blog",
-   "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "openai",
-    "research"
-   ],
-   "status": "active",
-   "score": 1300
-  },
-  {
-   "id": "a2f111063a8c443a036989f644a65e04986099365d668af21585a07f0d4fba02",
-   "title": "Search domains without authentication",
-   "url": "https://vercel.com/changelog/search-domains-without-authentication",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "283ff614194d90976a94cd101b7a2c4953db4e30a382d19d251ad9125afccd7e",
-   "title": "Claude Sonnet 5.5 now available on AI Gateway",
-   "url": "https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "d83ce44557636088eeef3cbd730c1f075a78b351848486fa0a3b9937ea28da86",
-   "title": "Vercel Sandbox now supports memory observability",
-   "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform",
-    "observability"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "d17eb437a9864bcd7e6b1ef8e95e669883320aef79f7e519febeb73451957e00",
-   "title": "Ember-1 from Fireworks now available on AI Gateway",
-   "url": "https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-27T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "9de028fbe46cac8b155a7c08a35dfcf47f00596edbfe763bda6c0737c9cb02fb",
-   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-   "url": "https://openai.com/index/proaction",
-   "domain": "openai.com",
-   "sourceId": "openai-blog",
-   "sourceName": "OpenAI Blog",
-   "publishedAt": "2026-09-25T19:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "openai",
-    "research"
-   ],
-   "status": "active",
-   "score": 1300
-  },
-  {
-   "id": "0a6728991b7bc4d812222228458025e11acb735335b10837e6899394a3b7cb22",
-   "title": "[In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18",
-   "url": "https://azure.microsoft.com/updates?id=573048",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-09-25T18:07:26.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "7d128752a2cf63b44ec1ea9348a23b27b029e1b62fd126d7e4b91340997ac54b",
-   "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-   "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-   "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-25T18:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "df0f4b95aa75fa2d62098d3752935fe51f7ff05d87941d1d14d43c160e35ceca",
-   "title": "Improving site performance by shipping more CSS",
-   "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-   "canonicalUrl": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-25T15:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "9056d9d3679e3892c1b3b106f1637fe17d1ecbb9889ff0cff6b4e809306f6345",
-   "title": "Security Slam 2026 – Fall edition",
-   "url": "https://cncf.io/blog/2026/09/25/security-slam-2026-fall-edition",
-   "canonicalUrl": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/",
-   "domain": "cncf.io",
-   "sourceId": "cncf",
-   "sourceName": "CNCF Blog",
-   "publishedAt": "2026-09-25T11:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "cncf",
-    "infra"
-   ],
-   "status": "active",
-   "score": 800
-  },
-  {
-   "id": "9d0cebb02aea2320009cb48c3c0010f19999249fccccdef0efb75eb583299cee",
-   "title": "Push images to Vercel Container Registry from GitHub Actions",
-   "url": "https://vercel.com/changelog/vcr-login-github-action",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-25T09:15:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "c44ffca2a20287d1325ce10497002883af7d4048570919747b29892506d04c89",
-   "title": "State of agent skills",
-   "url": "https://vercel.com/blog/state-of-agent-skills",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-25T06:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform",
-    "agent"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "c4571386faa90795acc68399369c1da588b7f5852f5660c8906e888870938b4d",
-   "title": "Vercel Marketplace database browser now supports Redis",
-   "url": "https://vercel.com/changelog/vercel-marketplace-database-browser-now-supports-redis",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-25T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "37a37d25cf983bc1728ad4c63d4c86fd6e671a1f88753e33283faf1eb7823f47",
-   "title": "Pixel Canary is now available in stealth for free on AI Gateway",
-   "url": "https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-25T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "4135fa3a00799524e73b45e5e8a18ea8c11a9949e9197f51bf60e5f284bf0180",
-   "title": "When chat is the wrong UI",
-   "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui",
-   "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-24T20:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "2690558920b683f436705f883e7be7c7b496af0690c85cbb72e9d0479d551ca1",
-   "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-   "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-   "canonicalUrl": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-09-24T18:26:12.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "devtools",
-    "agent"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "5a81deadbbec35fd769d18be5cc02f377935d61621caaab8640cec4568b51303",
-   "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
-   "url": "https://azure.microsoft.com/updates?id=557117",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-09-24T17:51:23.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "6add3dd62456569f19427e4518304eb7a3c8cee0553623d704af2a296d149679",
-   "title": "Introducing Gemini 3.8 Live with Live Avatar",
-   "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-   "canonicalUrl": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-   "domain": "deepmind.google",
-   "sourceId": "deepmind",
-   "sourceName": "DeepMind",
-   "publishedAt": "2026-09-24T16:20:39.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "dc594d62f151b7fdfb508503f4e2acb687c5df9e41fcac055ca4d7991c103135",
-   "title": "[Launched] Generally Available: Instant Access for VM restore points",
-   "url": "https://azure.microsoft.com/updates?id=572573",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-09-24T16:04:16.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "944d7a7a7e3c7c659770297d9980f1517272736434823a8040e0d220812af498",
-   "title": "The Vercel Bug Bounty Program is now publicly available",
-   "url": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-24T07:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "8c5444467586461d9b9a0b893da0f967f759bb563b01c669aa8241b377f74a98",
-   "title": "How Klaviyo shipped 356 internal apps in two weeks on Vercel",
-   "url": "https://vercel.com/blog/how-klaviyo-shipped-356-internal-apps-in-two-weeks-on-vercel",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-24T04:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "1dea97932641f37d1f96689e13204ad555d71fc404bb326e11809698ffa9297f",
-   "title": "Vercel Connect now supports TanStack AI",
-   "url": "https://vercel.com/changelog/vercel-connect-tanstack-ai",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-24T00:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "8772414765b134fe3b8873daf43a31b101922bac916843adc16c2c5fdd271500",
-   "title": "Google Beam expands with new regions, partners, and customers",
-   "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
-   "canonicalUrl": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-09-23T18:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "gcp",
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "47d3ec25c4f84c3ce4d7496b395863066b1e414a985e5096e500b2c84885c614",
-   "title": "Unlimited Vercel Blob stores on every plan",
-   "url": "https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-09-23T18:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "46250e03cde607a1524d89c7300c702c6def3b70929563ae42f1bacaf4a64d90",
-   "title": "Retirement: Support for PowerShell 7.4 ends on November 10, 2026",
-   "url": "https://azure.microsoft.com/updates?id=572770",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-09-23T16:50:05.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "c4f0b6a92169b4c1355c28f0a070ee93137be0b1b78b6ad6e72b8446b7b7c921",
-   "title": "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026—upgrade your apps to .NET 10",
-   "url": "https://azure.microsoft.com/updates?id=572838",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-09-23T16:46:49.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "1043d9fe80283e6f409b90e0f5f76b98d960cc337ee42f5d79ea8cfadd9a93c0",
-   "title": "Advancing Private AI Compute with secure, server-side memory",
-   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
-   "canonicalUrl": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-   "domain": "deepmind.google",
-   "sourceId": "deepmind",
-   "sourceName": "DeepMind",
-   "publishedAt": "2026-09-23T16:00:57.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "52e46e8371e1f69996c0f8fdcd7f1aabc16e63bd6bcc1139e79b18fa15fc40d2",
-   "title": "Two years of OpenAI Academy",
-   "url": "https://openai.com/index/two-years-of-openai-academy",
-   "domain": "openai.com",
-   "sourceId": "openai-blog",
-   "sourceName": "OpenAI Blog",
-   "publishedAt": "2026-09-23T16:00:00.000Z",
-   "ingestedAt": "2026-10-05T16:14:02.403Z",
-   "tags": [
-    "openai",
-    "research"
-   ],
-   "status": "active",
-   "score": 1300
   }
  ]
 }

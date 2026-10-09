@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T20:34:23.536Z",
+ "generatedAt": "2026-10-09T01:03:15.410Z",
  "pinned": [],
  "top": [
   {
@@ -10,13 +10,81 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-08T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1754
+   "score": 1709
+  },
+  {
+   "id": "a7100dc6c0045ce89bfda250d4037fb1fdf4aae6ffe25cfa8cca220174f1e106",
+   "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+   "url": "https://github.com/edrisranjbar/lifeos",
+   "domain": "github.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-09T00:02:19.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1690
+  },
+  {
+   "id": "301c00169e34bf6e9486fe298c12b558454bfacadd6f9b83d9867628f79abb1f",
+   "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+   "url": "https://svg-spark.vercel.app",
+   "canonicalUrl": "https://svg-spark.vercel.app/",
+   "domain": "svg-spark.vercel.app",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T23:32:49.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1685
+  },
+  {
+   "id": "ec03ebde43023b1707598140348758aaa333f18a71977867ee56cc87bb7d2cec",
+   "title": "OpenAI, the Partition Principle, and Mathematics",
+   "url": "https://karagila.org/2026/openai-pp",
+   "canonicalUrl": "https://karagila.org/2026/openai-pp/",
+   "domain": "karagila.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T23:29:43.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community",
+    "openai"
+   ],
+   "status": "active",
+   "score": 1684
+  },
+  {
+   "id": "5cf07d9ff5443733daa7c4b8046cf5365baafb2a4d2438d73cf11cb5fa3b6d0b",
+   "title": "Spinal: A near-instant, predictive surface for any codebase",
+   "url": "https://spinal.sh",
+   "canonicalUrl": "https://spinal.sh/",
+   "domain": "spinal.sh",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T22:48:30.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1677
   },
   {
    "id": "855092fba1df7e8a668bec1b409ac85f8b110a1f64384b826a3381f6d67156e4",
@@ -26,13 +94,63 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-08T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1714
+   "score": 1669
+  },
+  {
+   "id": "45d6a2b79938283a07ca47b39fd2409f4bc34d8465757047a15ff56c4f0b15f8",
+   "title": "LegalOn halves Codex costs while maintaining development speed",
+   "url": "https://openai.com/index/legalon-halves-codex-costs",
+   "domain": "openai.com",
+   "sourceId": "openai-blog",
+   "sourceName": "OpenAI Blog",
+   "publishedAt": "2026-10-08T12:00:00.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "openai",
+    "research"
+   ],
+   "status": "active",
+   "score": 1669
+  },
+  {
+   "id": "b9e07fcd88c0f1769072c2e0494f182f270432174b104fdfe6eb5e1dc864f8d2",
+   "title": "AI-ready biological data: $1.8B global commitment",
+   "url": "https://biohub.org/news/virtual-biology-initiative-expansion",
+   "canonicalUrl": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+   "domain": "biohub.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T20:46:25.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1657
+  },
+  {
+   "id": "97590fc4e8aeb086b2d8ae15d7caf7854e87b681e7c7bfdf594b0530221e5bae",
+   "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+   "url": "https://frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+   "canonicalUrl": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+   "domain": "frontiersin.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T20:42:16.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1656
   },
   {
    "id": "5b040d32238309040683af608cc1f775fa152c9cc95099ef3526fb0afa5ef69b",
@@ -49,7 +167,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1692
+   "score": 1647
   },
   {
    "id": "6bc82994d692f53c6e5d42b0ccadb029a6a3576a856774b1deb5aff8f2d10e26",
@@ -65,7 +183,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1687
+   "score": 1642
   },
   {
    "id": "b7f40f2230ff815fc1f135c956659afb2b77da6a16a8848909d21e3d03ca8be5",
@@ -76,13 +194,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T19:04:56.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1685
+   "score": 1640
   },
   {
    "id": "56ae1b27cc90a7bda42cace448d8b05b4037f7245dd87c2c6e940be1d97606bf",
@@ -99,24 +217,59 @@
     "kubernetes"
    ],
    "status": "active",
-   "score": 1679
+   "score": 1634
+  },
+  {
+   "id": "4c7496a90a9b73abe1fb45baf2f36b25a0f09f6a24061a3d387d527bc1b769df",
+   "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+   "url": "https://pocketty.app",
+   "canonicalUrl": "https://pocketty.app/",
+   "domain": "pocketty.app",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T18:11:52.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1631
   },
   {
    "id": "9ae2348456dff1aca086a686b1a33e41dc85c77c749ba56182805150b0cb1076",
-   "title": "Theranos.World",
+   "title": "Theranos.world",
    "url": "https://theranos.world",
    "canonicalUrl": "https://www.theranos.world/",
    "domain": "theranos.world",
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T17:51:49.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1673
+   "score": 1628
+  },
+  {
+   "id": "31600c36bc281ae7db58ad23cd5a556f8ca886f0727b12c347f442865f04a560",
+   "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+   "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus",
+   "canonicalUrl": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+   "domain": "blog.janestreet.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T17:39:26.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1626
   },
   {
    "id": "8e671fda16b4ef2f8e723ff198d4bee0366e171d5ba2a3096d223acbf9f9eed7",
@@ -126,13 +279,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T16:59:39.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1664
+   "score": 1619
   },
   {
    "id": "5601af0cee338532dcdefc2e4780a43ed402d1f892f7d888f6456866beb2c160",
@@ -150,7 +303,7 @@
     "openai"
    ],
    "status": "active",
-   "score": 1662
+   "score": 1617
   },
   {
    "id": "4d8b68140620bc6a3a6b343bfb3bde6e9d02ad52fc0ab36c05354813ac652c75",
@@ -160,13 +313,30 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T16:37:24.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1660
+   "score": 1616
+  },
+  {
+   "id": "72b6bc9a217a25133e88743676a3ec43abacd63000c86ed6081cd12bd1705985",
+   "title": "Show HN: Jevman – AI decision models play Pac-Man",
+   "url": "https://opper.ai/jevman-benchmark",
+   "canonicalUrl": "https://opper.ai/jevman-benchmark/",
+   "domain": "opper.ai",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T16:34:13.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1615
   },
   {
    "id": "fb3c354fbfe34ef32c712d127b97b573a231b00b6ab8e7fd4654cf6e21b36444",
@@ -176,13 +346,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T16:20:20.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1658
+   "score": 1613
   },
   {
    "id": "f7d3cba37164da53f6cf07866418c4246c5e37fe9e3a2d1bd573973d563aa5a5",
@@ -198,7 +368,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1647
+   "score": 1602
   },
   {
    "id": "b64d3220bf49bda963fd576a9b5f1584dba5ff89214a6df54f948489b9802165",
@@ -214,7 +384,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1641
+   "score": 1596
   },
   {
    "id": "44dc45513a84d09d8c18a52dc4bc588ef56ae5d75b389e741cd35c84c211c40e",
@@ -231,7 +401,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1637
+   "score": 1593
   },
   {
    "id": "1d2f323076d9222f0d06dc5fbaaff6460b8dd56e39288086e97a7ecda554a359",
@@ -247,7 +417,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1637
+   "score": 1592
   },
   {
    "id": "2dc11eaa108ab5fb56bdf5870357fc9de07813e6dbf4fc19e23f57be8a3f251c",
@@ -264,7 +434,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1636
+   "score": 1591
   },
   {
    "id": "c1f5c5558bed0e28c7cff17973f3933e1aa39d135d472473793b5587e22dea76",
@@ -274,13 +444,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T13:22:01.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1628
+   "score": 1583
   },
   {
    "id": "f18e671902162875b24833a257d27c3b27ba2f7c37a9ae9aab1139af7cf51bed",
@@ -297,7 +467,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1626
+   "score": 1581
   },
   {
    "id": "04a7ac99a15b0e1d36a16bda74fba4701942ac4b9bfca1e66218cf005fe89af0",
@@ -314,7 +484,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1619
+   "score": 1574
   },
   {
    "id": "c5982e3d365efdc5e55d6de333a7533e841c875d45993ea1eb18e9bd33a1f319",
@@ -325,13 +495,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T12:00:20.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1614
+   "score": 1569
   },
   {
    "id": "0c5e10a8ddd47ae2dc1d56e015d2b3d642e1ecf8b73354c056e9e8126e5f510a",
@@ -348,7 +518,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1614
+   "score": 1569
   },
   {
    "id": "ab79c9476bd48f06dd992454dc1d71c0ce3c8947e66b48d09a1aff647e6ef296",
@@ -365,7 +535,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1609
+   "score": 1564
   },
   {
    "id": "fb51462653842302034b68145b15a89d12138ef073875af55cadb88fb9a48787",
@@ -376,13 +546,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T10:34:15.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1600
+   "score": 1555
   },
   {
    "id": "d9e485b409fe8517ac6e3a5ba39a5770caf1a72ddba21f80f7ddf66c5e1760f2",
@@ -392,13 +562,30 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-08T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1594
+   "score": 1549
+  },
+  {
+   "id": "aa74ac2170dab17f06240b7e5c2e6468f215c47734752b7f0bb98185ea2d3899",
+   "title": "Yes, and",
+   "url": "https://htmx.org/essays/yes-and",
+   "canonicalUrl": "https://htmx.org/essays/yes-and/",
+   "domain": "htmx.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T09:48:18.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1547
   },
   {
    "id": "a9e97d4c7e24e1ee9058965effde42186a4c49d0b590d0efd40795dc3a527d4a",
@@ -416,7 +603,7 @@
     "openai"
    ],
    "status": "active",
-   "score": 1589
+   "score": 1544
   },
   {
    "id": "8fdb962b6a49acb6499fc965ba7befc31f969fed32ef8be485844772047b659c",
@@ -433,7 +620,7 @@
     "openai"
    ],
    "status": "active",
-   "score": 1576
+   "score": 1531
   },
   {
    "id": "b9495c6bc2f7a5480c2e236f300a59a2b66a1b7d722c941c571a50dba731aa01",
@@ -450,7 +637,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1561
+   "score": 1517
   },
   {
    "id": "7e5a424d3e58c44549c4798fdd3f95d9ed433da99d1bddae3622553433f5356a",
@@ -466,7 +653,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1561
+   "score": 1516
   },
   {
    "id": "ea21e019aec36b8cbf4b1074aa5f99ed8403faade4686d7fab4a832f42dfcaa0",
@@ -483,7 +670,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1559
+   "score": 1514
   },
   {
    "id": "5140e5c56ec695ac4eb95553a5f6333573af48dac6e34f2a06446773c0cccbd5",
@@ -499,7 +686,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1547
+   "score": 1502
   },
   {
    "id": "9612918e3494c97475647543dde6383051658642b66a1f4c350c02eb8017bae6",
@@ -515,7 +702,24 @@
     "community"
    ],
    "status": "active",
-   "score": 1528
+   "score": 1483
+  },
+  {
+   "id": "b10d3ecd6a518725481d8e4d848b6b581a7b485fc15db4248051f0bcf24a98e5",
+   "title": "US man given prison sentence for bot-farming music streams",
+   "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams",
+   "canonicalUrl": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+   "domain": "thequietus.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T01:33:17.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1465
   },
   {
    "id": "ee337b341c53ee7359d73bc2fad0ac5b1709f4a5368adf05e2ea87000d68190f",
@@ -526,13 +730,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T00:14:48.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1497
+   "score": 1452
   },
   {
    "id": "e1a07c13bbbd548d9d78dcaf37b6fc05a2aa27c5c224be45a33b650077ec7de6",
@@ -542,13 +746,13 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-10-08T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "firebase",
     "release"
    ],
    "status": "active",
-   "score": 1494
+   "score": 1449
   },
   {
    "id": "661f64ddb5f472a2675ed75a0fb09828b0ce7323472abe119ea9528dee004ac6",
@@ -558,13 +762,13 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-07T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1474
+   "score": 1429
   },
   {
    "id": "72cf0f84b1ca9b0176ee9b46a2bbe66ee26c2d3bab6e45d59899ced0f69213ef",
@@ -581,7 +785,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1468
+   "score": 1424
   },
   {
    "id": "39d2fed3d43463e525e62503e46f563022e4cb8bbf12633c0287a8ee9ee453d9",
@@ -597,7 +801,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1467
+   "score": 1422
   },
   {
    "id": "ff6e9590c8f46567d42db4193f6000b8ca4e2122d4785f63746ad4897f8ba855",
@@ -608,12 +812,12 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-10-08T17:02:52.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "devtools"
    ],
    "status": "active",
-   "score": 1465
+   "score": 1420
   },
   {
    "id": "828146232d910f95bffa7edf9d5adddfc2c1784feaf5c783bddd2b8e8cd73b7a",
@@ -630,7 +834,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1454
+   "score": 1410
   },
   {
    "id": "71002e274d68ee560dac676cb2226ef167858291c24a02f6c5728b319a63e7d1",
@@ -647,7 +851,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1453
+   "score": 1408
   },
   {
    "id": "9b955ce8af2763d0997a43e3b56894e7fe836da4b22dbde734bd62f639326d98",
@@ -663,7 +867,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1450
+   "score": 1405
   },
   {
    "id": "4c738646d8140c2b141565d5956134f07c798f9d120144a98abb849b12ac3f11",
@@ -680,7 +884,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1445
+   "score": 1400
   },
   {
    "id": "1baae7f6e5e8ab9ed39af28a85b8326fb5e86444cd84cf885513065169294837",
@@ -697,7 +901,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1443
+   "score": 1398
   },
   {
    "id": "cf587c03940c086e817c79352be285d72701419cfb1f4d50ebeadbb723f7ad49",
@@ -714,7 +918,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1441
+   "score": 1397
   },
   {
    "id": "5f7067d6a591d216175dc0f6234827cfd84a65e8a5122e5d04909b8f1e84dd08",
@@ -725,13 +929,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T18:14:41.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1437
+   "score": 1392
   },
   {
    "id": "6b1b69f74c1fd122bfcc0f6ac7bc3275a26ea41d9f5397a9232129602e076da3",
@@ -749,7 +953,7 @@
     "anthropic"
    ],
    "status": "active",
-   "score": 1434
+   "score": 1390
   },
   {
    "id": "02c0626ece538b327218ce9011210c9776351eb167d374bcb8c5637a79038479",
@@ -766,7 +970,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1434
+   "score": 1389
   },
   {
    "id": "286c732492720fc1292ac0691d116ef8764644af3fee9134fe856ab04a63b4b8",
@@ -783,7 +987,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1432
+   "score": 1388
   },
   {
    "id": "30e22f72ee41c0cd580c6a053319762645ba32f396938fe8b353544b55e28d12",
@@ -793,13 +997,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T17:40:23.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1431
+   "score": 1386
   },
   {
    "id": "36b47dd088318d78417ba60b6368ddb17f8e17f9d512aab620405041c97440ad",
@@ -815,7 +1019,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1426
+   "score": 1381
   },
   {
    "id": "3b06ad8d34be813a4e105543e51837596c9ba1d2d2f2a3bea3fa12600f17c58d",
@@ -826,12 +1030,12 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-08T13:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "infra"
    ],
    "status": "active",
-   "score": 1424
+   "score": 1379
   },
   {
    "id": "92066f2db79f6c5944d37c0b2b2451beb7e7840cf7377bb4857ccb21d8da3951",
@@ -849,7 +1053,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1424
+   "score": 1379
   },
   {
    "id": "ad97b2af46b4512fdfcc77cee1216ba2b82fa62555e548f8022677c9b712b7f9",
@@ -860,13 +1064,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T16:56:30.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1424
+   "score": 1379
   },
   {
    "id": "4e324623ab7ca6fee0e142410ae1fff634372bb9b83078fd1d25f73483da7134",
@@ -876,13 +1080,29 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-07T07:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1424
+   "score": 1379
+  },
+  {
+   "id": "4a990d6a0503fbf7f4b15f47d1f08669b295d4d6dd60032422b84920818cc3b9",
+   "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS",
+   "url": "https://azure.microsoft.com/updates?id=574430",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-08T22:51:01.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1378
   },
   {
    "id": "7253e1f5d3184d305c304d61db15c9636b03d223812ad34c321e2030a537c827",
@@ -893,13 +1113,13 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-08T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra"
    ],
    "status": "active",
-   "score": 1414
+   "score": 1369
   },
   {
    "id": "8feb36c793c89deb1bd3d943c44069141f3168ba61693536a6b15fda2f541fbc",
@@ -910,13 +1130,13 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-08T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra"
    ],
    "status": "active",
-   "score": 1414
+   "score": 1369
   },
   {
    "id": "9de6ce5d556c1433285a8dc16967a80e213ba77f4de648aa209acc260a4aae1f",
@@ -927,14 +1147,14 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-08T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra",
     "agent"
    ],
    "status": "active",
-   "score": 1414
+   "score": 1369
   },
   {
    "id": "ec5fba5271609fcc18159be59084f0fc3400f22cc19f8cb41c5f997d6c54c43d",
@@ -945,13 +1165,13 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-08T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra"
    ],
    "status": "active",
-   "score": 1414
+   "score": 1369
   },
   {
    "id": "f57e91e0f5d42fe47cad7b0a6e5521ecde2552e3335b3abc32ead0b09561177f",
@@ -961,13 +1181,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T15:59:41.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1414
+   "score": 1369
   },
   {
    "id": "bac31fb3cbae76b2c0180212ca6477c3b9d33a15f80c6a89ca89f292bb5658a2",
@@ -984,7 +1204,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1412
+   "score": 1367
   },
   {
    "id": "a14b9629b1f58fffaffa450866a2b112a6b9dae617578d6beb5630d0a86b11cf",
@@ -1001,7 +1221,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1412
+   "score": 1367
   },
   {
    "id": "d9ae5a9e80693cef139c5eb0b68f25516019cd858d06e5fe70ba7d054a6fa848",
@@ -1017,7 +1237,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1408
+   "score": 1364
   },
   {
    "id": "afbbe47018acd7bfe31950cb66f3120fa8bef693c576f9d534df0220d1352841",
@@ -1033,7 +1253,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1408
+   "score": 1363
   },
   {
    "id": "773ed0132b3c7a3abc3695c4fd6f7d040a9432f677187fe87025ec78ebfa0eeb",
@@ -1050,7 +1270,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1407
+   "score": 1362
   },
   {
    "id": "4f97bfcee8be04d0ccd52b9648230646e6df52dc336cc4798ed6e7a3e9ae8012",
@@ -1067,7 +1287,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1406
+   "score": 1361
   },
   {
    "id": "2334aa6b0ade6a573ce32a63d048751227ac4a0fd08c3948f402b50929ce11b1",
@@ -1084,7 +1304,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1406
+   "score": 1361
   },
   {
    "id": "14060b32cd2b11a3cb0e1934b4e02e42e2f769d51e00f2b1da575865ee3a74a6",
@@ -1101,7 +1321,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1405
+   "score": 1360
   },
   {
    "id": "670c9a58d2c46ef0ef432596aa79ffd541b6cec14bc4bea530647533f0982ed2",
@@ -1119,7 +1339,7 @@
     "monitoring"
    ],
    "status": "active",
-   "score": 1397
+   "score": 1353
   },
   {
    "id": "7cd2c96335444524570f1cf3425c2680e055856dea7c737df9b892715a41638b",
@@ -1136,7 +1356,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1397
+   "score": 1352
   },
   {
    "id": "d5683ffff7ecda8c3b608f139e0aa715c82e75641b38461997a41f50417ad556",
@@ -1152,7 +1372,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1396
+   "score": 1351
   },
   {
    "id": "c57a9789154c56a36d4761c9572f53b91139c9d4bc915f61f021f256ba3f4abb",
@@ -1162,13 +1382,13 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-08T19:56:31.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1394
+   "score": 1349
   },
   {
    "id": "7f0ed2bac3454cd7ab6ca1e57f2a006c6c208e69258c1a78f3a33f558e0e804b",
@@ -1178,13 +1398,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T13:58:05.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1394
+   "score": 1349
   },
   {
    "id": "40382a046861bbaf54c3b002621eceb6ac512f7074130ac690910850710d1b22",
@@ -1200,7 +1420,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1391
+   "score": 1346
   },
   {
    "id": "3ef9e74b1bfeb5827f2edb33581f0b373c5de3249bda9b066bc22d15c1fbf413",
@@ -1217,7 +1437,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1386
+   "score": 1341
   },
   {
    "id": "1bd00d08559609da7dcc16c9faf17c4485add907ae430775c4be4f8eaf9fc039",
@@ -1234,7 +1454,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1384
+   "score": 1339
   },
   {
    "id": "12e9c4c5d0d429a27b3073446e0431bc6b25c10a4d165584eb59f522b2091bd3",
@@ -1251,7 +1471,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1383
+   "score": 1338
   },
   {
    "id": "f681e494ccf04bb12c185723ab6e42da62506a79bc7931c823ac4b78087710cd",
@@ -1261,13 +1481,13 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-08T18:23:25.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1378
+   "score": 1333
   },
   {
    "id": "1e56e271b4602d324ac4ef25c7c21b21c7707ec68a6e472a782d7087ff4712b3",
@@ -1277,13 +1497,13 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-08T18:20:34.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1378
+   "score": 1333
   },
   {
    "id": "6548d458a2ed87aa6cc461958bca6247d46ebf9f7c92141c4c2eccb682ae9150",
@@ -1301,7 +1521,7 @@
     "llm"
    ],
    "status": "active",
-   "score": 1375
+   "score": 1330
   },
   {
    "id": "aeda727426a7a43f4ce4ee93da49948cc68d3b8412f8a3a02d4b2ad77f78150f",
@@ -1311,13 +1531,30 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-08T17:29:30.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1369
+   "score": 1324
+  },
+  {
+   "id": "33929f2737b70437fb3d51c095146255bccb4c17fd0d9a43a44648f2476594d0",
+   "title": "[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management",
+   "url": "https://azure.microsoft.com/updates?id=574204",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-08T17:24:34.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "azure",
+    "release",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1324
   },
   {
    "id": "d8d38d395f9eac94909c87ba0c4dec5f4f0f8f5799c100cda8c2b64f8ead8437",
@@ -1333,24 +1570,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1369
-  },
-  {
-   "id": "33929f2737b70437fb3d51c095146255bccb4c17fd0d9a43a44648f2476594d0",
-   "title": "[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management",
-   "url": "https://azure.microsoft.com/updates?id=574204",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-10-08T17:24:34.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "azure",
-    "release",
-    "agent"
-   ],
-   "status": "active",
-   "score": 1368
+   "score": 1324
   },
   {
    "id": "96d307df56097d10bf832cef4415cf27a521b44cb30257eee46abb870e86ff99",
@@ -1366,7 +1586,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1368
+   "score": 1324
   },
   {
    "id": "6457dea63036cb1ce8d0edc48d9ad6ecf2502ccbe5d1bbc713928a3bf78a5638",
@@ -1383,7 +1603,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1358
+   "score": 1313
   },
   {
    "id": "e23c47b999e69a666db9772b1ca82699a9d30ef911fb97425369d844e82d86e6",
@@ -1393,13 +1613,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-08T16:05:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1355
+   "score": 1310
   },
   {
    "id": "a097ef0d441a7216b7cd0e2333e660cab42270878853c22c33f188284ed638d5",
@@ -1409,13 +1629,13 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-07T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1354
+   "score": 1309
   },
   {
    "id": "afb98b161de154872e8ee888f5d18577393fef3e4add70f238bc30ace2eaae1b",
@@ -1432,7 +1652,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1353
+   "score": 1308
   },
   {
    "id": "464e8beddd4ae149b95efcdc7d41e4cac0e3abac103f0cbfa1b87a52d0f3d4ba",
@@ -1449,72 +1669,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1347
-  },
-  {
-   "id": "cb652019e0f0da52d1e374b55b46211973c60c6088360718f1dff3c7f4b426ed",
-   "title": "Announcing: Multiparty private offers in Microsoft Marketplace expands to Hong Kong",
-   "url": "https://azure.microsoft.com/updates?id=571831",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-10-08T14:17:44.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 1337
-  },
-  {
-   "id": "d88bfef8fb86093917c3287fb4f724901c4ce2f0aef5b14ad1b7357b73c81cbe",
-   "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-   "url": "https://github.com/shader-effects-inc/shaders",
-   "domain": "github.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-07T05:38:35.000Z",
-   "ingestedAt": "2026-10-07T14:40:26.480Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1311
-  },
-  {
-   "id": "47f52aa565d83c9c8d9b0c6b3e19b9ed43641d2cddbd16c53a5e65746f498e91",
-   "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
-   "url": "https://github.com/ymcrcat/rgpu",
-   "domain": "github.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-07T05:15:44.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1307
-  },
-  {
-   "id": "c8c4649f074ad75f012803aab64ff093b27ef49d89ab8a3543d0fe7003d28ee5",
-   "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-   "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services",
-   "canonicalUrl": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-   "domain": "arstechnica.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-07T04:37:05.000Z",
-   "ingestedAt": "2026-10-07T07:08:37.505Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1300
+   "score": 1302
   },
   {
    "id": "2896758265cec81d95898858cf3558ac9cdd51e4e22038c8fc6ca0aa5193f521",
@@ -1524,7 +1679,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-06T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1540,7 +1695,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-06T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1556,7 +1711,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-06T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1572,7 +1727,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-06T10:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1588,7 +1743,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-05T15:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1604,7 +1759,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-05T10:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1620,7 +1775,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-02T16:15:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1636,7 +1791,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-02T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1652,7 +1807,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-01T17:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1668,7 +1823,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-01T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1684,7 +1839,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-01T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1700,7 +1855,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-30T10:30:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1716,7 +1871,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-30T10:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1732,7 +1887,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-29T10:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1748,7 +1903,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-29T10:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1764,7 +1919,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-29T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1780,7 +1935,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T19:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1796,7 +1951,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T19:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1812,7 +1967,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T07:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1828,7 +1983,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1844,7 +1999,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-28T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1860,7 +2015,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-25T19:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1876,7 +2031,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-25T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1892,7 +2047,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1908,7 +2063,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T13:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1924,7 +2079,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1940,7 +2095,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1956,7 +2111,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -1972,7 +2127,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research",
@@ -1989,7 +2144,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T10:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2005,7 +2160,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T02:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2021,7 +2176,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T01:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2037,7 +2192,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-23T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2053,7 +2208,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-22T21:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2069,7 +2224,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-22T18:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2085,7 +2240,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-22T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2101,7 +2256,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-22T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2117,7 +2272,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-21T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2133,7 +2288,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-21T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2149,7 +2304,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-21T10:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2165,7 +2320,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-21T07:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2181,7 +2336,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-21T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2197,7 +2352,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-18T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2213,7 +2368,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-17T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2229,7 +2384,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-17T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2245,7 +2400,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T17:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2261,7 +2416,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2277,7 +2432,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T13:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2293,7 +2448,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2309,7 +2464,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2325,7 +2480,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-16T09:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2341,7 +2496,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-14T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2357,7 +2512,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-14T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2373,7 +2528,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-11T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2389,7 +2544,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-11T10:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2405,7 +2560,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2421,7 +2576,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T15:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2437,7 +2592,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T07:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2453,7 +2608,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T07:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2469,7 +2624,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2485,7 +2640,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-10T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research",
@@ -2502,7 +2657,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-09T17:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2518,7 +2673,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-09T13:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -2534,13 +2689,96 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-09-09T11:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
    "score": 1300
+  },
+  {
+   "id": "cb652019e0f0da52d1e374b55b46211973c60c6088360718f1dff3c7f4b426ed",
+   "title": "Announcing: Multiparty private offers in Microsoft Marketplace expands to Hong Kong",
+   "url": "https://azure.microsoft.com/updates?id=571831",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-08T14:17:44.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1292
+  },
+  {
+   "id": "f79304ec8f49bb7f4c2a3246709902c7f694d366e96aa223edb841a3356aebee",
+   "title": "Don’t give AI agents root. Make them propose the next system state.",
+   "url": "https://cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state",
+   "canonicalUrl": "https://www.cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state/",
+   "domain": "cncf.io",
+   "sourceId": "cncf",
+   "sourceName": "CNCF Blog",
+   "publishedAt": "2026-10-08T22:21:41.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "cncf",
+    "infra",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1273
+  },
+  {
+   "id": "d88bfef8fb86093917c3287fb4f724901c4ce2f0aef5b14ad1b7357b73c81cbe",
+   "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+   "url": "https://github.com/shader-effects-inc/shaders",
+   "domain": "github.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-07T05:38:35.000Z",
+   "ingestedAt": "2026-10-07T14:40:26.480Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1266
+  },
+  {
+   "id": "47f52aa565d83c9c8d9b0c6b3e19b9ed43641d2cddbd16c53a5e65746f498e91",
+   "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+   "url": "https://github.com/ymcrcat/rgpu",
+   "domain": "github.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-07T05:15:44.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1262
+  },
+  {
+   "id": "c8c4649f074ad75f012803aab64ff093b27ef49d89ab8a3543d0fe7003d28ee5",
+   "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+   "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services",
+   "canonicalUrl": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+   "domain": "arstechnica.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-07T04:37:05.000Z",
+   "ingestedAt": "2026-10-07T07:08:37.505Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1256
   },
   {
    "id": "ee6d7c1448c79bfd00b3e27b1fa0252fbbf39d3c10aa1eddb0f20a6e4cb1f64f",
@@ -2556,7 +2794,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1298
+   "score": 1253
   },
   {
    "id": "629a974154458bfdb9a2f476da8c1a2c5bcbbe95956d3d39851e804fe779159b",
@@ -2573,7 +2811,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1291
+   "score": 1247
   },
   {
    "id": "ee4f657a56bd17f5354aafbbe51960ede2bcb32763d4376fff57e2b515e9e7fc",
@@ -2590,7 +2828,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1289
+   "score": 1245
   },
   {
    "id": "3c13b29346ccabdc7c3cf8487d6eb4b63b3747c096f93f586c5416875569b5b8",
@@ -2607,7 +2845,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1287
+   "score": 1242
   },
   {
    "id": "e37bd00497d784fe03593856c81750588397610a9e0441dd1c78360c5fde50f6",
@@ -2623,7 +2861,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1287
+   "score": 1242
   },
   {
    "id": "1f5ece945a26130723834be2deb14d98d09c5a79b9390012eb58bacaa16787b0",
@@ -2641,7 +2879,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1275
+   "score": 1230
   },
   {
    "id": "e04d1da693503b0f1282c2e253e5172059c771fc995159d2f4bd4a20f0f195fa",
@@ -2652,13 +2890,13 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-10-07T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "research"
    ],
    "status": "active",
-   "score": 1274
+   "score": 1229
   },
   {
    "id": "020a2e848d32ee028829522be2939e2b14c9d95aaa1954cc386dbac1ae7c1ee8",
@@ -2668,13 +2906,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T01:41:03.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1271
+   "score": 1226
   },
   {
    "id": "ba2332934f78900b67ea487a30e13ba08c733031a0c7145f2296d6e80e75a382",
@@ -2690,7 +2928,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1271
+   "score": 1226
   },
   {
    "id": "a44021e286626b6d641c529137a808ed503efbf038205666cc759707d81f9ea4",
@@ -2707,7 +2945,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1269
+   "score": 1224
   },
   {
    "id": "5d492ba0d8e6395efe0111eb4ff888579bfdf0e2a7a4087f117c2cd861f6c838",
@@ -2717,13 +2955,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T01:24:17.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1268
+   "score": 1223
   },
   {
    "id": "6dbf1b38f0546053ceab3e412ef784255209cb4cde8c9069a1e47878be0599ba",
@@ -2733,13 +2971,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-08T06:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1254
+   "score": 1209
   },
   {
    "id": "9c7ac1ff51f10e358fbf46bd78adbbac0a5e12c1f4cbb0be904880a2ae7a40ea",
@@ -2756,7 +2994,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1253
+   "score": 1209
   },
   {
    "id": "a8ede1b2b9a25a72eb791848611f5447607baf1744433dbb46b97c969cff346d",
@@ -2774,7 +3012,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1253
+   "score": 1208
   },
   {
    "id": "393266ea5adfae703a6d57237964ae88e6d4d5181c55e9745430e711b44b5f8f",
@@ -2790,7 +3028,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1249
+   "score": 1204
   },
   {
    "id": "d6de8a58a94cf555e7febe1da0fac81d6f6a0b4be870068772d7c88a70c7ad2c",
@@ -2807,7 +3045,23 @@
     "community"
    ],
    "status": "active",
-   "score": 1249
+   "score": 1204
+  },
+  {
+   "id": "8c06e2dca115ff6a48283bad0b1471a9585817fddacdaf0a791900b029a29276",
+   "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+   "url": "https://news.ycombinator.com/item?id=49985548",
+   "domain": "news.ycombinator.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-06T23:16:56.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1202
   },
   {
    "id": "0ee69fe6ea487e00500616daa2d8b47bcac304771f985d27f5ba4700d55555a1",
@@ -2824,7 +3078,7 @@
     "openai"
    ],
    "status": "active",
-   "score": 1247
+   "score": 1202
   },
   {
    "id": "8ec1111cdc4c4f2d4c451c6fb4a504ccd6082c05ca20ccaf44a55cd977745136",
@@ -2840,7 +3094,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1243
+   "score": 1200
   },
   {
    "id": "e45a7cbd891e714523378c81593fa27d5ac2bcf6f3a222e45928acac35e893d4",
@@ -2856,7 +3110,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1236
+   "score": 1200
   },
   {
    "id": "1c499c21c90afa212ea26bcbae73fd67c820716e2cbc9ca60478dec812b5df5c",
@@ -2873,7 +3127,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1234
+   "score": 1200
   },
   {
    "id": "afdecd136fba8911ef45a98faf181fb7b7faa9f431db79256c43627809420162",
@@ -2889,23 +3143,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1233
-  },
-  {
-   "id": "daa797ee943974350fccaa4f3fa1205a9777e20bb6bac528a7cbf14d38e472e1",
-   "title": "Secret protection must scale with software",
-   "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-   "canonicalUrl": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
-   "domain": "github.blog",
-   "sourceId": "github-blog",
-   "sourceName": "GitHub Blog",
-   "publishedAt": "2026-10-07T17:45:34.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "devtools"
-   ],
-   "status": "active",
-   "score": 1232
+   "score": 1200
   },
   {
    "id": "532ac8fb16bcaba2e00cf1d73f99337a8df2d6d012667fee867db1d8cc1c0aea",
@@ -2921,7 +3159,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1230
+   "score": 1200
   },
   {
    "id": "cbd7ea75fd5495bee139ef209339c925708a5e3aa46a36c5112383c0044baae7",
@@ -2931,14 +3169,14 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-06T21:08:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community",
     "status"
    ],
    "status": "active",
-   "score": 1226
+   "score": 1200
   },
   {
    "id": "f6e419d4eb7036026425d57d61cdd77dce2dd684cf4bc7c275b90eaeb71f4ffb",
@@ -2955,7 +3193,7 @@
     "openai"
    ],
    "status": "active",
-   "score": 1224
+   "score": 1200
   },
   {
    "id": "2e5637e61e39b56bffcd630f4d386909f00ffa0ec556d42a8b095862cb01e51c",
@@ -2972,7 +3210,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1221
+   "score": 1200
   },
   {
    "id": "169458b74c72a7a988266d9201ea74addec00f47050033fd06a633fb7e4f2f24",
@@ -2989,7 +3227,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1221
+   "score": 1200
   },
   {
    "id": "3134f84ea54dc4ea23fe2193a5e02cdf4c91fb15cc15a9e0f57408c825f1408e",
@@ -3006,7 +3244,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1221
+   "score": 1200
   },
   {
    "id": "069f76d54edd397fa04fff54202b895349f1ddfbea57fd7956a7be1498dea8c8",
@@ -3023,24 +3261,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1220
-  },
-  {
-   "id": "0567fdbbc0eed0f542b132232bec6ffc8c428751e7c2873535166c1ac4c4c8a8",
-   "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
-   "url": "https://blog.cloudflare.com/agentic-security-operations",
-   "canonicalUrl": "https://blog.cloudflare.com/agentic-security-operations/",
-   "domain": "blog.cloudflare.com",
-   "sourceId": "cloudflare",
-   "sourceName": "Cloudflare Blog",
-   "publishedAt": "2026-10-07T16:30:36.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "infra",
-    "agent"
-   ],
-   "status": "active",
-   "score": 1219
+   "score": 1200
   },
   {
    "id": "caeddb4840c6fa8fcd31464ef05c6df543ee192fd025a683a190af829a88a689",
@@ -3056,7 +3277,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1219
+   "score": 1200
   },
   {
    "id": "855b8d2ed9995db80e4653329774fbf3f0007172d2c87a1f9f5e3035178c4b4f",
@@ -3072,226 +3293,146 @@
     "community"
    ],
    "status": "active",
-   "score": 1216
-  },
-  {
-   "id": "44f2517dfa4362bfa342c6e7f6c49f33a06b9a1c2e93a21a3ad35ec40d42a19f",
-   "title": "Introducing Google Cloud’s U4 compute: Enabling ultra-low latency trading",
-   "url": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading",
-   "canonicalUrl": "https://cloud.google.com/blog/topics/financial-services/ultra-low-latency-solution-with-u4-enables-high-velocity-trading/",
-   "domain": "cloud.google.com",
-   "sourceId": "gcp-blog",
-   "sourceName": "Google Cloud Blog",
-   "publishedAt": "2026-10-07T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "gcp",
-    "infra"
-   ],
-   "status": "active",
-   "score": 1214
-  },
-  {
-   "id": "03b507090cd76ad13b7eeefebba3e2632311003ba38f5a988c2cb868a1602be5",
-   "title": "Berthd",
-   "url": "https://berthd.app",
-   "canonicalUrl": "https://berthd.app/",
-   "domain": "berthd.app",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T19:14:19.000Z",
-   "ingestedAt": "2026-10-07T00:59:31.204Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1207
-  },
-  {
-   "id": "bb80d48523c945ff288e3164e8a06afc1a265f4c84f921477d082f86a6532291",
-   "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-   "url": "https://news.ycombinator.com/item?id=49982498",
-   "domain": "news.ycombinator.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T18:54:01.000Z",
-   "ingestedAt": "2026-10-07T14:40:26.480Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1203
-  },
-  {
-   "id": "0e3efec68526183d992faab6e0505bdf676e1608af05132dc1aefd18d22160d1",
-   "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
-   "url": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill",
-   "canonicalUrl": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
-   "domain": "citizenlab.ca",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T18:52:18.000Z",
-   "ingestedAt": "2026-10-07T00:59:31.204Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1203
-  },
-  {
-   "id": "ef2a483c89199d0ac5fa4955962e86cdfcd43475dc349538ea48ff8d1d4f276a",
-   "title": "Cleo (Mathematician)",
-   "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-   "domain": "en.wikipedia.org",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T18:49:45.000Z",
-   "ingestedAt": "2026-10-08T14:48:52.095Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1203
-  },
-  {
-   "id": "33855b8c9c91657f02910b1ea41aca4f2e82367c4552e10f33658424e1d056af",
-   "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-   "url": "https://zohaib.cc/blog/smartest-claude-code-feature",
-   "canonicalUrl": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-   "domain": "zohaib.cc",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T18:00:34.000Z",
-   "ingestedAt": "2026-10-07T14:40:26.480Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "6cb87f094505f07175c59ba993aea5a6c765d88443e5100ee53f26f73e71d4da",
-   "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-   "url": "https://techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-   "canonicalUrl": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-   "domain": "techspot.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T17:01:52.000Z",
-   "ingestedAt": "2026-10-07T00:59:31.204Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "2a87b4d70e3410091f42b33df3bf5ee5b92da3c143e125f4248da22f1f053ff8",
-   "title": "California closed the Montana license plate loophole",
-   "url": "https://thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
-   "canonicalUrl": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
-   "domain": "thedrive.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T17:00:59.000Z",
-   "ingestedAt": "2026-10-07T07:08:37.505Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "8b01562a542974d19da4171ee06ac962998aa11236a58f3c13907dc64fb987b2",
-   "title": "Treg (OpenRouter for Tools)",
-   "url": "https://github.com/superdesigndev/treg",
-   "domain": "github.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T16:29:59.000Z",
-   "ingestedAt": "2026-10-07T07:08:37.505Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "576ded508c0bb4010aee77b7ad6937092b8cb3bb40b0b89b851fa919bbf18228",
-   "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-   "url": "https://github.com/FeSens/openTPU",
-   "domain": "github.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T16:23:25.000Z",
-   "ingestedAt": "2026-10-07T14:40:26.480Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "456ab06cee56bbf4e17dc407ccc1c3629ebd137818285bf6eead56f355d8b944",
-   "title": "How machines learned precision",
-   "url": "https://glinscott.github.io/how-machines-learned-precision",
-   "canonicalUrl": "https://glinscott.github.io/how-machines-learned-precision/",
-   "domain": "glinscott.github.io",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T16:14:42.000Z",
-   "ingestedAt": "2026-10-08T07:08:17.675Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "651d5d4131fcec8ac936b56b4f2a89be83d3689a9839bf3850626bf82a634f50",
-   "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
-   "canonicalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-   "domain": "blog.google",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T16:03:49.000Z",
-   "ingestedAt": "2026-10-07T14:40:26.480Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "98a1a75f4d9a62cbbf18dea6334614914b7544835eab3e10c9c8003b930d0959",
-   "title": "Show HN: Durable Actors – OSS Durable Objects with configurable compute",
-   "url": "https://github.com/TerseAI/durable-actors",
-   "domain": "github.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T15:58:19.000Z",
-   "ingestedAt": "2026-10-07T20:30:25.867Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
    "score": 1200
   }
  ],
  "latest": [
+  {
+   "id": "a7100dc6c0045ce89bfda250d4037fb1fdf4aae6ffe25cfa8cca220174f1e106",
+   "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+   "url": "https://github.com/edrisranjbar/lifeos",
+   "domain": "github.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-09T00:02:19.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1690
+  },
+  {
+   "id": "301c00169e34bf6e9486fe298c12b558454bfacadd6f9b83d9867628f79abb1f",
+   "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+   "url": "https://svg-spark.vercel.app",
+   "canonicalUrl": "https://svg-spark.vercel.app/",
+   "domain": "svg-spark.vercel.app",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T23:32:49.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1685
+  },
+  {
+   "id": "ec03ebde43023b1707598140348758aaa333f18a71977867ee56cc87bb7d2cec",
+   "title": "OpenAI, the Partition Principle, and Mathematics",
+   "url": "https://karagila.org/2026/openai-pp",
+   "canonicalUrl": "https://karagila.org/2026/openai-pp/",
+   "domain": "karagila.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T23:29:43.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community",
+    "openai"
+   ],
+   "status": "active",
+   "score": 1684
+  },
+  {
+   "id": "4a990d6a0503fbf7f4b15f47d1f08669b295d4d6dd60032422b84920818cc3b9",
+   "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS",
+   "url": "https://azure.microsoft.com/updates?id=574430",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-10-08T22:51:01.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1378
+  },
+  {
+   "id": "5cf07d9ff5443733daa7c4b8046cf5365baafb2a4d2438d73cf11cb5fa3b6d0b",
+   "title": "Spinal: A near-instant, predictive surface for any codebase",
+   "url": "https://spinal.sh",
+   "canonicalUrl": "https://spinal.sh/",
+   "domain": "spinal.sh",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T22:48:30.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1677
+  },
+  {
+   "id": "f79304ec8f49bb7f4c2a3246709902c7f694d366e96aa223edb841a3356aebee",
+   "title": "Don’t give AI agents root. Make them propose the next system state.",
+   "url": "https://cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state",
+   "canonicalUrl": "https://www.cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state/",
+   "domain": "cncf.io",
+   "sourceId": "cncf",
+   "sourceName": "CNCF Blog",
+   "publishedAt": "2026-10-08T22:21:41.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "cncf",
+    "infra",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1273
+  },
+  {
+   "id": "b9e07fcd88c0f1769072c2e0494f182f270432174b104fdfe6eb5e1dc864f8d2",
+   "title": "AI-ready biological data: $1.8B global commitment",
+   "url": "https://biohub.org/news/virtual-biology-initiative-expansion",
+   "canonicalUrl": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+   "domain": "biohub.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T20:46:25.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1657
+  },
+  {
+   "id": "97590fc4e8aeb086b2d8ae15d7caf7854e87b681e7c7bfdf594b0530221e5bae",
+   "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+   "url": "https://frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+   "canonicalUrl": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+   "domain": "frontiersin.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T20:42:16.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1656
+  },
   {
    "id": "c57a9789154c56a36d4761c9572f53b91139c9d4bc915f61f021f256ba3f4abb",
    "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3",
@@ -3300,13 +3441,13 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-08T19:56:31.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1394
+   "score": 1349
   },
   {
    "id": "5b040d32238309040683af608cc1f775fa152c9cc95099ef3526fb0afa5ef69b",
@@ -3323,7 +3464,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1692
+   "score": 1647
   },
   {
    "id": "6bc82994d692f53c6e5d42b0ccadb029a6a3576a856774b1deb5aff8f2d10e26",
@@ -3339,7 +3480,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1687
+   "score": 1642
   },
   {
    "id": "b7f40f2230ff815fc1f135c956659afb2b77da6a16a8848909d21e3d03ca8be5",
@@ -3350,13 +3491,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T19:04:56.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1685
+   "score": 1640
   },
   {
    "id": "56ae1b27cc90a7bda42cace448d8b05b4037f7245dd87c2c6e940be1d97606bf",
@@ -3373,7 +3514,7 @@
     "kubernetes"
    ],
    "status": "active",
-   "score": 1679
+   "score": 1634
   },
   {
    "id": "f681e494ccf04bb12c185723ab6e42da62506a79bc7931c823ac4b78087710cd",
@@ -3383,13 +3524,13 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-08T18:23:25.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1378
+   "score": 1333
   },
   {
    "id": "1e56e271b4602d324ac4ef25c7c21b21c7707ec68a6e472a782d7087ff4712b3",
@@ -3399,30 +3540,65 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-08T18:20:34.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1378
+   "score": 1333
+  },
+  {
+   "id": "4c7496a90a9b73abe1fb45baf2f36b25a0f09f6a24061a3d387d527bc1b769df",
+   "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+   "url": "https://pocketty.app",
+   "canonicalUrl": "https://pocketty.app/",
+   "domain": "pocketty.app",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T18:11:52.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1631
   },
   {
    "id": "9ae2348456dff1aca086a686b1a33e41dc85c77c749ba56182805150b0cb1076",
-   "title": "Theranos.World",
+   "title": "Theranos.world",
    "url": "https://theranos.world",
    "canonicalUrl": "https://www.theranos.world/",
    "domain": "theranos.world",
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T17:51:49.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1673
+   "score": 1628
+  },
+  {
+   "id": "31600c36bc281ae7db58ad23cd5a556f8ca886f0727b12c347f442865f04a560",
+   "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+   "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus",
+   "canonicalUrl": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+   "domain": "blog.janestreet.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T17:39:26.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1626
   },
   {
    "id": "aeda727426a7a43f4ce4ee93da49948cc68d3b8412f8a3a02d4b2ad77f78150f",
@@ -3432,13 +3608,13 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-08T17:29:30.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1369
+   "score": 1324
   },
   {
    "id": "33929f2737b70437fb3d51c095146255bccb4c17fd0d9a43a44648f2476594d0",
@@ -3448,14 +3624,14 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-08T17:24:34.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release",
     "agent"
    ],
    "status": "active",
-   "score": 1368
+   "score": 1324
   },
   {
    "id": "ff6e9590c8f46567d42db4193f6000b8ca4e2122d4785f63746ad4897f8ba855",
@@ -3466,12 +3642,12 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-10-08T17:02:52.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "devtools"
    ],
    "status": "active",
-   "score": 1465
+   "score": 1420
   },
   {
    "id": "8e671fda16b4ef2f8e723ff198d4bee0366e171d5ba2a3096d223acbf9f9eed7",
@@ -3481,13 +3657,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T16:59:39.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1664
+   "score": 1619
   },
   {
    "id": "5601af0cee338532dcdefc2e4780a43ed402d1f892f7d888f6456866beb2c160",
@@ -3505,7 +3681,7 @@
     "openai"
    ],
    "status": "active",
-   "score": 1662
+   "score": 1617
   },
   {
    "id": "4d8b68140620bc6a3a6b343bfb3bde6e9d02ad52fc0ab36c05354813ac652c75",
@@ -3515,13 +3691,30 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T16:37:24.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1660
+   "score": 1616
+  },
+  {
+   "id": "72b6bc9a217a25133e88743676a3ec43abacd63000c86ed6081cd12bd1705985",
+   "title": "Show HN: Jevman – AI decision models play Pac-Man",
+   "url": "https://opper.ai/jevman-benchmark",
+   "canonicalUrl": "https://opper.ai/jevman-benchmark/",
+   "domain": "opper.ai",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T16:34:13.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1615
   },
   {
    "id": "fb3c354fbfe34ef32c712d127b97b573a231b00b6ab8e7fd4654cf6e21b36444",
@@ -3531,13 +3724,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T16:20:20.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1658
+   "score": 1613
   },
   {
    "id": "e23c47b999e69a666db9772b1ca82699a9d30ef911fb97425369d844e82d86e6",
@@ -3547,13 +3740,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-08T16:05:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1355
+   "score": 1310
   },
   {
    "id": "db7b9e6fe248e3146f87743abb423de6e3dc46759771b422f1331a63b0725822",
@@ -3563,13 +3756,13 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-08T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1754
+   "score": 1709
   },
   {
    "id": "f7d3cba37164da53f6cf07866418c4246c5e37fe9e3a2d1bd573973d563aa5a5",
@@ -3585,7 +3778,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1647
+   "score": 1602
   },
   {
    "id": "b64d3220bf49bda963fd576a9b5f1584dba5ff89214a6df54f948489b9802165",
@@ -3601,7 +3794,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1641
+   "score": 1596
   },
   {
    "id": "44dc45513a84d09d8c18a52dc4bc588ef56ae5d75b389e741cd35c84c211c40e",
@@ -3618,7 +3811,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1637
+   "score": 1593
   },
   {
    "id": "cb652019e0f0da52d1e374b55b46211973c60c6088360718f1dff3c7f4b426ed",
@@ -3628,13 +3821,13 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-08T14:17:44.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1337
+   "score": 1292
   },
   {
    "id": "1d2f323076d9222f0d06dc5fbaaff6460b8dd56e39288086e97a7ecda554a359",
@@ -3650,7 +3843,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1637
+   "score": 1592
   },
   {
    "id": "2dc11eaa108ab5fb56bdf5870357fc9de07813e6dbf4fc19e23f57be8a3f251c",
@@ -3667,7 +3860,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1636
+   "score": 1591
   },
   {
    "id": "c1f5c5558bed0e28c7cff17973f3933e1aa39d135d472473793b5587e22dea76",
@@ -3677,13 +3870,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T13:22:01.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1628
+   "score": 1583
   },
   {
    "id": "f18e671902162875b24833a257d27c3b27ba2f7c37a9ae9aab1139af7cf51bed",
@@ -3700,7 +3893,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1626
+   "score": 1581
   },
   {
    "id": "3b06ad8d34be813a4e105543e51837596c9ba1d2d2f2a3bea3fa12600f17c58d",
@@ -3711,12 +3904,12 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-08T13:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "infra"
    ],
    "status": "active",
-   "score": 1424
+   "score": 1379
   },
   {
    "id": "04a7ac99a15b0e1d36a16bda74fba4701942ac4b9bfca1e66218cf005fe89af0",
@@ -3733,7 +3926,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1619
+   "score": 1574
   },
   {
    "id": "c5982e3d365efdc5e55d6de333a7533e841c875d45993ea1eb18e9bd33a1f319",
@@ -3744,13 +3937,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T12:00:20.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1614
+   "score": 1569
   },
   {
    "id": "7253e1f5d3184d305c304d61db15c9636b03d223812ad34c321e2030a537c827",
@@ -3761,13 +3954,13 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-08T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra"
    ],
    "status": "active",
-   "score": 1414
+   "score": 1369
   },
   {
    "id": "8feb36c793c89deb1bd3d943c44069141f3168ba61693536a6b15fda2f541fbc",
@@ -3778,13 +3971,13 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-08T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra"
    ],
    "status": "active",
-   "score": 1414
+   "score": 1369
   },
   {
    "id": "9de6ce5d556c1433285a8dc16967a80e213ba77f4de648aa209acc260a4aae1f",
@@ -3795,14 +3988,14 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-08T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra",
     "agent"
    ],
    "status": "active",
-   "score": 1414
+   "score": 1369
   },
   {
    "id": "ec5fba5271609fcc18159be59084f0fc3400f22cc19f8cb41c5f997d6c54c43d",
@@ -3813,13 +4006,13 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-08T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra"
    ],
    "status": "active",
-   "score": 1414
+   "score": 1369
   },
   {
    "id": "855092fba1df7e8a668bec1b409ac85f8b110a1f64384b826a3381f6d67156e4",
@@ -3829,13 +4022,29 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-08T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1714
+   "score": 1669
+  },
+  {
+   "id": "45d6a2b79938283a07ca47b39fd2409f4bc34d8465757047a15ff56c4f0b15f8",
+   "title": "LegalOn halves Codex costs while maintaining development speed",
+   "url": "https://openai.com/index/legalon-halves-codex-costs",
+   "domain": "openai.com",
+   "sourceId": "openai-blog",
+   "sourceName": "OpenAI Blog",
+   "publishedAt": "2026-10-08T12:00:00.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "openai",
+    "research"
+   ],
+   "status": "active",
+   "score": 1669
   },
   {
    "id": "0c5e10a8ddd47ae2dc1d56e015d2b3d642e1ecf8b73354c056e9e8126e5f510a",
@@ -3852,7 +4061,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1614
+   "score": 1569
   },
   {
    "id": "ab79c9476bd48f06dd992454dc1d71c0ce3c8947e66b48d09a1aff647e6ef296",
@@ -3869,7 +4078,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1609
+   "score": 1564
   },
   {
    "id": "fb51462653842302034b68145b15a89d12138ef073875af55cadb88fb9a48787",
@@ -3880,13 +4089,30 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T10:34:15.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1600
+   "score": 1555
+  },
+  {
+   "id": "aa74ac2170dab17f06240b7e5c2e6468f215c47734752b7f0bb98185ea2d3899",
+   "title": "Yes, and",
+   "url": "https://htmx.org/essays/yes-and",
+   "canonicalUrl": "https://htmx.org/essays/yes-and/",
+   "domain": "htmx.org",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T09:48:18.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1547
   },
   {
    "id": "a9e97d4c7e24e1ee9058965effde42186a4c49d0b590d0efd40795dc3a527d4a",
@@ -3904,7 +4130,7 @@
     "openai"
    ],
    "status": "active",
-   "score": 1589
+   "score": 1544
   },
   {
    "id": "8fdb962b6a49acb6499fc965ba7befc31f969fed32ef8be485844772047b659c",
@@ -3921,7 +4147,7 @@
     "openai"
    ],
    "status": "active",
-   "score": 1576
+   "score": 1531
   },
   {
    "id": "b9495c6bc2f7a5480c2e236f300a59a2b66a1b7d722c941c571a50dba731aa01",
@@ -3938,7 +4164,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1561
+   "score": 1517
   },
   {
    "id": "7e5a424d3e58c44549c4798fdd3f95d9ed433da99d1bddae3622553433f5356a",
@@ -3954,7 +4180,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1561
+   "score": 1516
   },
   {
    "id": "ea21e019aec36b8cbf4b1074aa5f99ed8403faade4686d7fab4a832f42dfcaa0",
@@ -3971,7 +4197,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1559
+   "score": 1514
   },
   {
    "id": "6dbf1b38f0546053ceab3e412ef784255209cb4cde8c9069a1e47878be0599ba",
@@ -3981,13 +4207,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-08T06:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1254
+   "score": 1209
   },
   {
    "id": "5140e5c56ec695ac4eb95553a5f6333573af48dac6e34f2a06446773c0cccbd5",
@@ -4003,7 +4229,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1547
+   "score": 1502
   },
   {
    "id": "9612918e3494c97475647543dde6383051658642b66a1f4c350c02eb8017bae6",
@@ -4019,7 +4245,24 @@
     "community"
    ],
    "status": "active",
-   "score": 1528
+   "score": 1483
+  },
+  {
+   "id": "b10d3ecd6a518725481d8e4d848b6b581a7b485fc15db4248051f0bcf24a98e5",
+   "title": "US man given prison sentence for bot-farming music streams",
+   "url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams",
+   "canonicalUrl": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+   "domain": "thequietus.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-08T01:33:17.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1465
   },
   {
    "id": "ee337b341c53ee7359d73bc2fad0ac5b1709f4a5368adf05e2ea87000d68190f",
@@ -4030,13 +4273,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-08T00:14:48.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1497
+   "score": 1452
   },
   {
    "id": "e1a07c13bbbd548d9d78dcaf37b6fc05a2aa27c5c224be45a33b650077ec7de6",
@@ -4046,13 +4289,13 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-10-08T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "firebase",
     "release"
    ],
    "status": "active",
-   "score": 1494
+   "score": 1449
   },
   {
    "id": "d9e485b409fe8517ac6e3a5ba39a5770caf1a72ddba21f80f7ddf66c5e1760f2",
@@ -4062,13 +4305,13 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-08T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1594
+   "score": 1549
   },
   {
    "id": "7dcaddd2b98841b58bfda6296a77547888768e48fc8489bbb74040e3457a584a",
@@ -4078,13 +4321,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-08T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1194
+   "score": 1149
   },
   {
    "id": "938786061d1b8472a083be6bdfb45976a7f7e43ed92783b70de8fed1a89a7feb",
@@ -4094,14 +4337,14 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-08T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform",
     "openai"
    ],
    "status": "active",
-   "score": 1194
+   "score": 1149
   },
   {
    "id": "1128c281df43f1b80728e384a0e883ed22317f6ac90fc740ad07d55fab394ddf",
@@ -4111,13 +4354,29 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-08T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1194
+   "score": 1149
+  },
+  {
+   "id": "f1eb1fc349e605847fa259af6f78922cdb410a64a502e78f98571e008e21abd4",
+   "title": "Grok Imagine Video 1.5 Lite on AI Gateway",
+   "url": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway",
+   "domain": "vercel.com",
+   "sourceId": "vercel",
+   "sourceName": "Vercel Blog",
+   "publishedAt": "2026-10-08T00:00:00.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "frontend",
+    "platform"
+   ],
+   "status": "active",
+   "score": 1149
   },
   {
    "id": "13369780a74eb8e35b443608fa835d0abf1e0de638f9eee408011c192791504a",
@@ -4128,13 +4387,13 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-07T22:38:50.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "cncf",
     "infra"
    ],
    "status": "active",
-   "score": 1081
+   "score": 1036
   },
   {
    "id": "1531240d03803bbfc2eaddd18b3c29d3acab7982eb834e2ad0320b9e4d62caba",
@@ -4145,13 +4404,13 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-07T21:59:53.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "cncf",
     "infra"
    ],
    "status": "active",
-   "score": 1074
+   "score": 1029
   },
   {
    "id": "c8d133696428ce4dd7622531c155555b51e2172d26db0bd922ff1095d1873629",
@@ -4162,14 +4421,14 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-07T21:33:31.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "cncf",
     "infra",
     "kubernetes"
    ],
    "status": "active",
-   "score": 1070
+   "score": 1025
   },
   {
    "id": "72cf0f84b1ca9b0176ee9b46a2bbe66ee26c2d3bab6e45d59899ced0f69213ef",
@@ -4186,7 +4445,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1468
+   "score": 1424
   },
   {
    "id": "39d2fed3d43463e525e62503e46f563022e4cb8bbf12633c0287a8ee9ee453d9",
@@ -4202,7 +4461,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1467
+   "score": 1422
   },
   {
    "id": "828146232d910f95bffa7edf9d5adddfc2c1784feaf5c783bddd2b8e8cd73b7a",
@@ -4219,7 +4478,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1454
+   "score": 1410
   },
   {
    "id": "71002e274d68ee560dac676cb2226ef167858291c24a02f6c5728b319a63e7d1",
@@ -4236,7 +4495,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1453
+   "score": 1408
   },
   {
    "id": "9b955ce8af2763d0997a43e3b56894e7fe836da4b22dbde734bd62f639326d98",
@@ -4252,7 +4511,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1450
+   "score": 1405
   },
   {
    "id": "4c738646d8140c2b141565d5956134f07c798f9d120144a98abb849b12ac3f11",
@@ -4269,7 +4528,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1445
+   "score": 1400
   },
   {
    "id": "1baae7f6e5e8ab9ed39af28a85b8326fb5e86444cd84cf885513065169294837",
@@ -4286,7 +4545,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1443
+   "score": 1398
   },
   {
    "id": "cf587c03940c086e817c79352be285d72701419cfb1f4d50ebeadbb723f7ad49",
@@ -4303,7 +4562,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1441
+   "score": 1397
   },
   {
    "id": "5f7067d6a591d216175dc0f6234827cfd84a65e8a5122e5d04909b8f1e84dd08",
@@ -4314,13 +4573,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T18:14:41.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1437
+   "score": 1392
   },
   {
    "id": "6b1b69f74c1fd122bfcc0f6ac7bc3275a26ea41d9f5397a9232129602e076da3",
@@ -4338,7 +4597,7 @@
     "anthropic"
    ],
    "status": "active",
-   "score": 1434
+   "score": 1390
   },
   {
    "id": "02c0626ece538b327218ce9011210c9776351eb167d374bcb8c5637a79038479",
@@ -4355,7 +4614,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1434
+   "score": 1389
   },
   {
    "id": "286c732492720fc1292ac0691d116ef8764644af3fee9134fe856ab04a63b4b8",
@@ -4372,7 +4631,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1432
+   "score": 1388
   },
   {
    "id": "daa797ee943974350fccaa4f3fa1205a9777e20bb6bac528a7cbf14d38e472e1",
@@ -4383,12 +4642,12 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-10-07T17:45:34.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "devtools"
    ],
    "status": "active",
-   "score": 1232
+   "score": 1187
   },
   {
    "id": "30e22f72ee41c0cd580c6a053319762645ba32f396938fe8b353544b55e28d12",
@@ -4398,13 +4657,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T17:40:23.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1431
+   "score": 1386
   },
   {
    "id": "36b47dd088318d78417ba60b6368ddb17f8e17f9d512aab620405041c97440ad",
@@ -4420,7 +4679,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1426
+   "score": 1381
   },
   {
    "id": "1657ad18568f7b2f420ae3fbf29aff344ce0f0fe17bd10932f1c1ac3a9d92c4a",
@@ -4430,13 +4689,13 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-07T17:06:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1125
+   "score": 1080
   },
   {
    "id": "92066f2db79f6c5944d37c0b2b2451beb7e7840cf7377bb4857ccb21d8da3951",
@@ -4454,7 +4713,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1424
+   "score": 1379
   },
   {
    "id": "42d2f1f8cc5e42ce75d106ef4a4944f3ef064100ea694aef970d645f7d25debc",
@@ -4464,13 +4723,13 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-07T16:57:04.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 1124
+   "score": 1079
   },
   {
    "id": "ad97b2af46b4512fdfcc77cee1216ba2b82fa62555e548f8022677c9b712b7f9",
@@ -4481,13 +4740,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T16:56:30.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1424
+   "score": 1379
   },
   {
    "id": "0567fdbbc0eed0f542b132232bec6ffc8c428751e7c2873535166c1ac4c4c8a8",
@@ -4498,13 +4757,13 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-07T16:30:36.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "infra",
     "agent"
    ],
    "status": "active",
-   "score": 1219
+   "score": 1175
   },
   {
    "id": "44f2517dfa4362bfa342c6e7f6c49f33a06b9a1c2e93a21a3ad35ec40d42a19f",
@@ -4515,13 +4774,13 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-07T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra"
    ],
    "status": "active",
-   "score": 1214
+   "score": 1169
   },
   {
    "id": "f57e91e0f5d42fe47cad7b0a6e5521ecde2552e3335b3abc32ead0b09561177f",
@@ -4531,13 +4790,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T15:59:41.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1414
+   "score": 1369
   },
   {
    "id": "bac31fb3cbae76b2c0180212ca6477c3b9d33a15f80c6a89ca89f292bb5658a2",
@@ -4554,7 +4813,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1412
+   "score": 1367
   },
   {
    "id": "a14b9629b1f58fffaffa450866a2b112a6b9dae617578d6beb5630d0a86b11cf",
@@ -4571,7 +4830,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1412
+   "score": 1367
   },
   {
    "id": "d9ae5a9e80693cef139c5eb0b68f25516019cd858d06e5fe70ba7d054a6fa848",
@@ -4587,7 +4846,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1408
+   "score": 1364
   },
   {
    "id": "afbbe47018acd7bfe31950cb66f3120fa8bef693c576f9d534df0220d1352841",
@@ -4603,7 +4862,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1408
+   "score": 1363
   },
   {
    "id": "773ed0132b3c7a3abc3695c4fd6f7d040a9432f677187fe87025ec78ebfa0eeb",
@@ -4620,7 +4879,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1407
+   "score": 1362
   },
   {
    "id": "4f97bfcee8be04d0ccd52b9648230646e6df52dc336cc4798ed6e7a3e9ae8012",
@@ -4637,7 +4896,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1406
+   "score": 1361
   },
   {
    "id": "2334aa6b0ade6a573ce32a63d048751227ac4a0fd08c3948f402b50929ce11b1",
@@ -4654,7 +4913,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1406
+   "score": 1361
   },
   {
    "id": "14060b32cd2b11a3cb0e1934b4e02e42e2f769d51e00f2b1da575865ee3a74a6",
@@ -4671,7 +4930,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1405
+   "score": 1360
   },
   {
    "id": "670c9a58d2c46ef0ef432596aa79ffd541b6cec14bc4bea530647533f0982ed2",
@@ -4689,7 +4948,7 @@
     "monitoring"
    ],
    "status": "active",
-   "score": 1397
+   "score": 1353
   },
   {
    "id": "7cd2c96335444524570f1cf3425c2680e055856dea7c737df9b892715a41638b",
@@ -4706,7 +4965,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1397
+   "score": 1352
   },
   {
    "id": "d5683ffff7ecda8c3b608f139e0aa715c82e75641b38461997a41f50417ad556",
@@ -4722,7 +4981,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1396
+   "score": 1351
   },
   {
    "id": "7f0ed2bac3454cd7ab6ca1e57f2a006c6c208e69258c1a78f3a33f558e0e804b",
@@ -4732,13 +4991,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T13:58:05.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1394
+   "score": 1349
   },
   {
    "id": "40382a046861bbaf54c3b002621eceb6ac512f7074130ac690910850710d1b22",
@@ -4754,7 +5013,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1391
+   "score": 1346
   },
   {
    "id": "3ef9e74b1bfeb5827f2edb33581f0b373c5de3249bda9b066bc22d15c1fbf413",
@@ -4771,7 +5030,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1386
+   "score": 1341
   },
   {
    "id": "1bd00d08559609da7dcc16c9faf17c4485add907ae430775c4be4f8eaf9fc039",
@@ -4788,7 +5047,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1384
+   "score": 1339
   },
   {
    "id": "12e9c4c5d0d429a27b3073446e0431bc6b25c10a4d165584eb59f522b2091bd3",
@@ -4805,7 +5064,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1383
+   "score": 1338
   },
   {
    "id": "9239b421e154467aafea20ec8b6aa0365f26d244798c451d534f71902170a45a",
@@ -4816,13 +5075,13 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-07T12:05:16.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "cncf",
     "infra"
    ],
    "status": "active",
-   "score": 975
+   "score": 930
   },
   {
    "id": "6548d458a2ed87aa6cc461958bca6247d46ebf9f7c92141c4c2eccb682ae9150",
@@ -4840,7 +5099,7 @@
     "llm"
    ],
    "status": "active",
-   "score": 1375
+   "score": 1330
   },
   {
    "id": "e04d1da693503b0f1282c2e253e5172059c771fc995159d2f4bd4a20f0f195fa",
@@ -4851,13 +5110,13 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-10-07T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "research"
    ],
    "status": "active",
-   "score": 1274
+   "score": 1229
   },
   {
    "id": "661f64ddb5f472a2675ed75a0fb09828b0ce7323472abe119ea9528dee004ac6",
@@ -4867,13 +5126,13 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-07T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1474
+   "score": 1429
   },
   {
    "id": "d8d38d395f9eac94909c87ba0c4dec5f4f0f8f5799c100cda8c2b64f8ead8437",
@@ -4889,7 +5148,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1369
+   "score": 1324
   },
   {
    "id": "96d307df56097d10bf832cef4415cf27a521b44cb30257eee46abb870e86ff99",
@@ -4905,7 +5164,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1368
+   "score": 1324
   },
   {
    "id": "6457dea63036cb1ce8d0edc48d9ad6ecf2502ccbe5d1bbc713928a3bf78a5638",
@@ -4922,7 +5181,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1358
+   "score": 1313
   },
   {
    "id": "afb98b161de154872e8ee888f5d18577393fef3e4add70f238bc30ace2eaae1b",
@@ -4939,7 +5198,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1353
+   "score": 1308
   },
   {
    "id": "464e8beddd4ae149b95efcdc7d41e4cac0e3abac103f0cbfa1b87a52d0f3d4ba",
@@ -4956,7 +5215,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1347
+   "score": 1302
   },
   {
    "id": "568db588f49472e8cd1e0a625a4c73601dbeedbb532759a46cc0ba235ec6dd25",
@@ -4967,13 +5226,13 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-10-07T07:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "cncf",
     "infra"
    ],
    "status": "active",
-   "score": 924
+   "score": 879
   },
   {
    "id": "4e324623ab7ca6fee0e142410ae1fff634372bb9b83078fd1d25f73483da7134",
@@ -4983,13 +5242,13 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-07T07:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1424
+   "score": 1379
   },
   {
    "id": "d88bfef8fb86093917c3287fb4f724901c4ce2f0aef5b14ad1b7357b73c81cbe",
@@ -5005,7 +5264,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1311
+   "score": 1266
   },
   {
    "id": "47f52aa565d83c9c8d9b0c6b3e19b9ed43641d2cddbd16c53a5e65746f498e91",
@@ -5015,13 +5274,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T05:15:44.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1307
+   "score": 1262
   },
   {
    "id": "c8c4649f074ad75f012803aab64ff093b27ef49d89ab8a3543d0fe7003d28ee5",
@@ -5038,7 +5297,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1300
+   "score": 1256
   },
   {
    "id": "ee6d7c1448c79bfd00b3e27b1fa0252fbbf39d3c10aa1eddb0f20a6e4cb1f64f",
@@ -5054,7 +5313,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1298
+   "score": 1253
   },
   {
    "id": "629a974154458bfdb9a2f476da8c1a2c5bcbbe95956d3d39851e804fe779159b",
@@ -5071,7 +5330,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1291
+   "score": 1247
   },
   {
    "id": "ee4f657a56bd17f5354aafbbe51960ede2bcb32763d4376fff57e2b515e9e7fc",
@@ -5088,7 +5347,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1289
+   "score": 1245
   },
   {
    "id": "3c13b29346ccabdc7c3cf8487d6eb4b63b3747c096f93f586c5416875569b5b8",
@@ -5105,7 +5364,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1287
+   "score": 1242
   },
   {
    "id": "e37bd00497d784fe03593856c81750588397610a9e0441dd1c78360c5fde50f6",
@@ -5121,7 +5380,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1287
+   "score": 1242
   },
   {
    "id": "1f5ece945a26130723834be2deb14d98d09c5a79b9390012eb58bacaa16787b0",
@@ -5139,7 +5398,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1275
+   "score": 1230
   },
   {
    "id": "020a2e848d32ee028829522be2939e2b14c9d95aaa1954cc386dbac1ae7c1ee8",
@@ -5149,13 +5408,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T01:41:03.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1271
+   "score": 1226
   },
   {
    "id": "ba2332934f78900b67ea487a30e13ba08c733031a0c7145f2296d6e80e75a382",
@@ -5171,7 +5430,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1271
+   "score": 1226
   },
   {
    "id": "a44021e286626b6d641c529137a808ed503efbf038205666cc759707d81f9ea4",
@@ -5188,7 +5447,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1269
+   "score": 1224
   },
   {
    "id": "5d492ba0d8e6395efe0111eb4ff888579bfdf0e2a7a4087f117c2cd861f6c838",
@@ -5198,13 +5457,13 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-07T01:24:17.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community"
    ],
    "status": "active",
-   "score": 1268
+   "score": 1223
   },
   {
    "id": "a097ef0d441a7216b7cd0e2333e660cab42270878853c22c33f188284ed638d5",
@@ -5214,13 +5473,13 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-07T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1354
+   "score": 1309
   },
   {
    "id": "a15168f19f544177e87927f3d3adcaf8fb8a7b4e508792bd1d284053041a1d2f",
@@ -5230,13 +5489,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-07T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 954
+   "score": 909
   },
   {
    "id": "9241bb628f048442dd384f32ec45c75c39d13b7674b850df9b58342d1f3a8257",
@@ -5246,14 +5505,14 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-07T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform",
     "openai"
    ],
    "status": "active",
-   "score": 954
+   "score": 909
   },
   {
    "id": "4635ada809008f80b3c344243b4c8f5b3fb36e049451aa488f962637f18b8ed4",
@@ -5263,13 +5522,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-07T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 954
+   "score": 909
   },
   {
    "id": "7fb9e49546b7661a8867231b44a93cd1f21ef8283bfb0f1ac46b8de82f84c564",
@@ -5279,13 +5538,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-07T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 954
+   "score": 909
   },
   {
    "id": "5e892584ea5d43b08ca5a48bc821d268ee6e8bb99c99e91460f777b323297786",
@@ -5295,13 +5554,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-07T00:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 954
+   "score": 909
   },
   {
    "id": "9c7ac1ff51f10e358fbf46bd78adbbac0a5e12c1f4cbb0be904880a2ae7a40ea",
@@ -5318,7 +5577,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1253
+   "score": 1209
   },
   {
    "id": "a8ede1b2b9a25a72eb791848611f5447607baf1744433dbb46b97c969cff346d",
@@ -5336,7 +5595,7 @@
     "agent"
    ],
    "status": "active",
-   "score": 1253
+   "score": 1208
   },
   {
    "id": "393266ea5adfae703a6d57237964ae88e6d4d5181c55e9745430e711b44b5f8f",
@@ -5352,7 +5611,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1249
+   "score": 1204
   },
   {
    "id": "d6de8a58a94cf555e7febe1da0fac81d6f6a0b4be870068772d7c88a70c7ad2c",
@@ -5369,7 +5628,23 @@
     "community"
    ],
    "status": "active",
-   "score": 1249
+   "score": 1204
+  },
+  {
+   "id": "8c06e2dca115ff6a48283bad0b1471a9585817fddacdaf0a791900b029a29276",
+   "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+   "url": "https://news.ycombinator.com/item?id=49985548",
+   "domain": "news.ycombinator.com",
+   "sourceId": "hn",
+   "sourceName": "Hacker News",
+   "publishedAt": "2026-10-06T23:16:56.000Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
+   "tags": [
+    "startup",
+    "community"
+   ],
+   "status": "active",
+   "score": 1202
   },
   {
    "id": "0ee69fe6ea487e00500616daa2d8b47bcac304771f985d27f5ba4700d55555a1",
@@ -5386,7 +5661,7 @@
     "openai"
    ],
    "status": "active",
-   "score": 1247
+   "score": 1202
   },
   {
    "id": "8ec1111cdc4c4f2d4c451c6fb4a504ccd6082c05ca20ccaf44a55cd977745136",
@@ -5402,7 +5677,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1243
+   "score": 1200
   },
   {
    "id": "18b5d6952eaa4038abba7279959482dc7d6648bf31d94f24b0ac9dc98b9a64e1",
@@ -5412,13 +5687,13 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-06T22:37:54.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
    ],
    "status": "active",
-   "score": 941
+   "score": 900
   },
   {
    "id": "e45a7cbd891e714523378c81593fa27d5ac2bcf6f3a222e45928acac35e893d4",
@@ -5434,7 +5709,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1236
+   "score": 1200
   },
   {
    "id": "1c499c21c90afa212ea26bcbae73fd67c820716e2cbc9ca60478dec812b5df5c",
@@ -5451,7 +5726,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1234
+   "score": 1200
   },
   {
    "id": "afdecd136fba8911ef45a98faf181fb7b7faa9f431db79256c43627809420162",
@@ -5467,7 +5742,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1233
+   "score": 1200
   },
   {
    "id": "532ac8fb16bcaba2e00cf1d73f99337a8df2d6d012667fee867db1d8cc1c0aea",
@@ -5483,7 +5758,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1230
+   "score": 1200
   },
   {
    "id": "cbd7ea75fd5495bee139ef209339c925708a5e3aa46a36c5112383c0044baae7",
@@ -5493,14 +5768,14 @@
    "sourceId": "hn",
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-06T21:08:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "startup",
     "community",
     "status"
    ],
    "status": "active",
-   "score": 1226
+   "score": 1200
   },
   {
    "id": "b4388effe8232b37dff1dd10e253a2dfd6f86e72033ba1e011abd99d8eae512d",
@@ -5511,13 +5786,13 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-10-06T20:57:56.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "devtools",
     "agent"
    ],
    "status": "active",
-   "score": 1024
+   "score": 1000
   },
   {
    "id": "f6e419d4eb7036026425d57d61cdd77dce2dd684cf4bc7c275b90eaeb71f4ffb",
@@ -5534,7 +5809,7 @@
     "openai"
    ],
    "status": "active",
-   "score": 1224
+   "score": 1200
   },
   {
    "id": "2e5637e61e39b56bffcd630f4d386909f00ffa0ec556d42a8b095862cb01e51c",
@@ -5551,7 +5826,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1221
+   "score": 1200
   },
   {
    "id": "169458b74c72a7a988266d9201ea74addec00f47050033fd06a633fb7e4f2f24",
@@ -5568,7 +5843,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1221
+   "score": 1200
   },
   {
    "id": "3134f84ea54dc4ea23fe2193a5e02cdf4c91fb15cc15a9e0f57408c825f1408e",
@@ -5585,7 +5860,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1221
+   "score": 1200
   },
   {
    "id": "069f76d54edd397fa04fff54202b895349f1ddfbea57fd7956a7be1498dea8c8",
@@ -5602,7 +5877,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1220
+   "score": 1200
   },
   {
    "id": "caeddb4840c6fa8fcd31464ef05c6df543ee192fd025a683a190af829a88a689",
@@ -5618,7 +5893,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1219
+   "score": 1200
   },
   {
    "id": "855b8d2ed9995db80e4653329774fbf3f0007172d2c87a1f9f5e3035178c4b4f",
@@ -5634,7 +5909,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1216
+   "score": 1200
   },
   {
    "id": "2ee55c894d54d6ef378cd7d1845a6619020ac025413730085d4544511aa3cd8a",
@@ -5645,12 +5920,12 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-10-06T19:57:04.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "research"
    ],
    "status": "active",
-   "score": 1114
+   "score": 1100
   },
   {
    "id": "03b507090cd76ad13b7eeefebba3e2632311003ba38f5a988c2cb868a1602be5",
@@ -5667,7 +5942,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1207
+   "score": 1200
   },
   {
    "id": "b6158a7625215fb58bfbe865469643149f06ab6580d1cbd02ee76847ac662abe",
@@ -5678,14 +5953,14 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-06T19:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra",
     "agent"
    ],
    "status": "active",
-   "score": 1004
+   "score": 1000
   },
   {
    "id": "bb80d48523c945ff288e3164e8a06afc1a265f4c84f921477d082f86a6532291",
@@ -5701,7 +5976,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1203
+   "score": 1200
   },
   {
    "id": "0e3efec68526183d992faab6e0505bdf676e1608af05132dc1aefd18d22160d1",
@@ -5718,7 +5993,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1203
+   "score": 1200
   },
   {
    "id": "ef2a483c89199d0ac5fa4955962e86cdfcd43475dc349538ea48ff8d1d4f276a",
@@ -5734,7 +6009,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1203
+   "score": 1200
   },
   {
    "id": "f1001df747343b30f1a02704d3055c0cbdff7961e9d7e550d277861732cfdabc",
@@ -5744,7 +6019,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-06T18:24:43.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
@@ -5760,7 +6035,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-06T18:21:59.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
@@ -5794,7 +6069,7 @@
    "sourceId": "kubernetes",
    "sourceName": "Kubernetes Blog",
    "publishedAt": "2026-10-06T18:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "kubernetes",
     "infra"
@@ -5811,7 +6086,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-10-06T17:50:11.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "infra"
    ],
@@ -5826,7 +6101,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-10-06T17:19:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "frontend",
     "platform"
@@ -5876,7 +6151,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-06T16:42:33.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
@@ -5959,7 +6234,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-10-06T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "gcp",
     "infra"
@@ -5975,7 +6250,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-06T16:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "openai",
     "research"
@@ -6024,7 +6299,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-10-06T15:44:06.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
+   "ingestedAt": "2026-10-09T01:03:15.410Z",
    "tags": [
     "azure",
     "release"
@@ -6345,274 +6620,6 @@
    "sourceName": "Hacker News",
    "publishedAt": "2026-10-06T12:20:03.000Z",
    "ingestedAt": "2026-10-08T07:08:17.675Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "00427e47df5ef3064509e152a77372922244883355c7072ea1ab24de41848a25",
-   "title": "Sharing AI progress in mathematics",
-   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-   "domain": "openai.com",
-   "sourceId": "openai-blog",
-   "sourceName": "OpenAI Blog",
-   "publishedAt": "2026-10-06T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "openai",
-    "research"
-   ],
-   "status": "active",
-   "score": 1300
-  },
-  {
-   "id": "fadfc7555c0487186e5cdc794d7a9be270aded91a1c63ae782c7be60c8953d17",
-   "title": "Networking for AI inference model serving - GKE only and for all other backends",
-   "url": "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends",
-   "canonicalUrl": "https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/",
-   "domain": "cloud.google.com",
-   "sourceId": "gcp-blog",
-   "sourceName": "Google Cloud Blog",
-   "publishedAt": "2026-10-06T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "gcp",
-    "infra"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "ebb413cc5359756bf9234b81256f87104efa96c0b88df88826702769f053f0a0",
-   "title": "How Jump Trading is scaling quant research with ChatGPT",
-   "url": "https://openai.com/index/jump-trading",
-   "domain": "openai.com",
-   "sourceId": "openai-blog",
-   "sourceName": "OpenAI Blog",
-   "publishedAt": "2026-10-06T12:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "openai",
-    "research"
-   ],
-   "status": "active",
-   "score": 1300
-  },
-  {
-   "id": "99af7b28b36d2549ed8cbd8e2ab70d2e6c5d408b49c666e5399233a479f733d4",
-   "title": "Polars 2.0",
-   "url": "https://pola.rs/posts/release-polars-2",
-   "canonicalUrl": "https://pola.rs/posts/release-polars-2/",
-   "domain": "pola.rs",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T11:59:01.000Z",
-   "ingestedAt": "2026-10-06T21:28:57.694Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "190cbec7e70d090c2d5ce2e2022c89f9c1263d980996db99e94a5de1f59c97ef",
-   "title": "JetBrains reported a net financial loss first time in its tracked history",
-   "url": "https://helgilibrary.com/companies/jetbrains",
-   "canonicalUrl": "https://www.helgilibrary.com/companies/jetbrains",
-   "domain": "helgilibrary.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T11:45:55.000Z",
-   "ingestedAt": "2026-10-06T16:34:53.321Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "2f166e4854e9dc2a184147342759f10256bf7bbedf7c79f02709f5befd4dc90b",
-   "title": "World's First enhanced geothermal power plant completed in just 23 months",
-   "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months",
-   "canonicalUrl": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-   "domain": "techcrunch.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T11:34:14.000Z",
-   "ingestedAt": "2026-10-06T16:34:53.321Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "edf2ea2d1a42405cc818f6c14947eade75481bac532a77d7a8cb353d50ec7c17",
-   "title": "The 2026-2028 CNCF ambassador cohort",
-   "url": "https://cncf.io/blog/2026/10/06/2026-2028-cncf-ambassador-cohort",
-   "canonicalUrl": "https://www.cncf.io/blog/2026/10/06/2026-2028-cncf-ambassador-cohort/",
-   "domain": "cncf.io",
-   "sourceId": "cncf",
-   "sourceName": "CNCF Blog",
-   "publishedAt": "2026-10-06T11:33:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "cncf",
-    "infra"
-   ],
-   "status": "active",
-   "score": 800
-  },
-  {
-   "id": "8485adbbfeefe4933351ea8ef21a2b601cbbcc3097c10f6300c74b868234e208",
-   "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
-   "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
-   "domain": "phys.org",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T11:11:51.000Z",
-   "ingestedAt": "2026-10-06T21:28:57.694Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "3d79967e67618e690893331ebb05d3ded3e10bfaf0bd471f0fc0731097a772c7",
-   "title": "Brownian Motion",
-   "url": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion",
-   "canonicalUrl": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
-   "domain": "gregorygundersen.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T11:11:34.000Z",
-   "ingestedAt": "2026-10-08T07:08:17.675Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "c465d9cbf1848043a192921657f82ceebe07c39b28322888294d8efb82900599",
-   "title": "I'm the AGI that's wiping out humanity",
-   "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
-   "domain": "ajmoon.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T10:59:55.000Z",
-   "ingestedAt": "2026-10-06T21:28:57.694Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "e903d7bf7b2c9da6e8f1e9047ec03897b9e59fdc438d842c53c5caaf2b29dc08",
-   "title": "Why Pendulum had to write the most cursed \"+\" operator in all of Python",
-   "url": "https://dev.arie.bovenberg.net/blog/pendulum-cursed-plus-operator",
-   "canonicalUrl": "https://dev.arie.bovenberg.net/blog/pendulum-cursed-plus-operator/",
-   "domain": "dev.arie.bovenberg.net",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T10:12:31.000Z",
-   "ingestedAt": "2026-10-07T20:30:25.867Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "f57eff9c23a4454b476bbb268bd95c2d23fd7e230b5d7db7db7e5bb00c25353b",
-   "title": "Advancing computer use with Ironclad",
-   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-   "domain": "openai.com",
-   "sourceId": "openai-blog",
-   "sourceName": "OpenAI Blog",
-   "publishedAt": "2026-10-06T10:00:00.000Z",
-   "ingestedAt": "2026-10-08T20:34:23.536Z",
-   "tags": [
-    "openai",
-    "research"
-   ],
-   "status": "active",
-   "score": 1300
-  },
-  {
-   "id": "39984c3e4e05551f40451f38ea4b5450bf2d9ba5608970f051237999135b298b",
-   "title": "Nobel Prize in Physics 2026: Francis Halzen",
-   "url": "https://nobelprize.org/prizes/physics/2026",
-   "canonicalUrl": "https://www.nobelprize.org/prizes/physics/2026/",
-   "domain": "nobelprize.org",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T09:48:46.000Z",
-   "ingestedAt": "2026-10-07T00:59:31.204Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "9b01fc87238082290502ca08cced3ddb4f966ddce940355c60cc4ba33581885d",
-   "title": "Gleam doesn't compile to Erlang source anymore",
-   "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore",
-   "canonicalUrl": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-   "domain": "gleam.run",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T08:08:20.000Z",
-   "ingestedAt": "2026-10-07T00:59:31.204Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "8553a0f4eb74fc89b0488a075240696849a6c8bfb20256f51dd9cdcbe78b8de9",
-   "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-   "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-   "domain": "newsletter.semianalysis.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T07:29:50.000Z",
-   "ingestedAt": "2026-10-06T09:54:03.708Z",
-   "tags": [
-    "startup",
-    "community",
-    "openai",
-    "anthropic"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "fc06d5aa8fc931e9f62ad35c3067a74d827f0bb3e00349287d9d70848fd28cc5",
-   "title": "New repository settings for configuring pull request access",
-   "url": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access",
-   "canonicalUrl": "https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/",
-   "domain": "github.blog",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-10-06T07:01:51.000Z",
-   "ingestedAt": "2026-10-08T14:48:52.095Z",
    "tags": [
     "startup",
     "community"

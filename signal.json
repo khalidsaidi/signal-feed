@@ -1,7 +1,464 @@
 {
- "generatedAt": "2026-11-23T12:14:20.362Z",
+ "generatedAt": "2026-11-24T00:13:13.875Z",
  "pinned": [],
  "top": [
+  {
+   "id": "b0689cf87ab570a441c88635b910134907af4a34b0ffafe4d1af03d0273e75fa",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "domain": "openai.com",
+   "sourceId": "openai-blog",
+   "sourceName": "OpenAI Blog",
+   "publishedAt": "2026-11-23T21:20:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "openai",
+    "research"
+   ],
+   "status": "active",
+   "score": 1771
+  },
+  {
+   "id": "10878202550bbbf922d1872ab8ac87272ec1fb51ba1f61195752ed3c5f3ba59c",
+   "title": "Connected intelligence for in-house legal",
+   "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "domain": "openai.com",
+   "sourceId": "openai-blog",
+   "sourceName": "OpenAI Blog",
+   "publishedAt": "2026-11-23T08:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "openai",
+    "research"
+   ],
+   "status": "active",
+   "score": 1638
+  },
+  {
+   "id": "1259b534687dd8b3171199ff6c1e4d274ef5d072ac6513620703d8171072ee72",
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "domain": "openai.com",
+   "sourceId": "openai-blog",
+   "sourceName": "OpenAI Blog",
+   "publishedAt": "2026-11-23T08:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "openai",
+    "research"
+   ],
+   "status": "active",
+   "score": 1638
+  },
+  {
+   "id": "4f5fe20de68e9dfdec37bc312e73f8b092a226bb2cfacfa2a0e45f240086046a",
+   "title": "A more tailored Google Search that’s uniquely yours",
+   "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+   "canonicalUrl": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "domain": "blog.google",
+   "sourceId": "google-ai-blog",
+   "sourceName": "Google AI",
+   "publishedAt": "2026-11-23T17:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "gcp",
+    "research"
+   ],
+   "status": "active",
+   "score": 1528
+  },
+  {
+   "id": "895b540db6a8889e694ca9f9b509808f44f14c578e93735626eea109f5cda62f",
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+   "canonicalUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "domain": "deepmind.google",
+   "sourceId": "deepmind",
+   "sourceName": "DeepMind",
+   "publishedAt": "2026-11-23T16:59:40.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "research",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1528
+  },
+  {
+   "id": "ac79ea6f11fcdf0a6dda88ec4564fcc07533ac53b7a24c7a648009da34429829",
+   "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
+   "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models",
+   "canonicalUrl": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
+   "domain": "cloud.google.com",
+   "sourceId": "gcp-blog",
+   "sourceName": "Google Cloud Blog",
+   "publishedAt": "2026-11-23T17:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "gcp",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1428
+  },
+  {
+   "id": "ae999653b83615d6ac632f6bb85c8b6697c4c4e6db8b608b950b99b6290f0c29",
+   "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
+   "url": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai",
+   "canonicalUrl": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
+   "domain": "cloud.google.com",
+   "sourceId": "gcp-blog",
+   "sourceName": "Google Cloud Blog",
+   "publishedAt": "2026-11-23T17:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "gcp",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1428
+  },
+  {
+   "id": "db000387489dd7b4a55b09a19cdaf95276df6846f97bd754387c3ed5db0fd108",
+   "title": "Google is named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+   "url": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem",
+   "canonicalUrl": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+   "domain": "cloud.google.com",
+   "sourceId": "gcp-blog",
+   "sourceName": "Google Cloud Blog",
+   "publishedAt": "2026-11-23T17:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "gcp",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1428
+  },
+  {
+   "id": "75859cc12e7735687690bf14f3f9f4e305a19a5a29ccdd3ef9ee0dd5f74e5a6b",
+   "title": "Probing DNS at Cloudflare",
+   "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare",
+   "canonicalUrl": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+   "domain": "blog.cloudflare.com",
+   "sourceId": "cloudflare",
+   "sourceName": "Cloudflare Blog",
+   "publishedAt": "2026-11-23T14:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "infra"
+   ],
+   "status": "active",
+   "score": 1398
+  },
+  {
+   "id": "9830699f0983bb25bb4f3b6fea6b9773e8f667aaa89ff41d74a274b35f6dd54a",
+   "title": "[In preview] Public Preview: Enterprise Knowledge Graph in Foundry IQ",
+   "url": "https://azure.microsoft.com/updates?id=581333",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:16:32.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1371
+  },
+  {
+   "id": "47406a1c991d13109e74d84ccf4a653005603fc8557b51ddfe835787c7639b86",
+   "title": "[In preview] Public Preview: Updated Guardrails experience in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581338",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:15:04.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1370
+  },
+  {
+   "id": "a065813faa422cba43365af3865f79e2e9f37cc2fd5931bedcbc98eba9bf103c",
+   "title": "[In preview] Public Preview: IQ Retriever Zero in Foundry IQ",
+   "url": "https://azure.microsoft.com/updates?id=581343",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:13:44.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1370
+  },
+  {
+   "id": "dccaa57191a9147027996db4009603b1b2374455c85fdb5c117fb60f0d60a3af",
+   "title": "[Launched] Public Preview: Style and instruction control for HD V3 voices in Azure Speech in Foundry Tools",
+   "url": "https://azure.microsoft.com/updates?id=581353",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:12:25.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1370
+  },
+  {
+   "id": "b2d0286d24fe38502671350bbd8a1bafc63eb07acc01fc39dc3bc32453bb69d9",
+   "title": "[In preview] Public Preview: Human annotation for agent evaluations in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581358",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:11:23.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1370
+  },
+  {
+   "id": "51cf70c18b6b06d538809158e1319d9c9a2d29668a82f650ea342a3ec482fc7a",
+   "title": "[Launched] Generally Available: Agent insights in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581363",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:10:07.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1369
+  },
+  {
+   "id": "50b28e012aa315703eb0f420c893015a51583c0a3c556fe1a9ace9b206d31537",
+   "title": "[Launched] Generally Available: Files knowledge source for Foundry IQ",
+   "url": "https://azure.microsoft.com/updates?id=581368",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:08:46.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1369
+  },
+  {
+   "id": "a7d0b9585d99cd911e29f30ff823b5c3d278c82827468ef3b7bf164a026efdae",
+   "title": "[In preview] Public Preview: Call model router without a deployment in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581378",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:32:57.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1363
+  },
+  {
+   "id": "e04ef3a43c23732eba264f401c5212c948ec37d8217e6f55b219dc1fb1058c9b",
+   "title": "[In preview] Public Preview: Use the Messages API with model router in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581383",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:31:40.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1363
+  },
+  {
+   "id": "4b6c84541c738b8745dce1f1fadee6fb2b9fb76636b5f4086fcb84e5e08b961e",
+   "title": "[In preview] Public Preview: Use your model deployments with model router in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581388",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:29:36.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1363
+  },
+  {
+   "id": "1dad8aaa322db89bf46be93c316d0c03fc16ad2e0f537efeb6a66069e206622a",
+   "title": "[Launched] Generally Available: Model router now supports the Responses API protocol in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581393",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:28:24.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1362
+  },
+  {
+   "id": "d113a713fe135861abfc4be55da59553a907d1b26a1a2dcf910913526320047b",
+   "title": "[In preview] Public Preview: Use model router with AI Gateway",
+   "url": "https://azure.microsoft.com/updates?id=581398",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:15:53.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1360
+  },
+  {
+   "id": "705c7e7b27336fbf19af1a02c36465466e8b2524e917f809524b4e3471e41a7a",
+   "title": "[Launched] Generally Available: Deploy hosted agents from your own container registry in Foundry Toolkit for VS Code",
+   "url": "https://azure.microsoft.com/updates?id=581478",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:13:42.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1360
+  },
+  {
+   "id": "32c345a6b7325790dc81270c98a49048dc4b10f9c99b98573bbbb6acd0106ee9",
+   "title": "[Launched] Generally Available: Wildcard domain support in Azure Firewall network rules",
+   "url": "https://azure.microsoft.com/updates?id=582030",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T18:51:31.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1346
+  },
+  {
+   "id": "d4fd12722a5430e8e76b1f17ba68a4e52c6b13939ad397d1f5d00486141d57d2",
+   "title": "Retirement: Azure AI Content Safety selected features will be retired on April 30, 2027",
+   "url": "https://azure.microsoft.com/updates?id=577474",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T18:11:31.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1340
+  },
+  {
+   "id": "e5179b8f4ffb48b950e8c7ae4ec46d3edb6013610351644ca62e9d23677f2da0",
+   "title": "[In preview] Public Preview: Azure Database for PostgreSQL enhanced Burstable tier (Basv2)",
+   "url": "https://azure.microsoft.com/updates?id=574535",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T18:09:39.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1339
+  },
+  {
+   "id": "dfec1af1c30354dbab5e058ac02ecccfef97ef2853029c7ff4c88dad06f205cf",
+   "title": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
+   "url": "https://azure.microsoft.com/updates?id=579280",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T18:02:38.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1338
+  },
+  {
+   "id": "cc2ea1b4ea5b58baad97b22a3f8dd61c51116b6040044a91b1c3323c5c2b6691",
+   "title": "[Launched] Generally Available: WAF Insights for Azure Front Door",
+   "url": "https://azure.microsoft.com/updates?id=579285",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T18:01:19.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1338
+  },
+  {
+   "id": "eae23911357ea50d977536419706629e8d1527e601e58dcfbf2b1f66d172a362",
+   "title": "Kubernetes v1.38 Sneak Peek",
+   "url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek",
+   "canonicalUrl": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+   "domain": "kubernetes.io",
+   "sourceId": "kubernetes",
+   "sourceName": "Kubernetes Blog",
+   "publishedAt": "2026-11-23T16:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "kubernetes",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1318
+  },
   {
    "id": "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c",
    "title": "Perplexity and Intelligence",
@@ -10,61 +467,13 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-22T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1438
-  },
-  {
-   "id": "e35c285beae6bed97e278f703357aabf3b8628bdbe2e7375ca6c75e5a9769b2d",
-   "title": "AI Gateway now runs canary ZDR audits",
-   "url": "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-11-23T06:19:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 1341
-  },
-  {
-   "id": "c37ab7e3f403ce71bb1276204b4c977511098c1a0c0d8220c434744e14b4adea",
-   "title": "Introducing Audited ZDR on AI Gateway",
-   "url": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-11-23T05:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 1328
-  },
-  {
-   "id": "eaed0bf2d9ed1e3168ca029c8ffe9972dc66692a0c210782d8689f24b5b7362a",
-   "title": "Catch missing feature flags before they reach production",
-   "url": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
-   "domain": "vercel.com",
-   "sourceId": "vercel",
-   "sourceName": "Vercel Blog",
-   "publishedAt": "2026-11-23T05:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "frontend",
-    "platform"
-   ],
-   "status": "active",
-   "score": 1328
+   "score": 1318
   },
   {
    "id": "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965",
@@ -74,7 +483,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-20T10:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -90,7 +499,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-20T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -106,7 +515,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-20T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -122,7 +531,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-19T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -138,7 +547,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -154,7 +563,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -170,7 +579,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -186,7 +595,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -202,7 +611,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T10:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -218,7 +627,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -234,7 +643,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -250,7 +659,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -266,7 +675,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T06:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -282,7 +691,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -298,7 +707,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -314,7 +723,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-17T17:45:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -330,7 +739,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-17T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -346,7 +755,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-17T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -362,7 +771,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-17T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -378,7 +787,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-17T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -394,7 +803,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-16T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -410,7 +819,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-16T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -426,7 +835,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-16T12:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -442,7 +851,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-16T09:30:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -458,7 +867,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-16T09:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -474,7 +883,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-16T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -490,7 +899,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-16T06:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research",
@@ -507,7 +916,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-16T06:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -523,7 +932,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-16T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -539,7 +948,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-16T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -555,7 +964,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-15T22:00:01.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -571,7 +980,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-15T22:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -587,7 +996,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-13T15:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -603,7 +1012,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-13T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -619,7 +1028,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-12T20:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -635,7 +1044,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-12T12:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -651,7 +1060,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-12T09:30:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -667,7 +1076,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-12T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -683,7 +1092,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-12T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -699,7 +1108,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-12T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -715,7 +1124,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-11T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -731,7 +1140,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-11T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -747,7 +1156,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-10T12:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -763,7 +1172,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-10T10:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -779,7 +1188,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-10T09:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -795,7 +1204,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-10T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -811,7 +1220,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-10T07:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -827,7 +1236,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-10T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -843,7 +1252,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-09T19:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -859,7 +1268,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-09T13:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -875,7 +1284,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-09T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research",
@@ -892,7 +1301,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-09T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -908,7 +1317,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-09T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -924,7 +1333,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-06T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -940,7 +1349,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-06T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research",
@@ -957,7 +1366,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-05T20:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -973,7 +1382,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-05T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -989,7 +1398,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-05T09:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research",
@@ -1006,7 +1415,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-05T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1022,7 +1431,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-05T02:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1038,7 +1447,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-05T00:45:15.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1054,7 +1463,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-05T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1070,7 +1479,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-04T14:30:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1086,7 +1495,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-04T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1102,7 +1511,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-04T07:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1118,7 +1527,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-04T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1134,7 +1543,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-04T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1150,7 +1559,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-03T12:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1166,7 +1575,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-03T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1182,7 +1591,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-03T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1198,7 +1607,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-03T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1214,7 +1623,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-02T18:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1230,7 +1639,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-02T18:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1246,7 +1655,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-02T15:30:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1262,7 +1671,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-02T15:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1278,7 +1687,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-02T09:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1294,7 +1703,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-02T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1310,7 +1719,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-02T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1326,7 +1735,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-30T09:30:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1342,7 +1751,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-30T09:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1358,7 +1767,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-30T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1374,7 +1783,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-29T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1390,7 +1799,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-29T09:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1406,7 +1815,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-29T07:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1422,7 +1831,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-29T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1438,7 +1847,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-28T19:40:49.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1454,7 +1863,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-28T13:15:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1470,7 +1879,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-28T10:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1486,7 +1895,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-28T09:30:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research",
@@ -1503,7 +1912,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-27T07:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1519,7 +1928,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-27T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1535,7 +1944,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-26T22:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1551,7 +1960,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-26T18:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1567,7 +1976,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-26T14:30:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1583,7 +1992,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-26T13:45:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1599,7 +2008,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-26T10:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1615,7 +2024,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-26T07:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1631,7 +2040,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-10-26T07:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -1640,20 +2049,100 @@
    "score": 1300
   },
   {
-   "id": "100913401905bfb29b493569f7867c7daab76b2a37f7daca273698023051320c",
-   "title": "Choose AI Gateway providers by headquarters country",
-   "url": "https://vercel.com/changelog/choose-ai-gateway-providers-by-headquarters-country",
+   "id": "4e201812e638574988fcc2f2f57db6e12c19d3feee7bffdb62beae03f74348b8",
+   "title": "Custom software, specialized workflows, and other new growth paths from SaaS Platform Summit",
+   "url": "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit",
+   "domain": "stripe.com",
+   "sourceId": "stripe-engineering",
+   "sourceName": "Stripe Blog",
+   "publishedAt": "2026-11-23T00:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "payments",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1258
+  },
+  {
+   "id": "e35c285beae6bed97e278f703357aabf3b8628bdbe2e7375ca6c75e5a9769b2d",
+   "title": "AI Gateway now runs canary ZDR audits",
+   "url": "https://vercel.com/changelog/ai-gateway-now-runs-canary-zdr-audits",
    "domain": "vercel.com",
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
-   "publishedAt": "2026-11-23T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "publishedAt": "2026-11-23T06:19:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1278
+   "score": 1221
+  },
+  {
+   "id": "c37ab7e3f403ce71bb1276204b4c977511098c1a0c0d8220c434744e14b4adea",
+   "title": "Introducing Audited ZDR on AI Gateway",
+   "url": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+   "domain": "vercel.com",
+   "sourceId": "vercel",
+   "sourceName": "Vercel Blog",
+   "publishedAt": "2026-11-23T05:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "frontend",
+    "platform"
+   ],
+   "status": "active",
+   "score": 1208
+  },
+  {
+   "id": "eaed0bf2d9ed1e3168ca029c8ffe9972dc66692a0c210782d8689f24b5b7362a",
+   "title": "Catch missing feature flags before they reach production",
+   "url": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
+   "domain": "vercel.com",
+   "sourceId": "vercel",
+   "sourceName": "Vercel Blog",
+   "publishedAt": "2026-11-23T05:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "frontend",
+    "platform"
+   ],
+   "status": "active",
+   "score": 1208
+  },
+  {
+   "id": "aaf095a83539f55b500cad3e74fe4250a97a1f5211409fd849d2a3546fc4dcb2",
+   "title": "AI Gateway now supports extraction models",
+   "url": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
+   "domain": "vercel.com",
+   "sourceId": "vercel",
+   "sourceName": "Vercel Blog",
+   "publishedAt": "2026-11-23T05:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "frontend",
+    "platform"
+   ],
+   "status": "active",
+   "score": 1208
+  },
+  {
+   "id": "5a96b69c105a774bbe500c8d2ce39a3b38a29041dc5a0c315da4a5db7058b8e0",
+   "title": "Vercel Drives adds CLI commands and standalone SDKs",
+   "url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+   "domain": "vercel.com",
+   "sourceId": "vercel",
+   "sourceName": "Vercel Blog",
+   "publishedAt": "2026-11-23T05:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "frontend",
+    "platform"
+   ],
+   "status": "active",
+   "score": 1208
   },
   {
    "id": "f3637fd2fc590909babfc88a3f5d1be83687cea3503f7d887c2bc0fd7a05981e",
@@ -1670,7 +2159,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1231
+   "score": 1200
   },
   {
    "id": "efa9a42cb346e9e1257e5a8217524eaf7969b9510977c77dfa77097496210309",
@@ -1687,7 +2176,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1230
+   "score": 1200
   },
   {
    "id": "388b65013425467f49c705110fe9ad447742de5a49df9097eb1ca97de7ba3360",
@@ -1704,7 +2193,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1220
+   "score": 1200
   },
   {
    "id": "7edcf5e729c2023916c404a63aa73bd58038441c16aadd7ba29ce1e9987966d7",
@@ -1721,7 +2210,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1204
+   "score": 1200
   },
   {
    "id": "bb79e8e4a0fe9ba772056c096dae82045fb903d6a00a703bb11d48234c6abb8c",
@@ -1738,7 +2227,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1203
+   "score": 1200
   },
   {
    "id": "b8606c68272e2ff2bb29ab501378e45d484ee9ce06b036c655e94dcf66aa3e1e",
@@ -2187,7 +2676,7 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "firebase",
     "release"
@@ -2658,7 +3147,7 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-11-17T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "firebase",
     "release"
@@ -2783,506 +3272,466 @@
    ],
    "status": "active",
    "score": 1200
-  },
+  }
+ ],
+ "latest": [
   {
-   "id": "0808f40cf4de509fe17f71661203e42fa7cd52a61da172ecaaf3bf1f0e4dcada",
-   "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-   "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says",
-   "canonicalUrl": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-   "domain": "arstechnica.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T20:48:08.000Z",
-   "ingestedAt": "2026-11-17T12:53:56.977Z",
+   "id": "b0689cf87ab570a441c88635b910134907af4a34b0ffafe4d1af03d0273e75fa",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "domain": "openai.com",
+   "sourceId": "openai-blog",
+   "sourceName": "OpenAI Blog",
+   "publishedAt": "2026-11-23T21:20:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "startup",
-    "community"
+    "openai",
+    "research"
    ],
    "status": "active",
-   "score": 1200
+   "score": 1771
   },
   {
-   "id": "42b3411634799ed87091bacd7c7b1f7515c6a70c586b6e68c214cf301cdaf1d2",
-   "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-   "url": "https://cs.cmu.edu/learn",
-   "canonicalUrl": "https://www.cs.cmu.edu/learn/",
-   "domain": "cs.cmu.edu",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T20:43:36.000Z",
-   "ingestedAt": "2026-11-17T12:53:56.977Z",
+   "id": "9830699f0983bb25bb4f3b6fea6b9773e8f667aaa89ff41d74a274b35f6dd54a",
+   "title": "[In preview] Public Preview: Enterprise Knowledge Graph in Foundry IQ",
+   "url": "https://azure.microsoft.com/updates?id=581333",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:16:32.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "startup",
-    "community"
+    "azure",
+    "release"
    ],
    "status": "active",
-   "score": 1200
+   "score": 1371
   },
   {
-   "id": "c7269fe254e12ffe2bb8effda2789653ede52dc953696ad136778bfb45fdea7c",
-   "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-   "url": "https://news.ycombinator.com/item?id=50522776",
-   "domain": "news.ycombinator.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T20:29:48.000Z",
-   "ingestedAt": "2026-11-17T12:53:56.977Z",
+   "id": "47406a1c991d13109e74d84ccf4a653005603fc8557b51ddfe835787c7639b86",
+   "title": "[In preview] Public Preview: Updated Guardrails experience in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581338",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:15:04.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "startup",
-    "community"
+    "azure",
+    "release"
    ],
    "status": "active",
-   "score": 1200
+   "score": 1370
   },
   {
-   "id": "f732ad067706771b14a488e23495f1acfcf72d1877afca17fbce05a66e117560",
-   "title": "Chemistry is Actually Geometry",
-   "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-   "domain": "chillphysicsenjoyer.substack.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T20:22:18.000Z",
-   "ingestedAt": "2026-11-17T12:53:56.977Z",
+   "id": "a065813faa422cba43365af3865f79e2e9f37cc2fd5931bedcbc98eba9bf103c",
+   "title": "[In preview] Public Preview: IQ Retriever Zero in Foundry IQ",
+   "url": "https://azure.microsoft.com/updates?id=581343",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:13:44.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "startup",
-    "community"
+    "azure",
+    "release"
    ],
    "status": "active",
-   "score": 1200
+   "score": 1370
   },
   {
-   "id": "0de8d85d5304fad830aa74988aa3b4c582b2ca5d1ea0e98d4c5a9f9441c7d031",
-   "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-   "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-   "domain": "apnews.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T18:31:30.000Z",
-   "ingestedAt": "2026-11-17T12:53:56.977Z",
+   "id": "dccaa57191a9147027996db4009603b1b2374455c85fdb5c117fb60f0d60a3af",
+   "title": "[Launched] Public Preview: Style and instruction control for HD V3 voices in Azure Speech in Foundry Tools",
+   "url": "https://azure.microsoft.com/updates?id=581353",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:12:25.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "startup",
-    "community"
+    "azure",
+    "release"
    ],
    "status": "active",
-   "score": 1200
+   "score": 1370
   },
   {
-   "id": "67dee7074b335d74dc06d145b90483a8d131e229654b0258cb21b384d934b85b",
-   "title": "Grazing sheep in fields with solar arrays",
-   "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-   "domain": "news.cornell.edu",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T17:27:46.000Z",
-   "ingestedAt": "2026-11-17T12:53:56.977Z",
+   "id": "b2d0286d24fe38502671350bbd8a1bafc63eb07acc01fc39dc3bc32453bb69d9",
+   "title": "[In preview] Public Preview: Human annotation for agent evaluations in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581358",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:11:23.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "c75d4e2215d8595ca67630fb37c2c882d338e4ab1ea7f71274ae7a0e5b91d297",
-   "title": "Logitech Harmony IR code online database archive",
-   "url": "https://github.com/pickysysadmin/logitech-harmony-ir-archive",
-   "domain": "github.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T16:56:43.000Z",
-   "ingestedAt": "2026-11-19T10:39:31.451Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "b72af06288489b2b41d987f098bf165533edbb52395f008d02153db039559de7",
-   "title": "Jiff 1.0: A datetime library for Rust",
-   "url": "https://burntsushi.net/jiff",
-   "canonicalUrl": "https://burntsushi.net/jiff/",
-   "domain": "burntsushi.net",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T16:53:39.000Z",
-   "ingestedAt": "2026-11-17T12:53:56.977Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "b958dfe32b3448b8fc84cffeef91b1dd0c5f632a75dad150ba317110cb4844da",
-   "title": "Frame – 31.5\" color ePaper display",
-   "url": "https://trmnl.com/blog/introducing-frame",
-   "domain": "trmnl.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T16:23:22.000Z",
-   "ingestedAt": "2026-11-17T12:53:56.977Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "854904d26da1921d315c3816a65abccf032fa3bd8fd47131be77584f6022a82e",
-   "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
-   "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute",
-   "canonicalUrl": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
-   "domain": "futurumgroup.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T14:59:54.000Z",
-   "ingestedAt": "2026-11-19T10:39:31.451Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "0f1d2d6849c7cc9c34f64506ad63f15442401d095463de5acd97df9462fa0966",
-   "title": "The first ping from Tonga (1997)",
-   "url": "https://colo.to/firstping.html",
-   "domain": "colo.to",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-16T00:01:14.000Z",
-   "ingestedAt": "2026-11-19T10:39:31.451Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "d68cd80a40d5eabff31d5c24b892df254693e212b9fe2b0cba78c3d4e3ba3559",
-   "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-   "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight",
-   "canonicalUrl": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-   "domain": "simpleflying.com",
-   "sourceId": "hn",
-   "sourceName": "Hacker News",
-   "publishedAt": "2026-11-14T09:13:24.000Z",
-   "ingestedAt": "2026-11-21T14:52:19.916Z",
-   "tags": [
-    "startup",
-    "community"
-   ],
-   "status": "active",
-   "score": 1200
-  },
-  {
-   "id": "a44802c82c053c5d5044a1ca0ea8f60799b4878e97da25cb6ce9afd266e4c223",
-   "title": "Introducing Firebase agent skills for Google Analytics",
-   "url": "https://firebase.blog/posts/2026/11/firebase-skills-for-google-analytics",
-   "domain": "firebase.blog",
-   "sourceId": "firebase-releases",
-   "sourceName": "Firebase Blog",
-   "publishedAt": "2026-11-10T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "firebase",
+    "azure",
     "release",
     "agent"
    ],
    "status": "active",
-   "score": 1200
+   "score": 1370
   },
   {
-   "id": "a6f9d9a2c7c58a99b1c064ddbecca1c49009e0f0b5a760cddb5bf20957e2f54b",
-   "title": "Better Notifications with FCM AndroidConfigV2",
-   "url": "https://firebase.blog/posts/2026/11/fcm-android-config-v2",
-   "domain": "firebase.blog",
-   "sourceId": "firebase-releases",
-   "sourceName": "Firebase Blog",
-   "publishedAt": "2026-11-03T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "id": "51cf70c18b6b06d538809158e1319d9c9a2d29668a82f650ea342a3ec482fc7a",
+   "title": "[Launched] Generally Available: Agent insights in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581363",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:10:07.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "firebase",
+    "azure",
+    "release",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1369
+  },
+  {
+   "id": "50b28e012aa315703eb0f420c893015a51583c0a3c556fe1a9ace9b206d31537",
+   "title": "[Launched] Generally Available: Files knowledge source for Foundry IQ",
+   "url": "https://azure.microsoft.com/updates?id=581368",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T21:08:46.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
     "release"
    ],
    "status": "active",
-   "score": 1200
+   "score": 1369
   },
   {
-   "id": "056cf0b58a3dbace68332c5ef6b35e38e3aab513ff13bc25aa1cb803bce8b627",
-   "title": "Introducing Tool Retrieval in the Gemini API",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-   "canonicalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "id": "a7d0b9585d99cd911e29f30ff823b5c3d278c82827468ef3b7bf164a026efdae",
+   "title": "[In preview] Public Preview: Call model router without a deployment in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581378",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:32:57.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1363
+  },
+  {
+   "id": "e04ef3a43c23732eba264f401c5212c948ec37d8217e6f55b219dc1fb1058c9b",
+   "title": "[In preview] Public Preview: Use the Messages API with model router in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581383",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:31:40.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1363
+  },
+  {
+   "id": "4b6c84541c738b8745dce1f1fadee6fb2b9fb76636b5f4086fcb84e5e08b961e",
+   "title": "[In preview] Public Preview: Use your model deployments with model router in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581388",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:29:36.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1363
+  },
+  {
+   "id": "1dad8aaa322db89bf46be93c316d0c03fc16ad2e0f537efeb6a66069e206622a",
+   "title": "[Launched] Generally Available: Model router now supports the Responses API protocol in Microsoft Foundry",
+   "url": "https://azure.microsoft.com/updates?id=581393",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:28:24.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1362
+  },
+  {
+   "id": "d113a713fe135861abfc4be55da59553a907d1b26a1a2dcf910913526320047b",
+   "title": "[In preview] Public Preview: Use model router with AI Gateway",
+   "url": "https://azure.microsoft.com/updates?id=581398",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:15:53.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1360
+  },
+  {
+   "id": "705c7e7b27336fbf19af1a02c36465466e8b2524e917f809524b4e3471e41a7a",
+   "title": "[Launched] Generally Available: Deploy hosted agents from your own container registry in Foundry Toolkit for VS Code",
+   "url": "https://azure.microsoft.com/updates?id=581478",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T20:13:42.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release",
+    "agent"
+   ],
+   "status": "active",
+   "score": 1360
+  },
+  {
+   "id": "32c345a6b7325790dc81270c98a49048dc4b10f9c99b98573bbbb6acd0106ee9",
+   "title": "[Launched] Generally Available: Wildcard domain support in Azure Firewall network rules",
+   "url": "https://azure.microsoft.com/updates?id=582030",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T18:51:31.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1346
+  },
+  {
+   "id": "d4fd12722a5430e8e76b1f17ba68a4e52c6b13939ad397d1f5d00486141d57d2",
+   "title": "Retirement: Azure AI Content Safety selected features will be retired on April 30, 2027",
+   "url": "https://azure.microsoft.com/updates?id=577474",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T18:11:31.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1340
+  },
+  {
+   "id": "e5179b8f4ffb48b950e8c7ae4ec46d3edb6013610351644ca62e9d23677f2da0",
+   "title": "[In preview] Public Preview: Azure Database for PostgreSQL enhanced Burstable tier (Basv2)",
+   "url": "https://azure.microsoft.com/updates?id=574535",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T18:09:39.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1339
+  },
+  {
+   "id": "dfec1af1c30354dbab5e058ac02ecccfef97ef2853029c7ff4c88dad06f205cf",
+   "title": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
+   "url": "https://azure.microsoft.com/updates?id=579280",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T18:02:38.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1338
+  },
+  {
+   "id": "cc2ea1b4ea5b58baad97b22a3f8dd61c51116b6040044a91b1c3323c5c2b6691",
+   "title": "[Launched] Generally Available: WAF Insights for Azure Front Door",
+   "url": "https://azure.microsoft.com/updates?id=579285",
+   "domain": "azure.microsoft.com",
+   "sourceId": "azure-updates",
+   "sourceName": "Azure Updates",
+   "publishedAt": "2026-11-23T18:01:19.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "azure",
+    "release"
+   ],
+   "status": "active",
+   "score": 1338
+  },
+  {
+   "id": "4f5fe20de68e9dfdec37bc312e73f8b092a226bb2cfacfa2a0e45f240086046a",
+   "title": "A more tailored Google Search that’s uniquely yours",
+   "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+   "canonicalUrl": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
    "domain": "blog.google",
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
-   "publishedAt": "2026-11-19T18:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "publishedAt": "2026-11-23T17:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "research"
    ],
    "status": "active",
-   "score": 1100
+   "score": 1528
   },
   {
-   "id": "63610b904de29506452ac1fba7c8cb0b4b76c98f0fb6fd62dc6626d364874233",
-   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-   "canonicalUrl": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-11-19T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "id": "ac79ea6f11fcdf0a6dda88ec4564fcc07533ac53b7a24c7a648009da34429829",
+   "title": "Data + AI Anywhere: AlloyDB Omni integration with local models",
+   "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models",
+   "canonicalUrl": "https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/",
+   "domain": "cloud.google.com",
+   "sourceId": "gcp-blog",
+   "sourceName": "Google Cloud Blog",
+   "publishedAt": "2026-11-23T17:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
-    "research"
+    "infra"
    ],
    "status": "active",
-   "score": 1100
+   "score": 1428
   },
   {
-   "id": "fd9bebbff7e692862dad0cea3083003ab322baa30f38c6a3bb8661b8a80eee16",
-   "title": "Introducing Gemini 4 Neon",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-   "canonicalUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "id": "ae999653b83615d6ac632f6bb85c8b6697c4c4e6db8b608b950b99b6290f0c29",
+   "title": "How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI",
+   "url": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai",
+   "canonicalUrl": "https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/",
+   "domain": "cloud.google.com",
+   "sourceId": "gcp-blog",
+   "sourceName": "Google Cloud Blog",
+   "publishedAt": "2026-11-23T17:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "gcp",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1428
+  },
+  {
+   "id": "db000387489dd7b4a55b09a19cdaf95276df6846f97bd754387c3ed5db0fd108",
+   "title": "Google is named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+   "url": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem",
+   "canonicalUrl": "https://cloud.google.com/blog/products/identity-security/google-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+   "domain": "cloud.google.com",
+   "sourceId": "gcp-blog",
+   "sourceName": "Google Cloud Blog",
+   "publishedAt": "2026-11-23T17:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "gcp",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1428
+  },
+  {
+   "id": "895b540db6a8889e694ca9f9b509808f44f14c578e93735626eea109f5cda62f",
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+   "canonicalUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
    "domain": "deepmind.google",
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
-   "publishedAt": "2026-11-18T21:35:43.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "publishedAt": "2026-11-23T16:59:40.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "research"
+    "research",
+    "agent"
    ],
    "status": "active",
-   "score": 1100
+   "score": 1528
   },
   {
-   "id": "ca9ca0837de1673fe7157c5aacee390a01e91aa92b23247bd7648dbf04542dc2",
-   "title": "Genie 4 is now available",
-   "url": "https://deepmind.google/blog/genie-4-is-now-available",
-   "canonicalUrl": "https://deepmind.google/blog/genie-4-is-now-available/",
-   "domain": "deepmind.google",
-   "sourceId": "deepmind",
-   "sourceName": "DeepMind",
-   "publishedAt": "2026-11-18T18:13:42.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "id": "eae23911357ea50d977536419706629e8d1527e601e58dcfbf2b1f66d172a362",
+   "title": "Kubernetes v1.38 Sneak Peek",
+   "url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek",
+   "canonicalUrl": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+   "domain": "kubernetes.io",
+   "sourceId": "kubernetes",
+   "sourceName": "Kubernetes Blog",
+   "publishedAt": "2026-11-23T16:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "research"
+    "kubernetes",
+    "infra"
    ],
    "status": "active",
-   "score": 1100
+   "score": 1318
   },
   {
-   "id": "0191a8cf5007a7e305ee6ecc84767aeda711b30a6ec196d8a24db74bf6e9ec9a",
-   "title": "The Gemini app is now available on lower-memory Android devices.",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
-   "canonicalUrl": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-11-18T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "id": "75859cc12e7735687690bf14f3f9f4e305a19a5a29ccdd3ef9ee0dd5f74e5a6b",
+   "title": "Probing DNS at Cloudflare",
+   "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare",
+   "canonicalUrl": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+   "domain": "blog.cloudflare.com",
+   "sourceId": "cloudflare",
+   "sourceName": "Cloudflare Blog",
+   "publishedAt": "2026-11-23T14:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "gcp",
-    "research"
+    "infra"
    ],
    "status": "active",
-   "score": 1100
+   "score": 1398
   },
   {
-   "id": "830da74434e8505c737e91eb0dcd32bca128e663d8b67dd821f376fcc24bd3aa",
-   "title": "Put Gemini to work for you",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
-   "canonicalUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-11-17T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "id": "10878202550bbbf922d1872ab8ac87272ec1fb51ba1f61195752ed3c5f3ba59c",
+   "title": "Connected intelligence for in-house legal",
+   "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "domain": "openai.com",
+   "sourceId": "openai-blog",
+   "sourceName": "OpenAI Blog",
+   "publishedAt": "2026-11-23T08:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "gcp",
+    "openai",
     "research"
    ],
    "status": "active",
-   "score": 1100
+   "score": 1638
   },
   {
-   "id": "11608d311d0047796796c8a9dbfb8536ab8ca24d06e0399d24ff383d018c7550",
-   "title": "New Ask Maps features to help with holiday travel and prep",
-   "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-   "canonicalUrl": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-11-16T14:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "id": "1259b534687dd8b3171199ff6c1e4d274ef5d072ac6513620703d8171072ee72",
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "domain": "openai.com",
+   "sourceId": "openai-blog",
+   "sourceName": "OpenAI Blog",
+   "publishedAt": "2026-11-23T08:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
-    "gcp",
+    "openai",
     "research"
    ],
    "status": "active",
-   "score": 1100
+   "score": 1638
   },
-  {
-   "id": "5b69826eead48a963c75ef963ac20caffa1fff8564f7b5d1ca73cdf7b0254da4",
-   "title": "Introducing Gemini 4 Hydrogen",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-   "canonicalUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-   "domain": "deepmind.google",
-   "sourceId": "deepmind",
-   "sourceName": "DeepMind",
-   "publishedAt": "2026-11-12T18:00:50.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "d6d23163b98ddfa1ea7abe70bc203135c9b8d10c4c268a6dbaa304f2c460d6b1",
-   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-   "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-   "canonicalUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-11-12T18:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "gcp",
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "02bfed5e7aa817ea9dcb99d63f8534e8e78ab10e8ae50e00c6e9b6a68bd6b403",
-   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-   "canonicalUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-11-11T18:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "gcp",
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "3d65ccc2f5cdce6978b37fa7c64320f9c0126555eece5a35f17a2f7ec9258a94",
-   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-   "canonicalUrl": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-11-11T16:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "gcp",
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "ba0fcf4e325b4115c73c9ef83ebd1ffebf008c30d8d75edc5ffce3b5226c5537",
-   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-   "canonicalUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-   "domain": "deepmind.google",
-   "sourceId": "deepmind",
-   "sourceName": "DeepMind",
-   "publishedAt": "2026-11-11T15:00:15.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "e09fad6dcc25f1ba697cd45e185fe8f5ec3b5d7d479a5ffc72c9feac3611ce3e",
-   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-   "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-   "canonicalUrl": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-11-11T09:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "gcp",
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "fafff4292c09fd9370c59269226818b22b187de9757f1096f65549cc01bfa598",
-   "title": "Gemini Intelligence: New features, on more devices",
-   "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-   "canonicalUrl": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-11-10T19:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "gcp",
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "55cb0588b3e8436e78b20ba92abf5954e8afdc53ea4465ca363bb0d676246b75",
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
-   "canonicalUrl": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "domain": "deepmind.google",
-   "sourceId": "deepmind",
-   "sourceName": "DeepMind",
-   "publishedAt": "2026-11-10T16:03:47.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  },
-  {
-   "id": "e192e4f92a704298f96f725cc3ae96c30d788d917e1f7b38ef8d7e63567c6b73",
-   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-   "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-   "canonicalUrl": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-   "domain": "blog.google",
-   "sourceId": "google-ai-blog",
-   "sourceName": "Google AI",
-   "publishedAt": "2026-11-10T14:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "gcp",
-    "research"
-   ],
-   "status": "active",
-   "score": 1100
-  }
- ],
- "latest": [
   {
    "id": "e35c285beae6bed97e278f703357aabf3b8628bdbe2e7375ca6c75e5a9769b2d",
    "title": "AI Gateway now runs canary ZDR audits",
@@ -3291,13 +3740,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-23T06:19:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1341
+   "score": 1221
   },
   {
    "id": "c37ab7e3f403ce71bb1276204b4c977511098c1a0c0d8220c434744e14b4adea",
@@ -3307,13 +3756,13 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-23T05:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1328
+   "score": 1208
   },
   {
    "id": "eaed0bf2d9ed1e3168ca029c8ffe9972dc66692a0c210782d8689f24b5b7362a",
@@ -3323,13 +3772,45 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-23T05:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1328
+   "score": 1208
+  },
+  {
+   "id": "aaf095a83539f55b500cad3e74fe4250a97a1f5211409fd849d2a3546fc4dcb2",
+   "title": "AI Gateway now supports extraction models",
+   "url": "https://vercel.com/changelog/ai-gateway-now-supports-extraction-models",
+   "domain": "vercel.com",
+   "sourceId": "vercel",
+   "sourceName": "Vercel Blog",
+   "publishedAt": "2026-11-23T05:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "frontend",
+    "platform"
+   ],
+   "status": "active",
+   "score": 1208
+  },
+  {
+   "id": "5a96b69c105a774bbe500c8d2ce39a3b38a29041dc5a0c315da4a5db7058b8e0",
+   "title": "Vercel Drives adds CLI commands and standalone SDKs",
+   "url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+   "domain": "vercel.com",
+   "sourceId": "vercel",
+   "sourceName": "Vercel Blog",
+   "publishedAt": "2026-11-23T05:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "frontend",
+    "platform"
+   ],
+   "status": "active",
+   "score": 1208
   },
   {
    "id": "100913401905bfb29b493569f7867c7daab76b2a37f7daca273698023051320c",
@@ -3339,13 +3820,29 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-23T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
    ],
    "status": "active",
-   "score": 1278
+   "score": 1158
+  },
+  {
+   "id": "4e201812e638574988fcc2f2f57db6e12c19d3feee7bffdb62beae03f74348b8",
+   "title": "Custom software, specialized workflows, and other new growth paths from SaaS Platform Summit",
+   "url": "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit",
+   "domain": "stripe.com",
+   "sourceId": "stripe-engineering",
+   "sourceName": "Stripe Blog",
+   "publishedAt": "2026-11-23T00:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "payments",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1258
   },
   {
    "id": "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c",
@@ -3355,13 +3852,13 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-22T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
-   "score": 1438
+   "score": 1318
   },
   {
    "id": "f3637fd2fc590909babfc88a3f5d1be83687cea3503f7d887c2bc0fd7a05981e",
@@ -3378,7 +3875,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1231
+   "score": 1200
   },
   {
    "id": "efa9a42cb346e9e1257e5a8217524eaf7969b9510977c77dfa77097496210309",
@@ -3395,7 +3892,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1230
+   "score": 1200
   },
   {
    "id": "388b65013425467f49c705110fe9ad447742de5a49df9097eb1ca97de7ba3360",
@@ -3412,7 +3909,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1220
+   "score": 1200
   },
   {
    "id": "7edcf5e729c2023916c404a63aa73bd58038441c16aadd7ba29ce1e9987966d7",
@@ -3429,7 +3926,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1204
+   "score": 1200
   },
   {
    "id": "bb79e8e4a0fe9ba772056c096dae82045fb903d6a00a703bb11d48234c6abb8c",
@@ -3446,7 +3943,7 @@
     "community"
    ],
    "status": "active",
-   "score": 1203
+   "score": 1200
   },
   {
    "id": "b8606c68272e2ff2bb29ab501378e45d484ee9ce06b036c655e94dcf66aa3e1e",
@@ -3524,7 +4021,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-21T00:45:13.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -3540,7 +4037,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-21T00:43:13.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -3606,7 +4103,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-20T23:16:31.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release",
@@ -3623,7 +4120,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-20T22:58:28.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -3639,7 +4136,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-20T22:56:51.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -3673,7 +4170,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-11-20T20:24:38.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "infra"
    ],
@@ -3705,7 +4202,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-20T20:05:17.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -3739,7 +4236,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-11-20T20:00:45.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "infra"
    ],
@@ -3755,7 +4252,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-11-20T18:49:05.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "aws",
     "infra"
@@ -3822,7 +4319,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-20T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra",
@@ -3840,7 +4337,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-20T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra",
@@ -3858,7 +4355,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-20T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -3875,7 +4372,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-20T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra",
@@ -3893,7 +4390,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-20T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -3910,7 +4407,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-20T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -3927,7 +4424,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-20T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -3944,7 +4441,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-20T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -3961,7 +4458,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-20T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -4061,7 +4558,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-20T13:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -4078,7 +4575,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-11-20T12:30:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "cncf",
     "infra"
@@ -4094,7 +4591,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-20T10:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -4110,7 +4607,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-20T05:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -4127,7 +4624,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-11-20T01:58:29.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "infra"
    ],
@@ -4143,7 +4640,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-11-20T01:10:14.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "aws",
     "infra",
@@ -4160,7 +4657,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-20T00:00:14.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -4176,7 +4673,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-20T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -4192,13 +4689,29 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-20T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
    ],
    "status": "active",
    "score": 1300
+  },
+  {
+   "id": "ee33edaf11afbfa78fb689fc8602a92384903e1c1acb4c2ee0ed23a933604a69",
+   "title": "Vercel completes ISO/IEC 42001:2023 certification",
+   "url": "https://vercel.com/changelog/vercel-completes-iso-iec-42001-2023-certification",
+   "domain": "vercel.com",
+   "sourceId": "vercel",
+   "sourceName": "Vercel Blog",
+   "publishedAt": "2026-11-20T00:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "frontend",
+    "platform"
+   ],
+   "status": "active",
+   "score": 900
   },
   {
    "id": "5d453f693a6f3eb24236eff96c771f89c84ae587eea0e9e1e6465e45d8a5aaf4",
@@ -4208,7 +4721,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-19T23:47:55.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -4224,7 +4737,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-19T23:25:49.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -4241,7 +4754,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-11-19T23:07:30.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "aws",
     "infra"
@@ -4258,7 +4771,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-19T23:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -4274,7 +4787,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-19T20:34:19.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -4291,7 +4804,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-11-19T18:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "research"
@@ -4307,7 +4820,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-19T17:25:28.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release",
@@ -4325,7 +4838,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-11-19T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "research"
@@ -4342,7 +4855,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-19T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -4359,7 +4872,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-19T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra",
@@ -4377,7 +4890,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-19T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -4394,7 +4907,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-19T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -4411,7 +4924,7 @@
    "sourceId": "github-blog",
    "sourceName": "GitHub Blog",
    "publishedAt": "2026-11-19T16:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "devtools"
    ],
@@ -4427,7 +4940,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-11-19T14:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "infra"
    ],
@@ -4443,7 +4956,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-19T14:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra",
@@ -4461,7 +4974,7 @@
    "sourceId": "gcp-blog",
    "sourceName": "Google Cloud Blog",
    "publishedAt": "2026-11-19T14:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "infra"
@@ -4478,7 +4991,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-11-19T11:18:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "cncf",
     "infra",
@@ -4486,6 +4999,23 @@
    ],
    "status": "active",
    "score": 800
+  },
+  {
+   "id": "b314d718183b7cef42ffead9e50d049318f461ee39bad419006a995f6c6b1136",
+   "title": "Introducing the MongoDB Integration for Google's ADK",
+   "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-mongodb-integration-for-googles-adk",
+   "canonicalUrl": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-mongodb-integration-for-googles-adk/",
+   "domain": "cloud.google.com",
+   "sourceId": "gcp-blog",
+   "sourceName": "Google Cloud Blog",
+   "publishedAt": "2026-11-19T11:00:00.000Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
+   "tags": [
+    "gcp",
+    "infra"
+   ],
+   "status": "active",
+   "score": 1000
   },
   {
    "id": "e49bbd7e31887000a0b1a2ff3fe7c36d42e90c9d9a68f7fd5d4dc8044ff7d922",
@@ -4563,7 +5093,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-19T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -4630,7 +5160,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-19T05:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -4646,7 +5176,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-19T05:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform",
@@ -4680,7 +5210,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-19T01:10:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -4697,7 +5227,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-11-19T00:36:23.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "aws",
     "infra"
@@ -4713,7 +5243,7 @@
    "sourceId": "firebase-releases",
    "sourceName": "Firebase Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "firebase",
     "release"
@@ -4729,7 +5259,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -4745,7 +5275,7 @@
    "sourceId": "stripe-engineering",
    "sourceName": "Stripe Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "payments",
     "infra",
@@ -4762,7 +5292,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -4778,7 +5308,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -4794,7 +5324,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -4810,7 +5340,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -4826,7 +5356,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-19T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -4929,7 +5459,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-11-18T22:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "infra"
    ],
@@ -4962,7 +5492,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-11-18T21:35:43.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "research"
    ],
@@ -4995,7 +5525,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-11-18T20:37:39.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "aws",
     "infra"
@@ -5012,7 +5542,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-11-18T20:06:14.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "aws",
     "infra",
@@ -5064,7 +5594,7 @@
    "sourceId": "aws-architecture",
    "sourceName": "AWS Architecture",
    "publishedAt": "2026-11-18T18:35:14.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "aws",
     "infra"
@@ -5080,7 +5610,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-18T18:27:29.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5097,7 +5627,7 @@
    "sourceId": "deepmind",
    "sourceName": "DeepMind",
    "publishedAt": "2026-11-18T18:13:42.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "research"
    ],
@@ -5112,7 +5642,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-18T18:01:03.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5128,7 +5658,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-18T18:00:04.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5144,7 +5674,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-18T17:58:45.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5179,7 +5709,7 @@
    "sourceId": "google-ai-blog",
    "sourceName": "Google AI",
    "publishedAt": "2026-11-18T17:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "gcp",
     "research"
@@ -5402,7 +5932,7 @@
    "sourceId": "cloudflare",
    "sourceName": "Cloudflare Blog",
    "publishedAt": "2026-11-18T14:52:10.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "infra"
    ],
@@ -5470,7 +6000,7 @@
    "sourceId": "cncf",
    "sourceName": "CNCF Blog",
    "publishedAt": "2026-11-18T12:30:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "cncf",
     "infra",
@@ -5487,7 +6017,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T10:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -5503,7 +6033,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -5519,7 +6049,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -5535,7 +6065,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -5551,7 +6081,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-18T08:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -5583,7 +6113,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T06:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -5599,7 +6129,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-18T05:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -5615,7 +6145,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-18T05:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -5681,7 +6211,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-18T00:00:09.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5697,7 +6227,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-18T00:00:09.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release",
@@ -5714,7 +6244,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -5730,7 +6260,7 @@
    "sourceId": "openai-blog",
    "sourceName": "OpenAI Blog",
    "publishedAt": "2026-11-18T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "openai",
     "research"
@@ -5746,7 +6276,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-18T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -5762,7 +6292,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-18T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -5778,7 +6308,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-18T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -5794,7 +6324,7 @@
    "sourceId": "vercel",
    "sourceName": "Vercel Blog",
    "publishedAt": "2026-11-18T00:00:00.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "frontend",
     "platform"
@@ -5826,7 +6356,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T23:52:49.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5842,7 +6372,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T23:51:44.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5858,7 +6388,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T23:50:40.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5874,7 +6404,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T23:47:55.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5890,7 +6420,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T23:46:26.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5906,7 +6436,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T23:44:26.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5922,7 +6452,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T23:42:10.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5938,7 +6468,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T23:07:42.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5954,7 +6484,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T23:00:02.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5970,7 +6500,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T22:54:18.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -5986,7 +6516,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T22:48:10.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release",
@@ -6003,7 +6533,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T22:46:30.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release",
@@ -6020,7 +6550,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T22:43:01.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release",
@@ -6037,7 +6567,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T22:42:06.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
@@ -6053,538 +6583,7 @@
    "sourceId": "azure-updates",
    "sourceName": "Azure Updates",
    "publishedAt": "2026-11-17T22:40:50.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "c6e0a9b2f1864802ce75a545fe5e60afea2af7271bad37039390129e5517adce",
-   "title": "[In preview] Public Preview: Azure SQL DB Hyperscale Cross Database Querying",
-   "url": "https://azure.microsoft.com/updates?id=579221",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T22:35:29.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "7787bed0b70ff687378300f0e37407e958a0f8f161e376903b16792b6297e280",
-   "title": "[Launched] Generally Available: Near-instant provisioning for Azure DocumentDB clusters",
-   "url": "https://azure.microsoft.com/updates?id=579349",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T21:57:41.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "1c0c8699b4e0cdd33c6f53ca47002f81ea91e43db6ebdd5a8fcc45a79ee064b2",
-   "title": "[Launched] Generally Available: Confidential VMs with Intel TDX support on AKS",
-   "url": "https://azure.microsoft.com/updates?id=581130",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T21:00:05.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "f609ad0a64ddd59b62f05c3037051ca5c08bb0a6c5b2fb1a87027a4c04fea606",
-   "title": "[In preview] Public Preview: Confidential VMs with OS Disk Encryption support on AKS",
-   "url": "https://azure.microsoft.com/updates?id=581125",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T21:00:05.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "52b144ca45930c6ded13819f285c06e5334917466ef3a2758673b2ffd7fbcfee",
-   "title": "[In preview] Generally Available: Private endpoint support for Azure HorizonDB clusters",
-   "url": "https://azure.microsoft.com/updates?id=574153",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:56:06.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "77340a27bedd2ef9c86fbefda07742a80274c193fc50600020ee25540fda3c8f",
-   "title": "[In preview] Public Preview: Service tags for inbound rules in network security perimeter",
-   "url": "https://azure.microsoft.com/updates?id=579201",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:52:28.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "de9670c1bd94a89e18a84dcbd78f9102433a296082c152ac1db87c794313fe30",
-   "title": "[In preview] Public Preview: Perimeter link (cross perimeter) in network security perimeter",
-   "url": "https://azure.microsoft.com/updates?id=579206",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:51:13.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "a2bc5591048515b0f8ac5c9c215eb2dec0536b39a07fd3a049608298002d617f",
-   "title": "[In preview] Public Preview: Agent Grid helping secure AI agent communications",
-   "url": "https://azure.microsoft.com/updates?id=580684",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:47:31.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release",
-    "agent"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "31cb132c1fb59edf61049065371026c2bd0afbd63cec768b5427c473933b8b91",
-   "title": "[In preview] Public Preview: Azure Adaptive Virtual Patching",
-   "url": "https://azure.microsoft.com/updates?id=580689",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:29:13.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "fd1c343e334c9780f635a23114d5c697b5255d59ea42e1ca3b7f45af4ed0899c",
-   "title": "[In preview] Public Preview: AI Security add-on for Azure Firewall Premium",
-   "url": "https://azure.microsoft.com/updates?id=580694",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:27:29.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "d83c593f18173328bd3570b1cd0907e026dc951d3d4c06c11b2feb08a834f854",
-   "title": "[In preview] Public Preview: Azure Bastion RDP and SSH vision",
-   "url": "https://azure.microsoft.com/updates?id=580699",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:25:18.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "23f542bdd380a7cbd0a381e95496022e7182c102d4ff0b47428a47a22410103e",
-   "title": "Quad9’s withdrawal from France: A canary in the coal mine",
-   "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france",
-   "canonicalUrl": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-   "domain": "blog.cloudflare.com",
-   "sourceId": "cloudflare",
-   "sourceName": "Cloudflare Blog",
-   "publishedAt": "2026-11-17T20:24:27.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "infra"
-   ],
-   "status": "active",
-   "score": 1000
-  },
-  {
-   "id": "fa566a3c9ab7cebb4b181b2068cadf4e7f09c57d386610189646fa3eb0231926",
-   "title": "[In preview] Public Preview: Azure API Management Application",
-   "url": "https://azure.microsoft.com/updates?id=581277",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:15:03.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "a33be2dfc2ebdb124fa4c65764854dd29707e56e9fe648e640e96b6c81d540f0",
-   "title": "[In preview] Public Preview: Scale ExpressRoute Direct connectivity with link groups",
-   "url": "https://azure.microsoft.com/updates?id=580926",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:15:03.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "53cd5de0a6f48f112b2164a02136c12d2fb2d94860bda9ee219016313a4a9a23",
-   "title": "[In preview] Public Preview: Agent Sandbox cluster extension",
-   "url": "https://azure.microsoft.com/updates?id=580916",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:15:03.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release",
-    "agent"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "278439feac1a0e316d8d4558dd000d9e8bf4ad46aa59ea03f4aacd54b4a830c7",
-   "title": "[Launched] Generally Available: IBM Spectrum LSF integration with Azure Compute Fleet",
-   "url": "https://azure.microsoft.com/updates?id=581259",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "6936f01903c1d7611792c11d1f65cbcc3bb1c1ef6eee251edcdf224252f4a4ae",
-   "title": "[In preview] Public Preview: Azure Artifact Validation for VM images",
-   "url": "https://azure.microsoft.com/updates?id=581249",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "ac87571e234390ad4058f9565fcd4e0000672815d539e2a63d2dcc45db3fc5f3",
-   "title": "[In preview] Public Preview: VM adaptive placement",
-   "url": "https://azure.microsoft.com/updates?id=581244",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "68bf898ce675cf81a5a3ce1b63d227d499e0ba6e42868f463803ceb844b5f1df",
-   "title": "[Launched] Generally Available: Discover Data Guardian from Sovereign Control Panel",
-   "url": "https://azure.microsoft.com/updates?id=581226",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "ce277a6a7c664d9d0351f76e0d2201739e7d20f386c8723811c4fa9562e644dc",
-   "title": "Announcing: Production Touch Ledger (PTL) Assessment Report",
-   "url": "https://azure.microsoft.com/updates?id=581221",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "f50871afdb4402bd99fd1f1d2aceecc05b4ceb2e3842abcf2601697f41312af3",
-   "title": "[In preview] Public Preview: Sovereign Control Panel",
-   "url": "https://azure.microsoft.com/updates?id=581220",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "0419a0177a7b44619071bf78514d3c0f64aa44f5d9524ad80f5f084dd635c651",
-   "title": "[In development] Private Preview: Azure confidential VMs on 5th Gen AMD EPYC processors (DCasv7 and ECasv7 series)",
-   "url": "https://azure.microsoft.com/updates?id=581199",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "43549223a687fc6844b17ce777c5644ebbf7dfe75c316564cd92ad26dc9c4f77",
-   "title": "[In development] Private Preview: Project Nova",
-   "url": "https://azure.microsoft.com/updates?id=581193",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "1091e1b008fb049b92ffbd473eee48f85a48f0badd4adffe534d4df782d4f358",
-   "title": "[Launched] Generally Available: Azure Policy support for Azure HorizonDB",
-   "url": "https://azure.microsoft.com/updates?id=581180",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "41b319f370ff3a13f732a7da58984112fd658b7750a0a89a964f53f68c769521",
-   "title": "[In preview] Public Preview: Azure DDoS Protection peacetime telemetry",
-   "url": "https://azure.microsoft.com/updates?id=581175",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "a8a5f826f7b11aeff0a8c61d1d04f47ae60499573d3eac8f06bf2231314bf03d",
-   "title": "[Launched] Generally Available: Azure HorizonDB System Managed Maintenance Window",
-   "url": "https://azure.microsoft.com/updates?id=581170",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "78050fcd95630a6e2319458ac45a7199115b609609018db914c27e9dc43fd1d7",
-   "title": "[Launched] Generally Available: Azure Linux 4.0",
-   "url": "https://azure.microsoft.com/updates?id=581165",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "3aa372db7adcfcaffce948403a9ae9fbf0b7b6d5242be51059139ffb2d4a9347",
-   "title": "[Launched] Generally Available: Azure Ebsv6 and Ebdsv6",
-   "url": "https://azure.microsoft.com/updates?id=581160",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "774e7293f37d22100cd62465b3dea14fdcc0695fce06ebc919d9ff9eedf4b851",
-   "title": "[In preview] Public Preview: Azure Compute Spot plus",
-   "url": "https://azure.microsoft.com/updates?id=581145",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "f1e14d29cdf903e5c033e4a9de22df4f2cdf9ecbf7bce1d6a11e2d7433595db2",
-   "title": "[Launched] Generally Available: Rename Server in Azure Database for MySQL",
-   "url": "https://azure.microsoft.com/updates?id=581140",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "6d4761e1ce99e7b8e4be8668246efaa4d0bd6bb744837b7ec6e1e8ce607f2e54",
-   "title": "[In preview] Public Preview: Windows Server 2028",
-   "url": "https://azure.microsoft.com/updates?id=581135",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "3315c6562a3ec08f16a2543eefd42fd9c90818b30200cb26af05bf67757fcf4a",
-   "title": "[In preview] Public Preview: Native AWS and Google Cloud support in Azure SRE Agent",
-   "url": "https://azure.microsoft.com/updates?id=580975",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
-   "tags": [
-    "azure",
-    "release",
-    "agent"
-   ],
-   "status": "active",
-   "score": 900
-  },
-  {
-   "id": "87b4ce7099a39853e2ac30d8d2ff2857ea1be96f1c3bfe5468f27c9a5b47f0e4",
-   "title": "[In preview] Public Preview: Pod snapshot cluster extension",
-   "url": "https://azure.microsoft.com/updates?id=580921",
-   "domain": "azure.microsoft.com",
-   "sourceId": "azure-updates",
-   "sourceName": "Azure Updates",
-   "publishedAt": "2026-11-17T20:00:32.000Z",
-   "ingestedAt": "2026-11-23T12:14:20.362Z",
+   "ingestedAt": "2026-11-24T00:13:13.875Z",
    "tags": [
     "azure",
     "release"
